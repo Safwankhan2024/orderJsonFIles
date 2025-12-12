@@ -7,6 +7,9 @@ class OrderApp:
         self.root = root
         self.root.title("JSON File Orderer")
 
+        # Set window size to better utilize 1080p resolution
+        self.root.geometry("800x600")  # Width x Height
+
         # Create UI elements
         self.create_widgets()
 
@@ -14,21 +17,35 @@ class OrderApp:
         self.folder_path = ""
         self.ordered_files = []
 
+        # Drag-and-drop variables
+        self.drag_index = None
+
     def create_widgets(self):
         # Folder selection button
         self.select_folder_btn = tk.Button(self.root, text="Select Folder", command=self.select_folder)
         self.select_folder_btn.pack(pady=10)
 
-        # Listbox to display files
-        self.file_listbox = tk.Listbox(self.root, selectmode=tk.SINGLE, height=20, width=60)
-        self.file_listbox.pack(pady=10)
+        # Frame for listbox and buttons
+        control_frame = tk.Frame(self.root)
+        control_frame.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
 
-        # Buttons for file operations
-        self.up_btn = tk.Button(self.root, text="Move Up", command=self.move_up)
-        self.up_btn.pack(side=tk.LEFT, padx=5)
+        # Listbox to display files with drag-and-drop support
+        self.file_listbox = tk.Listbox(control_frame, selectmode=tk.SINGLE, height=20, width=80)
+        self.file_listbox.pack(side=tk.LEFT, fill=tk.BOTH, expand=True, padx=(0, 10))
+        self.file_listbox.bind('<Button-1>', self.on_listbox_click)
+        self.file_listbox.bind('<B1-Motion>', self.on_listbox_drag)
+        self.file_listbox.bind('<ButtonRelease-1>', self.on_listbox_release)
 
-        self.down_btn = tk.Button(self.root, text="Move Down", command=self.move_down)
-        self.down_btn.pack(side=tk.LEFT, padx=5)
+        # Buttons frame
+        button_frame = tk.Frame(control_frame)
+        button_frame.pack(side=tk.LEFT, fill=tk.Y)
+
+        # Reorder buttons
+        self.up_btn = tk.Button(button_frame, text="Move Up", command=self.move_up)
+        self.up_btn.pack(pady=5, padx=5, fill=tk.X)
+
+        self.down_btn = tk.Button(button_frame, text="Move Down", command=self.move_down)
+        self.down_btn.pack(pady=5, padx=5, fill=tk.X)
 
         # Generate order button
         self.generate_order_btn = tk.Button(self.root, text="Generate Order File", command=self.generate_order_file)
@@ -47,6 +64,36 @@ class OrderApp:
         self.file_listbox.delete(0, tk.END)
         for filename in self.ordered_files:
             self.file_listbox.insert(tk.END, filename)
+
+    def on_listbox_click(self, event):
+        """Start drag operation"""
+        self.drag_index = self.file_listbox.nearest(event.y)
+        self.file_listbox.selection_set(self.drag_index)
+
+    def on_listbox_drag(self, event):
+        """Move item during drag"""
+        if self.drag_index is not None:
+            over_index = self.file_listbox.nearest(event.y)
+
+            # If dragging up
+            if over_index < self.drag_index:
+                selected_item = self.ordered_files.pop(self.drag_index)
+                self.ordered_files.insert(over_index, selected_item)
+                self.update_listbox()
+                self.file_listbox.selection_set(over_index)
+                self.drag_index = over_index
+
+            # If dragging down
+            elif over_index > self.drag_index:
+                selected_item = self.ordered_files.pop(self.drag_index)
+                self.ordered_files.insert(over_index - 1, selected_item)
+                self.update_listbox()
+                self.file_listbox.selection_set(over_index - 1)
+                self.drag_index = over_index - 1
+
+    def on_listbox_release(self, event):
+        """End drag operation"""
+        self.drag_index = None
 
     def move_up(self):
         selected_index = self.file_listbox.curselection()
