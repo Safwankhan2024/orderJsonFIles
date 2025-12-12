@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
+from tkinterdnd2 import DND_FILES, TkinterDnD
 from order_generator import generate_order_file, save_ordered_files
 
 class OrderApp:
@@ -8,7 +9,7 @@ class OrderApp:
         self.root.title("JSON File Orderer")
 
         # Set window size to better utilize 1080p resolution
-        self.root.geometry("1000x700")  # Width x Height
+        self.root.geometry("1200x800")  # Width x Height
 
         # Create UI elements
         self.create_widgets()
@@ -16,10 +17,6 @@ class OrderApp:
         # Variables to store folder path and ordered files
         self.folder_path = ""
         self.ordered_files = []
-
-        # Drag-and-drop variables
-        self.drag_index = None
-        self.drag_start_y = 0
 
     def create_widgets(self):
         # Folder selection button
@@ -31,7 +28,7 @@ class OrderApp:
         control_frame.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
 
         # Listbox to display files with drag-and-drop support
-        self.file_listbox = tk.Listbox(control_frame, selectmode=tk.SINGLE, height=30, width=100)
+        self.file_listbox = tk.Listbox(control_frame, selectmode=tk.SINGLE, height=35, width=120)
         self.file_listbox.pack(side=tk.LEFT, fill=tk.BOTH, expand=True, padx=(0, 10))
 
         # Add vertical scrollbar
@@ -39,10 +36,9 @@ class OrderApp:
         self.scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
         self.file_listbox.config(yscrollcommand=self.scrollbar.set)
 
-        # Bind mouse events for drag-and-drop
-        self.file_listbox.bind('<Button-1>', self.on_listbox_click)
-        self.file_listbox.bind('<B1-Motion>', self.on_listbox_drag)
-        self.file_listbox.bind('<ButtonRelease-1>', self.on_listbox_release)
+        # Enable drag-and-drop for the listbox
+        self.file_listbox.drop_target_register(DND_FILES)
+        self.file_listbox.dnd_bind('<<Drop>>', self.on_drop)
 
         # Buttons frame
         button_frame = tk.Frame(control_frame)
@@ -73,41 +69,19 @@ class OrderApp:
         for filename in self.ordered_files:
             self.file_listbox.insert(tk.END, filename)
 
-    def on_listbox_click(self, event):
-        """Start drag operation"""
-        self.drag_index = self.file_listbox.nearest(event.y)
-        self.file_listbox.selection_set(self.drag_index)
-        self.drag_start_y = event.y
-
-    def on_listbox_drag(self, event):
-        """Move item during drag"""
-        if self.drag_index is not None:
-            over_index = self.file_listbox.nearest(event.y)
-
-            # Calculate direction of movement
-            dy = event.y - self.drag_start_y
-            if abs(dy) > 5:  # Only move if dragged more than 5 pixels
-                if dy < 0 and over_index < self.drag_index:
-                    # Moving up
-                    selected_item = self.ordered_files.pop(self.drag_index)
-                    self.ordered_files.insert(over_index, selected_item)
-                    self.update_listbox()
-                    self.file_listbox.selection_set(over_index)
-                    self.drag_index = over_index
-                elif dy > 0 and over_index >= self.drag_index:
-                    # Moving down
-                    selected_item = self.ordered_files.pop(self.drag_index)
-                    self.ordered_files.insert(over_index - 1, selected_item)
-                    self.update_listbox()
-                    self.file_listbox.selection_set(over_index - 1)
-                    self.drag_index = over_index - 1
-
-                # Update drag start position
-                self.drag_start_y = event.y
-
-    def on_listbox_release(self, event):
-        """End drag operation"""
-        self.drag_index = None
+    def on_drop(self, event):
+        """Handle file drop from external sources"""
+        try:
+            # Get the dropped file path
+            file_path = event.data
+            if file_path.endswith('.json'):
+                # Extract filename and add to ordered files
+                filename = os.path.basename(file_path)
+                self.ordered_files.append(filename)
+                self.update_listbox()
+                messagebox.showinfo("Success", f"Added: {filename}")
+        except Exception as e:
+            messagebox.showerror("Error", str(e))
 
     def move_up(self):
         selected_index = self.file_listbox.curselection()
@@ -141,6 +115,6 @@ class OrderApp:
         messagebox.showinfo("Success", f"New order file created: {new_file_path}")
 
 if __name__ == "__main__":
-    root = tk.Tk()
+    root = TkinterDnD.Tk()  # Use TkinterDnD instead of tk.Tk
     app = OrderApp(root)
     root.mainloop()
