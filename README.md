@@ -1,3 +1,4 @@
+Drag and Drop:
 How to Use the Enhanced Application:
 Run the GUI: Execute order_gui.py to launch the application.
 Select Folder: Click "Select Folder" and choose the directory containing your JSON files.
@@ -6,4 +7,27 @@ Click and hold on an item in the listbox.
 Drag it up or down to reorder.
 Release the mouse button when satisfied with the new position.
 Generate Order File: Once you're done reordering, click "Generate Order File" to create a new ordered file with a timestamp prefix.
+
+Compare files:
+How to use this script:
+Save the script to a Python file (e.g., compare_filenames.py)
+Replace 'list1.txt' and 'list2.txt' with the paths to your actual text files
+Run the script using Python: python compare_filenames.py
+The script will output:
+Filenames that are in the second file but missing from the first file
+Filenames that are in the first file but missing from the second file
+This should help you identify which filename is missing between your two text files.
+
+Rename files to start with 01_, 02_ prefix in a folder according to alphabetical order:
+To use this script:
+Save it to a Python file (e.g., rename_files.py)
+Replace "your_folder_path_here" with the actual path to your folder containing the JSON files
+Run the script: python rename_files.py
+The script will:
+List all files in the directory alphabetically
+Rename each file with a leading 2-digit number (01, 02, 03, etc.)
+Maintain the original filename after the number
+Print out what it renamed for verification
+
+
 
