@@ -19,6 +19,7 @@ class OrderApp:
 
         # Drag-and-drop variables
         self.drag_index = None
+        self.drag_start_y = 0
 
     def create_widgets(self):
         # Folder selection button
@@ -76,27 +77,33 @@ class OrderApp:
         """Start drag operation"""
         self.drag_index = self.file_listbox.nearest(event.y)
         self.file_listbox.selection_set(self.drag_index)
+        self.drag_start_y = event.y
 
     def on_listbox_drag(self, event):
         """Move item during drag"""
         if self.drag_index is not None:
             over_index = self.file_listbox.nearest(event.y)
 
-            # If dragging up
-            if over_index < self.drag_index:
-                selected_item = self.ordered_files.pop(self.drag_index)
-                self.ordered_files.insert(over_index, selected_item)
-                self.update_listbox()
-                self.file_listbox.selection_set(over_index)
-                self.drag_index = over_index
+            # Calculate direction of movement
+            dy = event.y - self.drag_start_y
+            if abs(dy) > 5:  # Only move if dragged more than 5 pixels
+                if dy < 0 and over_index < self.drag_index:
+                    # Moving up
+                    selected_item = self.ordered_files.pop(self.drag_index)
+                    self.ordered_files.insert(over_index, selected_item)
+                    self.update_listbox()
+                    self.file_listbox.selection_set(over_index)
+                    self.drag_index = over_index
+                elif dy > 0 and over_index >= self.drag_index:
+                    # Moving down
+                    selected_item = self.ordered_files.pop(self.drag_index)
+                    self.ordered_files.insert(over_index - 1, selected_item)
+                    self.update_listbox()
+                    self.file_listbox.selection_set(over_index - 1)
+                    self.drag_index = over_index - 1
 
-            # If dragging down
-            elif over_index > self.drag_index:
-                selected_item = self.ordered_files.pop(self.drag_index)
-                self.ordered_files.insert(over_index - 1, selected_item)
-                self.update_listbox()
-                self.file_listbox.selection_set(over_index - 1)
-                self.drag_index = over_index - 1
+                # Update drag start position
+                self.drag_start_y = event.y
 
     def on_listbox_release(self, event):
         """End drag operation"""
