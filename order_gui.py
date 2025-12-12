@@ -8,7 +8,7 @@ class OrderApp:
         self.root.title("JSON File Orderer")
 
         # Set window size to better utilize 1080p resolution
-        self.root.geometry("800x600")  # Width x Height
+        self.root.geometry("1000x700")  # Width x Height
 
         # Create UI elements
         self.create_widgets()
@@ -25,13 +25,20 @@ class OrderApp:
         self.select_folder_btn = tk.Button(self.root, text="Select Folder", command=self.select_folder)
         self.select_folder_btn.pack(pady=10)
 
-        # Frame for listbox and buttons
+        # Frame for listbox and scrollbar
         control_frame = tk.Frame(self.root)
         control_frame.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
 
         # Listbox to display files with drag-and-drop support
-        self.file_listbox = tk.Listbox(control_frame, selectmode=tk.SINGLE, height=20, width=80)
+        self.file_listbox = tk.Listbox(control_frame, selectmode=tk.SINGLE, height=30, width=100)
         self.file_listbox.pack(side=tk.LEFT, fill=tk.BOTH, expand=True, padx=(0, 10))
+
+        # Add vertical scrollbar
+        self.scrollbar = tk.Scrollbar(control_frame, orient=tk.VERTICAL, command=self.file_listbox.yview)
+        self.scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+        self.file_listbox.config(yscrollcommand=self.scrollbar.set)
+
+        # Bind mouse events for drag-and-drop
         self.file_listbox.bind('<Button-1>', self.on_listbox_click)
         self.file_listbox.bind('<B1-Motion>', self.on_listbox_drag)
         self.file_listbox.bind('<ButtonRelease-1>', self.on_listbox_release)
