@@ -29,5 +29,25 @@ Rename each file with a leading 2-digit number (01, 02, 03, etc.)
 Maintain the original filename after the number
 Print out what it renamed for verification
 
+checkbyAI
+it is using deepseek and good prompt, it will iterate same folder and same mcq style and same naming convention
+
+makedocxv11
+it will make a nice docx from the folder
+
+makemd
+this is making a markdown
+
+missingfile
+to compare two txt files to find a missing file
+
+order_generator and gui
+drag and drop custom order, it will be read by the makemd and makedocx
+
+rename
+it will name all files in a folder to _01_ or _02_ etc
+
+sample mcqs
+generate mcqs in this format to be useful
 
 
