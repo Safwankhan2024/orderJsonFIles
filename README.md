@@ -50,4 +50,9 @@ it will name all files in a folder to _01_ or _02_ etc
 sample mcqs
 generate mcqs in this format to be useful
 
+listfilename:
+python script will give a file name in json for all folder and sub folders.
+rem folder:
+then read the output and remove folder instances having the specific file name pattern.
+
 
