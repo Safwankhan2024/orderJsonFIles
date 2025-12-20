@@ -55,4 +55,7 @@ python script will give a file name in json for all folder and sub folders.
 rem folder:
 then read the output and remove folder instances having the specific file name pattern.
 
+added check mcqs:
+the env file should be changed to .env and then add key without quotes and then run checkmcqs, the folder path can be set inside and the openai model can also be set, it is now gpt-5.1
+
 
