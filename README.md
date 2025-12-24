@@ -58,4 +58,7 @@ then read the output and remove folder instances having the specific file name p
 added check mcqs:
 the env file should be changed to .env and then add key without quotes and then run checkmcqs, the folder path can be set inside and the openai model can also be set, it is now gpt-5.1
 
+extract:
+it will copy all files from subfolder into main folder and it will ignore the file having a defined name pattern. This pattern can be defined in the script.
+
 

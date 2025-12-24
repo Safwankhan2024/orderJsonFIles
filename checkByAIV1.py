@@ -11,7 +11,7 @@ from typing import Dict, Any, List
 from datetime import datetime
 
 # === Configuration ===
-FOLDER = Path(r"E:\kindle\mcq_json")  # update to your folder
+FOLDER = Path(r"mcq_json/")  # update to your folder
 DEEPSEEK_API_URL = os.environ.get("DEEPSEEK_API_URL", "https://api.deepseek.com/v1/chat/completions")
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "sk-497a8de3582645e9a52e7a08a49026eb")
 MODEL = "deepseek-chat"  # or "deepseek-coder" if you prefer
