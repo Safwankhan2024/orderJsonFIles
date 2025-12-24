@@ -62,6 +62,6 @@ extract:
 it will copy all files from subfolder into main folder and it will ignore the file having a defined name pattern. This pattern can be defined in the script.
 
 
-orderbyAI:
+sortbyAI:
 this will iterate all json files in the mcq folder and make order.txt inside that folder trying its best to sort
 
