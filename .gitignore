@@ -1,0 +1,48 @@
+# Sample .gitignore file
+
+# Ignore all files ending with .log in any directory
+*.log
+
+# Ignore a specific file named 'config.local.json' in the root directory
+/config.local.json
+
+# Ignore all files in a specific directory named 'temp_data/'
+# The trailing slash ensures it only matches a directory
+temp_data/
+
+# Ignore the entire 'node_modules/' directory (common for Node.js projects)
+# This pattern ignores the directory anywhere in the repository
+node_modules/
+
+# Ignore the entire 'build/' directory in the root
+/build/
+/mcq_json/
+
+
+# Ignore all files with the extension .backup in any directory
+*.backup
+
+# Ignore all files with a specific name, regardless of directory
+error_log
+
+# Ignore a specific file within a known directory
+docs/draft.txt
+Pediatric_Surgery_MCQ_Book.MD
+Pediatric_Surgery_MCQ_Book.md
+Pediatric_Surgery_MCQ_Book.docx
+Pediatric_Surgery_MCQ_Book.DOCX
+file_list_output.json
+file_list_output.JSON
+order.txt
+
+# Exception: ignore everything in the 'data/' folder, but keep a specific file
+# Order matters: ignore everything first, then negate the exception
+/data/*
+!/data/keep_this_file.txt
+
+# Exception: keep a nested subfolder within an ignored parent folder
+# Git doesn't track empty folders, so you might need to add a .gitkeep file inside the subfolder to track it
+/logs/**/*
+!/logs/.gitkeep
+!/logs/important_logs/
+!/logs/important_logs/*
