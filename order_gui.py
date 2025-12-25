@@ -3,22 +3,21 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from pathlib import Path
 from order_generator import (
-    generate_order_file, 
-    save_ordered_files, 
+    generate_initial_order_file,
     parse_order_file,
+    save_ordered_files,
     save_order_txt
 )
 
 class OrderApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("JSON File Orderer")
+        self.root.title("JSON File Orderer - Preserves Original Names")
         self.root.geometry("1200x800")
 
         self.folder_path = ""
-        self.ordered_files = []
+        self.ordered_files = []  # These are the EXACT original filenames
         self.drag_index = None
-        self.filename_mapping = {}
 
         self.create_widgets()
 
@@ -68,10 +67,10 @@ class OrderApp:
         self.folder_path = filedialog.askdirectory()
         if self.folder_path:
             try:
-                order_file_path = generate_order_file(self.folder_path)
-                self.folder_path, self.ordered_files, self.filename_mapping = parse_order_file(order_file_path)
+                order_file_path = generate_initial_order_file(self.folder_path)
+                self.folder_path, self.ordered_files, _ = parse_order_file(order_file_path)
                 self.update_listbox()
-                messagebox.showinfo("Success", f"Loaded folder and generated initial order from {len(self.ordered_files)} files")
+                messagebox.showinfo("Success", f"Loaded {len(self.ordered_files)} files with original names preserved")
             except Exception as e:
                 messagebox.showerror("Error", f"Failed to load files: {e}")
 
@@ -84,9 +83,9 @@ class OrderApp:
         
         if order_file_path:
             try:
-                self.folder_path, self.ordered_files, self.filename_mapping = parse_order_file(order_file_path)
+                self.folder_path, self.ordered_files, _ = parse_order_file(order_file_path)
                 self.update_listbox()
-                messagebox.showinfo("Success", f"Loaded order file with {len(self.ordered_files)} files. Ready to resume sorting!")
+                messagebox.showinfo("Success", f"Loaded order file with {len(self.ordered_files)} files")
             except Exception as e:
                 messagebox.showerror("Error", f"Failed to load order file: {e}")
 
@@ -96,7 +95,9 @@ class OrderApp:
         self.file_listbox.delete(0, tk.END)
         
         for filename in self.ordered_files:
-            self.file_listbox.insert(tk.END, filename)
+            # Display only the filename (not the full path)
+            display_name = Path(filename).name if '/' in filename or '\\' in filename else filename
+            self.file_listbox.insert(tk.END, display_name)
             
         if self.drag_index is not None and self.drag_index < len(self.ordered_files):
             self.file_listbox.selection_set(self.drag_index)
@@ -163,7 +164,7 @@ class OrderApp:
             self.file_listbox.selection_set(index+1)
 
     def generate_order_file(self):
-        """Generate final order file - creates both timestamped backup and main order.txt."""
+        """Generate final order file."""
         if not self.folder_path:
             messagebox.showwarning("Warning", "Please select a folder first or load an order file")
             return
@@ -172,7 +173,7 @@ class OrderApp:
             # Create timestamped backup
             new_file_path = save_ordered_files(self.folder_path, self.ordered_files)
             
-            # Also update main order.txt
+            # Update main order.txt
             order_txt_path = save_order_txt(self.folder_path, self.ordered_files)
             
             messagebox.showinfo("Success", 
