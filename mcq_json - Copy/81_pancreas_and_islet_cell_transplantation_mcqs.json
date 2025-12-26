@@ -1,0 +1,50 @@
+{
+  "disease": "Pancreas and Islet Cell Transplantation",
+  "mcqs": [
+    {
+      "question": "How many pancreas transplantation procedures are performed annually in pediatric patients in the U.S.?",
+      "options": {
+        "A": "Fewer than 10",
+        "B": "Fewer than 30",
+        "C": "Approximately 50",
+        "D": "Over 100"
+      },
+      "correct_answer": "A",
+      "explanation": "Fewer than 10 procedures annually in pediatric patients in the U.S."
+    },
+    {
+      "question": "In a pediatric patient presenting with new-onset Type 1 Diabetes, which of the following symptom constellations is most characteristic?",
+      "options": {
+        "A": "Polyuria, polydipsia, and weight loss",
+        "B": "Hypertension, edema, and proteinuria",
+        "C": "Chest pain, palpitations, and diaphoresis",
+        "D": "Joint pain, morning stiffness, and rash"
+      },
+      "correct_answer": "A",
+      "explanation": "The classic triad of polyuria, polydipsia, and weight loss represents hyperglycemic symptoms characteristic of new-onset Type 1 Diabetes in children."
+    },
+    {
+      "question": "What lab finding is indicative of insulin deficiency in Type 1 Diabetes?",
+      "options": {
+        "A": "C-peptide <0.6 ng/mL",
+        "B": "HbA1c <5.7%",
+        "C": "Fasting glucose <100 mg/dL",
+        "D": "Positive rheumatoid factor"
+      },
+      "correct_answer": "A",
+      "explanation": "A C-peptide level less than 0.6 ng/mL indicates insulin deficiency, which is a specific lab finding for Type 1 Diabetes."
+    },
+    {
+      "question": "Which imaging modality is most commonly used during pre-transplant evaluation to assess vascular anatomy for pancreas transplantation?",
+      "options": {
+        "A": "CT angiography with three-dimensional reconstruction",
+        "B": "Magnetic resonance imaging (MRI) without contrast",
+        "C": "Conventional catheter angiography",
+        "D": "Ultrasound with Doppler flow studies"
+      },
+      "correct_answer": "A",
+      "explanation": "CT angiography provides excellent spatial resolution and rapid acquisition for detailed assessment of arterial and venous anatomy, which is critical for surgical planning in pancreas transplantation."
+    }
+    
+  ]
+}

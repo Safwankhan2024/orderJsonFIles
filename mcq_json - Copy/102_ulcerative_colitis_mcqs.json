@@ -1,0 +1,83 @@
+{
+  "disease": "Ulcerative Colitis",
+  "mcqs": [
+    {
+      "question": "What is the prevailing hypothesis for the etiology of Ulcerative Colitis?",
+      "options": {
+        "A": "Bacterial infection alone",
+        "B": "Autoimmune reaction to self-antigens",
+        "C": "Aberrant immune response to intestinal microbes in a genetically susceptible host",
+        "D": "Dietary factors as the primary cause"
+      },
+      "correct_answer": "C",
+      "explanation": "The exact cause is unknown, but the prevailing hypothesis is that UC results from an aberrant immune response to intestinal microbes in a genetically susceptible host."
+    },
+    {
+      "question": "Which of the following is a histopathological feature of Ulcerative Colitis?",
+      "options": {
+        "A": "Granulomas",
+        "B": "Crypt architectural distortion",
+        "C": "Transmural inflammation",
+        "D": "Skip lesions"
+      },
+      "correct_answer": "B",
+      "explanation": "Histopathological features include crypt architectural distortion, cryptitis, crypt abscesses, basal plasmacytosis, and depletion of goblet cell mucin."
+    },
+    {
+      "question": "How does the inflammation appear in Ulcerative Colitis on gross examination?",
+      "options": {
+        "A": "Continuous from the rectum proximally",
+        "B": "With skip lesions throughout the GI tract",
+        "C": "Primarily in the terminal ileum",
+        "D": "Focal ulcers with normal intervening mucosa"
+      },
+      "correct_answer": "A",
+      "explanation": "Inflammation is continuous from the rectum proximally, with sharp demarcation from uninvolved colon."
+    },
+    {
+      "question": "What is the primary mechanism causing bloody diarrhea in ulcerative colitis?",
+      "options": {
+        "A": "Small bowel malabsorption leading to osmotic diarrhea",
+        "B": "Mucosal inflammation, ulceration, and increased vascular permeability",
+        "C": "Bacterial overgrowth producing toxins",
+        "D": "Bile acid malabsorption causing secretory diarrhea"
+      },
+      "correct_answer": "B",
+      "explanation": "Bloody diarrhea in ulcerative colitis results from mucosal inflammation, ulceration, and increased vascular permeability, leading to bleeding and fluid secretion into the intestinal lumen."
+    },
+    {
+      "question": "Which of the following is an acute complication of Ulcerative Colitis?",
+      "options": {
+        "A": "Colorectal cancer",
+        "B": "Toxic megacolon",
+        "C": "Osteopenia",
+        "D": "Growth failure"
+      },
+      "correct_answer": "B",
+      "explanation": "Acute complications include toxic megacolon, severe hemorrhage, and perforation. Osteopenia and growth failure are chronic complications of UC. Colorectal cancer is a long-term risk."
+    },
+    {
+      "question": "How is Ulcerative Colitis definitively diagnosed?",
+      "options": {
+        "A": "Blood tests for p-ANCA",
+        "B": "Colonoscopy with histopathological examination",
+        "C": "Abdominal ultrasound",
+        "D": "Stool culture"
+      },
+      "correct_answer": "B",
+      "explanation": "Diagnosis is confirmed by colonoscopy with histopathological examination of biopsies from all colonic segments and the terminal ileum."
+    },
+    {
+      "question": "What is a key distinction between Ulcerative Colitis and Crohn's Disease?",
+      "options": {
+        "A": "Presence of bloody diarrhea",
+        "B": "Continuous mucosal inflammation in UC",
+        "C": "Elevated fecal calprotectin",
+        "D": "Association with PSC"
+      },
+      "correct_answer": "B",
+      "explanation": "Key distinction from Crohn's is continuous mucosal inflammation in UC versus transmural inflammation and skip lesions in Crohn's."
+    }
+    
+  ]
+}

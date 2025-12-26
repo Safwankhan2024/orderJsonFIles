@@ -1,0 +1,171 @@
+{
+  "disease": "Megaureter and Prune-Belly Syndrome",
+  "mcqs": [
+    {
+      "question": "What is the defining characteristic of megaureter?",
+      "options": {
+        "A": "Dilated ureter >7 mm in diameter without vesicoureteral reflux or mechanical obstruction",
+        "B": "Refluxing ureter with normal diameter",
+        "C": "Obstructed ureter due to stones",
+        "D": "Congenital bladder anomaly"
+      },
+      "correct_answer": "A",
+      "explanation": "Megaureter is defined as a congenital condition characterized by a dilated ureter greater than 7 mm in diameter in the absence of vesicoureteral reflux or mechanical obstruction."
+    },
+    {
+      "question": "What is the key defect in the pathogenesis of megaureter?",
+      "options": {
+        "A": "Adynamic, aperistaltic segment of the distal ureter",
+        "B": "Vesicoureteral reflux",
+        "C": "Ureteral stone obstruction",
+        "D": "Bladder outlet obstruction"
+      },
+      "correct_answer": "A",
+      "explanation": "The key defect is an adynamic, aperistaltic segment of the distal ureter that fails to propagate urine boluses effectively, causing functional obstruction and proximal dilatation."
+    },
+    {
+      "question": "What is the initial management approach for an asymptomatic infant diagnosed with primary non-refluxing non-obstructive megaureter?",
+      "options": {
+        "A": "Immediate surgical intervention with ureteral reimplantation",
+        "B": "Non-operative surveillance with regular ultrasound monitoring",
+        "C": "Antibiotic prophylaxis and close observation",
+        "D": "Percutaneous nephrostomy placement"
+      },
+      "correct_answer": "B",
+      "explanation": "Most cases of primary non-refluxing non-obstructive megaureter in asymptomatic infants are managed conservatively with surveillance, as spontaneous improvement occurs in 85-95% of cases without intervention."
+    },
+    {
+      "question": "What is the success rate of open ureteral reimplantation for megaureter?",
+      "options": {
+        "A": "50-60%",
+        "B": "70-80%",
+        "C": "85-95%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Open ureteral reimplantation has a success rate of 85-95%."
+    },
+    {
+      "question": "What is the classic triad of findings in Prune-Belly Syndrome?",
+      "options": {
+        "A": "Deficiency of abdominal wall muscles, undescended testes, and urinary tract dilatation",
+        "B": "Heart defects, lung issues, and kidney stones",
+        "C": "Skin rash, fever, and cough",
+        "D": "Bladder cancer, testicular pain, and hematuria"
+      },
+      "correct_answer": "A",
+      "explanation": "Prune-Belly Syndrome is characterized by a triad of deficiency of abdominal wall muscles, undescended testes, and urinary tract dilatation."
+    },
+    {
+      "question": "What is the predominant theory for the etiology of Prune-Belly Syndrome?",
+      "options": {
+        "A": "Viral infection during pregnancy",
+        "B": "Mesodermal developmental field defect",
+        "C": "Single gene mutation in all cases",
+        "D": "Nutritional deficiency"
+      },
+      "correct_answer": "B",
+      "explanation": "The predominant theory is a mesodermal developmental field defect occurring between the 6th and 10th weeks of gestation."
+    },
+    {
+      "question": "What percentage of Prune-Belly Syndrome cases are male?",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "Over 95%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Prune-Belly Syndrome has a striking male predominance, representing over 95% of cases."
+    },
+    {
+      "question": "What might a neonate with Prune-Belly Syndrome present with?",
+      "options": {
+        "A": "Potter facies and respiratory distress",
+        "B": "Jaundice and fever",
+        "C": "Seizures",
+        "D": "Rash"
+      },
+      "correct_answer": "A",
+      "explanation": "In neonates, Prune-Belly Syndrome may present with Potter facies from oligohydramnios and respiratory distress."
+    },
+    {
+      "question": "Which cardiac anomaly is associated with Prune-Belly Syndrome?",
+      "options": {
+        "A": "Atrial septal defect",
+        "B": "Patent ductus arteriosus",
+        "C": "Coronary artery disease",
+        "D": "Aortic stenosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Associated cardiac anomalies in Prune-Belly Syndrome include patent ductus arteriosus."
+    },
+    {
+      "question": "What is a major complication of Prune-Belly Syndrome?",
+      "options": {
+        "A": "Chronic kidney disease",
+        "B": "Diabetes",
+        "C": "Hypertension",
+        "D": "Asthma"
+      },
+      "correct_answer": "A",
+      "explanation": "Complications of Prune-Belly Syndrome include chronic kidney disease and end-stage renal disease."
+    },
+    {
+      "question": "What is the prevalence of vesicoureteral reflux in Prune-Belly Syndrome patients?",
+      "options": {
+        "A": "Less than 10%",
+        "B": "25-50%",
+        "C": "Greater than 75%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Vesicoureteral reflux is present in greater than 75% of Prune-Belly Syndrome patients."
+    },
+    {
+      "question": "What does Category 1 in the Eagle-Barrett classification of Prune-Belly Syndrome indicate?",
+      "options": {
+        "A": "Mild form with minimal urologic dysfunction",
+        "B": "Severe renal dysplasia and pulmonary hypoplasia, fatal in neonatal period",
+        "C": "Survival past neonatal period with functional abnormalities",
+        "D": "No urologic issues"
+      },
+      "correct_answer": "B",
+      "explanation": "Category 1 in the Eagle-Barrett classification involves severe renal dysplasia and pulmonary hypoplasia and is fatal in the neonatal period."
+    },
+    {
+      "question": "At what age is orchiopexy typically performed in Prune-Belly Syndrome?",
+      "options": {
+        "A": "At birth",
+        "B": "Between 6-12 months",
+        "C": "After 5 years",
+        "D": "Never"
+      },
+      "correct_answer": "B",
+      "explanation": "Orchiopexy in Prune-Belly Syndrome is typically performed between 6-12 months of age."
+    },
+    {
+      "question": "During which gestational period does the abnormal recanalization of the ureteric bud occur in primary megaureter?",
+      "options": {
+        "A": "Between 4th and 8th weeks of gestation",
+        "B": "Between 12th and 16th weeks of gestation",
+        "C": "During the third trimester",
+        "D": "Postnatally during infancy"
+      },
+      "correct_answer": "A",
+      "explanation": "Primary megaureter results from abnormal recanalization of the ureteric bud during the 4th to 8th week of gestation, leading to an adynamic distal ureteral segment that causes functional obstruction."
+    },
+    {
+      "question": "What causes the urinary tract dilatation in Prune-Belly Syndrome?",
+      "options": {
+        "A": "Functional bladder outflow obstruction and dysplastic, aperistaltic ureters",
+        "B": "Kidney stones",
+        "C": "Infection",
+        "D": "Trauma"
+      },
+      "correct_answer": "A",
+      "explanation": "The urinary tract dilatation in Prune-Belly Syndrome is due to functional bladder outflow obstruction and dysplastic, aperistaltic ureters."
+    }
+    
+  ]
+}

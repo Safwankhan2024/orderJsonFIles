@@ -1,0 +1,71 @@
+{
+  "disease": "Crohn's Disease",
+  "mcqs": [
+    {
+      "question": "What is the characteristic feature of Crohn's disease as defined in the text?",
+      "options": {
+        "A": "Continuous inflammation limited to the colon",
+        "B": "Discontinuous, segmental inflammation affecting any part of the GI tract",
+        "C": "Inflammation only in the small intestine",
+        "D": "Autoimmune disorder without genetic predisposition"
+      },
+      "correct_answer": "B",
+      "explanation": "Crohn's disease is characterized by discontinuous, segmental inflammation that can affect any part of the gastrointestinal tract from mouth to anus."
+    },
+    {
+      "question": "What is the believed etiology of Crohn's disease?",
+      "options": {
+        "A": "Caused by a single identified pathogen",
+        "B": "Result of an aberrant immune response to intestinal microbiota in genetically susceptible individuals",
+        "C": "Due solely to dietary factors",
+        "D": "Caused by viral infections"
+      },
+      "correct_answer": "B",
+      "explanation": "The exact cause is unknown, but it is believed to result from an aberrant immune response to intestinal microbiota in genetically susceptible individuals, with no single pathogen consistently identified."
+    },
+    {
+      "question": "What is a common sign found on physical examination in Crohn's disease?",
+      "options": {
+        "A": "Hepatomegaly",
+        "B": "Perianal fissures or fistulas",
+        "C": "Splenomegaly",
+        "D": "Jaundice"
+      },
+      "correct_answer": "B",
+      "explanation": "Signs include perianal fissures/fistulas, abdominal tenderness, palpable mass in right lower quadrant, and clubbing."
+    },
+    {
+      "question": "Which extraintestinal manifestation occurs in 10-20% of pediatric Crohn's disease patients?",
+      "options": {
+        "A": "Uveitis",
+        "B": "Arthritis",
+        "C": "Primary sclerosing cholangitis",
+        "D": "Erythema nodosum"
+      },
+      "correct_answer": "B",
+      "explanation": "Arthritis occurs in 10-20% of patients, while primary sclerosing cholangitis is in 5-10%."
+    },
+    {
+      "question": "Which non-invasive laboratory test has the highest sensitivity for detecting active intestinal inflammation in pediatric Crohn's disease?",
+      "options": {
+        "A": "Erythrocyte sedimentation rate (ESR)",
+        "B": "C-reactive protein (CRP)",
+        "C": "Fecal calprotectin",
+        "D": "Anti-Saccharomyces cerevisiae antibodies (ASCA)"
+      },
+      "correct_answer": "C",
+      "explanation": "Fecal calprotectin >100 μg/g has a sensitivity of 85-90% for detecting mucosal inflammation and is preferred as a non-invasive marker over serologic tests like ASCA."
+    },
+    {
+      "question": "What is the goal of management in pediatric Crohn's disease?",
+      "options": {
+        "A": "Cure the disease",
+        "B": "Induce and maintain remission, promote growth, minimize complications",
+        "C": "Only manage symptoms",
+        "D": "Prevent all surgeries"
+      },
+      "correct_answer": "B",
+      "explanation": "The goal is to induce and maintain remission, promote growth, and minimize complications."
+    }
+  ]
+}

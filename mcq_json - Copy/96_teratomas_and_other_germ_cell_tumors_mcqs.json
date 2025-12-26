@@ -1,0 +1,127 @@
+{
+  "disease": "Teratomas and Other Germ Cell Tumors",
+  "mcqs": [
+    {
+      "question": "Which of the following is NOT a type of germ cell tumor?",
+      "options": {
+        "A": "Teratoma",
+        "B": "Yolk sac tumor",
+        "C": "Neuroblastoma",
+        "D": "Germinoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Neuroblastoma is a neuroblastic tumor derived from neural crest cells, not a germ cell tumor. Germ cell tumors include teratomas, yolk sac tumors, germinomas, and others."
+    },
+    {
+      "question": "Which is a non-modifiable risk factor for testicular germ cell tumors?",
+      "options": {
+        "A": "Cryptorchidism",
+        "B": "Smoking",
+        "C": "Alcohol consumption",
+        "D": "Obesity"
+      },
+      "correct_answer": "A",
+      "explanation": "Cryptorchidism is a non-modifiable risk factor for testicular germ cell tumors."
+    },
+    {
+      "question": "What might a teratoma typically contain?",
+      "options": {
+        "A": "Hair and bone",
+        "B": "Areas of hemorrhage and necrosis",
+        "C": "Fleshy solid mass",
+        "D": "Hyaline globules"
+      },
+      "correct_answer": "A",
+      "explanation": "Teratomas are complex, cystic and solid masses often containing hair, sebaceous material, bone, or teeth."
+    },
+    {
+      "question": "How do malignant germ cell tumors primarily metastasize?",
+      "options": {
+        "A": "Via lymphatics only",
+        "B": "Hematogenously only",
+        "C": "Both hematogenously and via lymphatics",
+        "D": "Direct extension only"
+      },
+      "correct_answer": "C",
+      "explanation": "Malignant germ cell tumors can metastasize hematogenously (e.g., to lungs and liver) or via lymphatics."
+    },
+    {
+      "question": "Which symptom is associated with mediastinal germ cell tumors?",
+      "options": {
+        "A": "Abdominal pain",
+        "B": "Cough and chest pain",
+        "C": "Painless scrotal mass",
+        "D": "Headache and vomiting"
+      },
+      "correct_answer": "B",
+      "explanation": "Mediastinal germ cell tumors can present with cough, chest pain, dyspnea, and superior vena cava syndrome."
+    },
+    {
+      "question": "Which syndrome is strongly associated with mediastinal germ cell tumors?",
+      "options": {
+        "A": "Currarino syndrome",
+        "B": "Klinefelter syndrome",
+        "C": "Swyer syndrome",
+        "D": "Down syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Klinefelter syndrome (47,XXY) is strongly associated with mediastinal germ cell tumors."
+    },
+    {
+      "question": "Which tumor marker is characteristically elevated in yolk sac tumors (endodermal sinus tumors)?",
+      "options": {
+        "A": "Alpha-fetoprotein (AFP)",
+        "B": "Beta-human chorionic gonadotropin (β-hCG)",
+        "C": "Lactate dehydrogenase (LDH)",
+        "D": "Carcinoembryonic antigen (CEA)"
+      },
+      "correct_answer": "A",
+      "explanation": "Yolk sac tumors produce alpha-fetoprotein (AFP), which serves as a useful diagnostic and monitoring marker. β-hCG is elevated in choriocarcinoma and some germinomas."
+    },
+    {
+      "question": "What is the standard chemotherapy regimen for intermediate/high-risk malignant germ cell tumors?",
+      "options": {
+        "A": "PEB (Bleomycin, Etoposide, Cisplatin)",
+        "B": "ABVD (Adriamycin, Bleomycin, Vinblastine, Dacarbazine)",
+        "C": "CHOP (Cyclophosphamide, Hydroxydaunorubicin, Oncovin, Prednisone)",
+        "D": "VAC (Vincristine, Actinomycin D, Cyclophosphamide)"
+      },
+      "correct_answer": "A",
+      "explanation": "The PEB regimen (Bleomycin, Etoposide, Cisplatin) is standard for intermediate/high-risk malignant germ cell tumors."
+    },
+    {
+      "question": "What surgical procedure is critical to prevent recurrence in sacrococcygeal teratoma?",
+      "options": {
+        "A": "Coccygectomy",
+        "B": "Lymph node dissection",
+        "C": "Orchiectomy",
+        "D": "Oophorectomy"
+      },
+      "correct_answer": "A",
+      "explanation": "Complete resection with coccygectomy is critical to prevent recurrence in sacrococcygeal teratoma."
+    },
+    {
+      "question": "What is the event-free survival for mature teratoma with complete resection?",
+      "options": {
+        "A": "<50%",
+        "B": "70-80%",
+        "C": ">95%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Mature teratoma has >95% event-free survival with complete resection."
+    },
+    {
+      "question": "Which is the most common germ cell tumor in neonates?",
+      "options": {
+        "A": "Neuroblastoma",
+        "B": "Sacrococcygeal teratoma",
+        "C": "Wilms tumor",
+        "D": "Leukemia"
+      },
+      "correct_answer": "B",
+      "explanation": "Sacrococcygeal teratoma is the most common germ cell tumor in newborns, while neuroblastoma is the most common solid extracranial tumor overall in infancy."
+    }
+    
+  ]
+}

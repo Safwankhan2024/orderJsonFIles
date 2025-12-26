@@ -1,0 +1,39 @@
+{
+  "disease": "Renal Agenesis, Dysplasia, and Cystic Disease",
+  "mcqs": [
+    {
+      "question": "What is a common sign of bilateral renal agenesis on prenatal ultrasound?",
+      "options": {
+        "A": "Multiple non-communicating cysts",
+        "B": "Oligohydramnios",
+        "C": "Hepatosplenomegaly",
+        "D": "Enlarged hyperechoic kidneys"
+      },
+      "correct_answer": "B",
+      "explanation": "Oligohydramnios is a characteristic finding in bilateral renal agenesis due to absent fetal urine production."
+    },
+    {
+      "question": "What is the spontaneous involution rate for multicystic dysplastic kidney (MCDK)?",
+      "options": {
+        "A": "10-20%",
+        "B": "20-30%",
+        "C": "30-40%",
+        "D": "40-50%"
+      },
+      "correct_answer": "D",
+      "explanation": "Spontaneous involution occurs in 40-50% of multicystic dysplastic kidney cases."
+    },
+    {
+      "question": "What is the primary embryologic origin defect in renal agenesis?",
+      "options": {
+        "A": "Failure of ureteric bud branching",
+        "B": "Defective collecting duct maturation",
+        "C": "Absent interaction between ureteric bud and metanephric mesenchyme",
+        "D": "Ureteral obstruction during nephrogenesis"
+      },
+      "correct_answer": "C",
+      "explanation": "Renal agenesis is indeed caused by a failure of the ureteric bud to properly interact with the metanephric mesenchyme, and this critical interaction normally occurs around the 5th week of gestation. If the ureteric bud fails to form, elongate, or invade the metanephric mesenchyme, the mesenchyme undergoes apoptosis due to lack of inductive signals (like GDNF), leading to renal agenesis—either unilateral or bilateral depending on laterality of the failure"
+    }
+    
+  ]
+}

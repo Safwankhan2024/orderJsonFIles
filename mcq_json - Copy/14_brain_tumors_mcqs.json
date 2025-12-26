@@ -1,0 +1,104 @@
+{
+  "disease": "Brain Tumors",
+  "mcqs": [
+    {
+      "question": "Which of the following is a well-established environmental risk factor for pediatric brain tumors?",
+      "options": {
+        "A": "Dietary habits",
+        "B": "Ionizing radiation exposure",
+        "C": "Physical activity levels",
+        "D": "Air pollution"
+      },
+      "correct_answer": "B",
+      "explanation": "Ionizing radiation exposure (therapeutic or environmental) is the only well-established environmental risk factor for pediatric brain tumors."
+    },
+    {
+      "question": "What histological feature is characteristic of medulloblastoma?",
+      "options": {
+        "A": "Rosenthal fibers",
+        "B": "Perivascular pseudorosettes",
+        "C": "Small round blue cells with Homer-Wright rosettes",
+        "D": "H3K27M-mutant cells"
+      },
+      "correct_answer": "C",
+      "explanation": "Medulloblastoma is characterized histologically by small round blue cells with Homer-Wright rosettes."
+    },
+    {
+      "question": "Which age group accounts for the highest percentage of pediatric brain tumor cases?",
+      "options": {
+        "A": "0-4 years",
+        "B": "5-9 years",
+        "C": "10-14 years",
+        "D": "15-19 years"
+      },
+      "correct_answer": "A",
+      "explanation": "Children aged 0-4 years account for 25-30% of pediatric brain tumor cases, which is the highest percentage among age groups."
+    },
+    {
+      "question": "What is the gold standard imaging modality for pediatric brain tumors?",
+      "options": {
+        "A": "CT scan without contrast",
+        "B": "X-ray",
+        "C": "MRI with contrast",
+        "D": "Ultrasound"
+      },
+      "correct_answer": "C",
+      "explanation": "MRI with contrast is the gold standard imaging modality for pediatric brain tumors."
+    },
+    {
+      "question": "What percentage of accessible pediatric brain tumors achieve gross total resection?",
+      "options": {
+        "A": "50-60%",
+        "B": "65-85%",
+        "C": "90-95%",
+        "D": "40-50%"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross total resection is achieved in 65-85% of cases for accessible pediatric brain tumors."
+    },
+    {
+      "question": "What is the 5-year survival rate for medulloblastoma with maximal resection and multimodal therapy?",
+      "options": {
+        "A": "50-60%",
+        "B": "60-70%",
+        "C": "70-85%",
+        "D": "85-95%"
+      },
+      "correct_answer": "C",
+      "explanation": "Medulloblastoma has a 5-year overall survival rate of 70-85% with maximal resection and multimodal therapy."
+    },
+    {
+      "question": "Which of the following is a common sign of pediatric brain tumors in infants?",
+      "options": {
+        "A": "Macrocephaly",
+        "B": "Hypotension",
+        "C": "Tachycardia",
+        "D": "Hypoglycemia"
+      },
+      "correct_answer": "A",
+      "explanation": "Macrocephaly is a common sign of pediatric brain tumors in infants."
+    },
+    {
+      "question": "What is the primary goal of surgical management for most pediatric brain tumors?",
+      "options": {
+        "A": "Minimal resection to avoid complications",
+        "B": "Maximal safe resection",
+        "C": "Biopsy only for diagnosis",
+        "D": "Palliative debulking"
+      },
+      "correct_answer": "B",
+      "explanation": "The goal for most pediatric brain tumors is maximal safe resection."
+    },
+    {
+      "question": "Which tumor marker is used for germ cell tumors in pediatric brain tumors?",
+      "options": {
+        "A": "PSA",
+        "B": "CEA",
+        "C": "Alpha-fetoprotein",
+        "D": "CA-125"
+      },
+      "correct_answer": "C",
+      "explanation": "Alpha-fetoprotein is a tumor marker used for germ cell tumors in pediatric brain tumors."
+    }
+  ]
+}

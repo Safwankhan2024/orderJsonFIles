@@ -1,0 +1,104 @@
+{
+  "disease": "Tetralogy of Fallot (TOF)",
+  "mcqs": [
+    {
+      "question": "What are the four key anatomical abnormalities in Tetralogy of Fallot?",
+      "options": {
+        "A": "Pulmonary stenosis, ventricular septal defect, overriding aorta, right ventricular hypertrophy",
+        "B": "Pulmonary atresia, ventricular septal defect, overriding aorta, left ventricular hypertrophy",
+        "C": "Pulmonary stenosis, atrial septal defect, coarctation of aorta, right ventricular hypertrophy",
+        "D": "Pulmonary stenosis, ventricular septal defect, patent ductus arteriosus, right ventricular hypertrophy"
+      },
+      "correct_answer": "A",
+      "explanation": "Tetralogy of Fallot is characterized by four key anatomical abnormalities: pulmonary stenosis, ventricular septal defect, overriding aorta, and right ventricular hypertrophy."
+    },
+    {
+      "question": "Tetralogy of Fallot is the most common type of what?",
+      "options": {
+        "A": "Acyanotic congenital heart defect",
+        "B": "Cyanotic congenital heart defect",
+        "C": "Left-sided heart defect",
+        "D": "Acquired heart disease"
+      },
+      "correct_answer": "B",
+      "explanation": "TOF is the most common cyanotic congenital heart defect."
+    },
+    {
+      "question": "What causes cyanosis in Tetralogy of Fallot?",
+      "options": {
+        "A": "Shunting of oxygenated blood to the lungs",
+        "B": "Shunting of deoxygenated blood to the systemic circulation",
+        "C": "Increased pulmonary blood flow",
+        "D": "Left ventricular failure"
+      },
+      "correct_answer": "B",
+      "explanation": "Cyanosis results from shunting of deoxygenated blood from the right ventricle to the systemic circulation via the VSD and overriding aorta."
+    },
+    {
+      "question": "In untreated Tetralogy of Fallot, chronic cyanosis often leads to compensatory polycythemia. What is a potential complication of this condition?",
+      "options": {
+        "A": "Anemia",
+        "B": "Polycythemia",
+        "C": "Leukopenia",
+        "D": "Thrombocytopenia"
+      },
+      "correct_answer": "B",
+      "explanation": "Compensatory polycythemia increases blood viscosity, raising the risk of hyperviscosity syndrome, which can cause thrombosis, stroke, or other ischemic events."
+    },
+    {
+      "question": "What is the preferred surgical approach for Tetralogy of Fallot in infancy?",
+      "options": {
+        "A": "Palliative shunt only",
+        "B": "Primary repair",
+        "C": "Heart transplantation",
+        "D": "Medical management alone"
+      },
+      "correct_answer": "B",
+      "explanation": "Primary repair is the preferred approach in infancy, typically at median age 3-6 months."
+    },
+    {
+      "question": "What is the 30-day survival rate after surgical repair in high-volume centers?",
+      "options": {
+        "A": ">80%",
+        "B": ">90%",
+        "C": ">95%",
+        "D": ">99%"
+      },
+      "correct_answer": "C",
+      "explanation": "The 30-day survival rate is greater than 95% in high-volume centers."
+    },
+    {
+      "question": "What is the approximate 30-year survival rate after repair of Tetralogy of Fallot?",
+      "options": {
+        "A": "70%",
+        "B": "80%",
+        "C": "90%",
+        "D": "95%"
+      },
+      "correct_answer": "C",
+      "explanation": "The 30-year survival after repair is approximately 90%."
+    },
+    {
+      "question": "What supplementation is recommended to reduce the risk of congenital heart defects like TOF?",
+      "options": {
+        "A": "Vitamin D",
+        "B": "Folic acid",
+        "C": "Iron",
+        "D": "Calcium"
+      },
+      "correct_answer": "B",
+      "explanation": "Preconception folic acid supplementation reduces the overall risk of congenital heart defects."
+    },
+    {
+      "question": "What is a common late complication after surgical repair of Tetralogy of Fallot?",
+      "options": {
+        "A": "Pulmonary stenosis",
+        "B": "Pulmonary regurgitation",
+        "C": "Aortic stenosis",
+        "D": "Mitral regurgitation"
+      },
+      "correct_answer": "B",
+      "explanation": "Pulmonary regurgitation is a common late complication, occurring in 60-80% of patients at 20 years post-repair."
+    }
+  ]
+}

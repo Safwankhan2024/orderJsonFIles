@@ -1,0 +1,93 @@
+{
+  "disease": "Child Abuse and Birth Injuries",
+  "mcqs": [
+    {
+      "question": "Which of the following is a common clinical presentation of Abusive Head Trauma (AHT) in infants?",
+      "options": {
+        "A": "Fever",
+        "B": "Lethargy",
+        "C": "Diarrhea",
+        "D": "Cough"
+      },
+      "correct_answer": "B",
+      "explanation": "Symptoms of AHT include lethargy, irritability, poor feeding, vomiting, apnea, and seizures."
+    },
+    {
+      "question": "Retinal hemorrhages are present in approximately what percentage of Abusive Head Trauma (AHT) cases?",
+      "options": {
+        "A": "50%",
+        "B": "65%",
+        "C": "85%",
+        "D": "95%"
+      },
+      "correct_answer": "C",
+      "explanation": "Retinal hemorrhages are present in approximately 85% of AHT cases."
+    },
+    {
+      "question": "According to the TEN-4 FACESp rule, bruising on which body part in a child under 4 years is highly suggestive of abuse?",
+      "options": {
+        "A": "Arms",
+        "B": "Legs",
+        "C": "Torso",
+        "D": "Face"
+      },
+      "correct_answer": "C",
+      "explanation": "The TEN-4 FACESp rule states that bruising on the Torso, Ear, Neck, Frenulum, Angle of jaw, Cheeks, Eyelids, or Subconjunctivae in children under 4 years, or any patterned bruising in infants under 4 months, is highly suggestive of abuse."
+    },
+    {
+      "question": "What percentage of Abusive Head Trauma (AHT) survivors suffer permanent neurological disability?",
+      "options": {
+        "A": "20-30%",
+        "B": "50-60%",
+        "C": "70-80%",
+        "D": "90-100%"
+      },
+      "correct_answer": "B",
+      "explanation": "Approximately 50-60% of AHT survivors suffer permanent neurological disability."
+    },
+    {
+      "question": "What is the initial imaging study of choice for Abusive Head Trauma (AHT)?",
+      "options": {
+        "A": "MRI Brain",
+        "B": "Non-contrast Head CT",
+        "C": "Ultrasound",
+        "D": "X-ray"
+      },
+      "correct_answer": "B",
+      "explanation": "Non-contrast Head CT is the initial imaging study of choice for AHT to identify acute hemorrhage."
+    },
+    {
+      "question": "What posture is characteristic of Erb's Palsy in Brachial Plexus Birth Injury (BPBI)?",
+      "options": {
+        "A": "Flexed elbow and extended wrist",
+        "B": "(waiter's tip posture) posture",
+        "C": "Clenched fist",
+        "D": "Hyperextended fingers"
+      },
+      "correct_answer": "B",
+      "explanation": "Erb's Palsy, which involves C5-C6 roots, is characterized by a 'Waiter's tip' posture with arm adducted and internally rotated, elbow extended,forearm pronated, and wrist flexed."
+    },
+    {
+      "question": "What finding in Brachial Plexus Birth Injury (BPBI) indicates a poor prognostic sign?",
+      "options": {
+        "A": "Bruising on the arm",
+        "B": "Horner's syndrome",
+        "C": "Swollen fontanelle",
+        "D": "Fever"
+      },
+      "correct_answer": "B",
+      "explanation": "The presence of Horner's syndrome (ptosis, miosis, anhidrosis) in BPBI indicates avulsion of the T1 root and is a poor prognostic sign."
+    },
+    {
+      "question": "What is a common complication of Brachial Plexus Birth Injury (BPBI)?",
+      "options": {
+        "A": "Cerebral palsy",
+        "B": "Glenohumeral joint deformity",
+        "C": "Retinal hemorrhages",
+        "D": "Seizures"
+      },
+      "correct_answer": "B",
+      "explanation": "Complications of BPBI include glenohumeral joint deformity (posterior subluxation/dislocation), muscle contractures, and limb length discrepancy."
+    }
+  ]
+}

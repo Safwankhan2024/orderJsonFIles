@@ -1,0 +1,105 @@
+{
+  "disease": "Renal Fusions and Ectopia",
+  "mcqs": [
+    {
+      "question": "What is renal ectopia?",
+      "options": {
+        "A": "A kidney that fails to reach its normal position",
+        "B": "Fusion of the two renal masses",
+        "C": "Abnormal development of the ureteric bud",
+        "D": "A type of renal tumor"
+      },
+      "correct_answer": "A",
+      "explanation": "Renal ectopia is defined as a kidney that fails to reach its normal position in the renal fossa."
+    },
+    {
+      "question": "What is the primary cause of renal fusion and ectopia?",
+      "options": {
+        "A": "Genetic mutations in PAX2 gene",
+        "B": "Aberrant development and migration of metanephric blastema and ureteric bud",
+        "C": "Maternal infection during pregnancy",
+        "D": "Autoimmune disorders"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary cause of renal fusion and ectopia is aberrant development and migration of the metanephric blastema and the ureteric bud."
+    },
+    {
+      "question": "Which genetic syndrome is most strongly associated with horseshoe kidney, affecting approximately 30% of individuals?",
+      "options": {
+        "A": "Trisomy 21",
+        "B": "Turner Syndrome",
+        "C": "VACTERL association",
+        "D": "Marfan syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Turner syndrome (45,X) has the highest association with horseshoe kidney, present in about 30% of affected individuals."
+    },
+    {
+      "question": "When is renal fusion and ectopia typically diagnosed?",
+      "options": {
+        "A": "Only in adulthood",
+        "B": "Congenital and present at birth, but diagnosis can occur at any age",
+        "C": "Only during prenatal ultrasound",
+        "D": "Only after symptoms appear"
+      },
+      "correct_answer": "B",
+      "explanation": "Renal fusion and ectopia are congenital and present at birth, but diagnosis can occur at any age."
+    },
+    {
+      "question": "What is the relative risk of Wilms tumor in ectopic kidneys?",
+      "options": {
+        "A": "No increased risk compared to general population",
+        "B": "Slightly increased risk but poorly quantified",
+        "C": "Markedly increased risk (10-fold or higher)",
+        "D": "Risk only exists in syndromic cases"
+      },
+      "correct_answer": "B",
+      "explanation": "The risk of Wilms tumor in ectopic kidneys is increased but poorly quantified; some studies suggest mild elevation"
+    },
+    {
+      "question": "What might urinalysis show in patients with renal fusion and ectopia?",
+      "options": {
+        "A": "Always normal",
+        "B": "Hematuria or pyuria",
+        "C": "Proteinuria only",
+        "D": "Glycosuria"
+      },
+      "correct_answer": "B",
+      "explanation": "Urinalysis may show hematuria or pyuria in renal fusion and ectopia."
+    },
+    {
+      "question": "What is the general approach to managing renal fusion and ectopia?",
+      "options": {
+        "A": "Always surgical",
+        "B": "Conservative, directed at treating complications",
+        "C": "Radiation therapy",
+        "D": "No management needed"
+      },
+      "correct_answer": "B",
+      "explanation": "Management is conservative and directed at treating complications, not the anatomical anomaly itself."
+    },
+    {
+      "question": "When might antibiotic prophylaxis be indicated?",
+      "options": {
+        "A": "For all patients",
+        "B": "For infants with high-grade VUR or recurrent UTIs",
+        "C": "Only for adults",
+        "D": "Never indicated"
+      },
+      "correct_answer": "B",
+      "explanation": "Antibiotic prophylaxis may be indicated for infants with high-grade VUR or recurrent UTIs."
+    },
+    {
+      "question": "What is the success rate for pyeloplasty in horseshoe kidney?",
+      "options": {
+        "A": "50-60%",
+        "B": "70-80%",
+        "C": "85-90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Success rates for pyeloplasty in horseshoe kidney are approximately 85-90%"
+    }
+    
+  ]
+}

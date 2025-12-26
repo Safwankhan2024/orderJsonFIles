@@ -1,0 +1,181 @@
+{
+  "disease": "46,XX Congenital Adrenal Hyperplasia (due to 21-Hydroxylase Deficiency)",
+  "mcqs": [
+    {
+      "question": "Which of the following best describes 46,XX congenital adrenal hyperplasia due to 21-hydroxylase deficiency?",
+      "options": {
+        "A": "An autosomal recessive disorder causing cortisol deficiency and androgen excess leading to virilization of external genitalia in genetic females",
+        "B": "A condition characterized primarily by hypertension and hypokalemia",
+        "C": "An X-linked disorder affecting only internal genital development",
+        "D": "A metabolic disorder that presents exclusively during puberty"
+      },
+      "correct_answer": "A",
+      "explanation": "46,XX CAH due to 21-hydroxylase deficiency is an autosomal recessive disorder where enzyme deficiency impairs cortisol synthesis, causing ACTH-driven androgen excess and virilization of external genitalia in genetic females."
+    },
+    {
+      "question": "In newborns with 46,XX karyotype and ambiguous genitalia, what is the most common underlying cause?",
+      "options": {
+        "A": "46,XX congenital adrenal hyperplasia due to 21-hydroxylase deficiency",
+        "B": "Maternal virilizing tumors during pregnancy",
+        "C": "Exogenous maternal androgen exposure",
+        "D": "Complete androgen insensitivity syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "46,XX CAH accounts for approximately 50-70% of cases of ambiguous genitalia in newborns with 46,XX karyotype, making it the most frequent cause in this population."
+    },
+    {
+      "question": "What is the inheritance pattern of 46,XX CAH?",
+      "options": {
+        "A": "Autosomal recessive",
+        "B": "Autosomal dominant",
+        "C": "X-linked recessive",
+        "D": "Mitochondrial"
+      },
+      "correct_answer": "A",
+      "explanation": "The inheritance is autosomal recessive."
+    },
+    {
+      "question": "During which gestational weeks does virilization occur in 46,XX CAH?",
+      "options": {
+        "A": "4-6 weeks",
+        "B": "8-12 weeks",
+        "C": "16-20 weeks",
+        "D": "24-28 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "Virilization occurs between 8-12 weeks of gestation during the critical period of external genitalia formation."
+    },
+    {
+      "question": "When do symptoms of salt-wasting crisis typically present in infants with CAH?",
+      "options": {
+        "A": "At birth",
+        "B": "Within first 2-4 weeks of life",
+        "C": "At 6 months of age",
+        "D": "During puberty"
+      },
+      "correct_answer": "B",
+      "explanation": "Salt-wasting crisis presents in both sexes within the first 2-4 weeks of life."
+    },
+    {
+      "question": "Which of the following clinical findings is most characteristic of salt-wasting crisis in infants with classic 21-hydroxylase deficiency CAH?",
+      "options": {
+        "A": "Hypertension and hypernatremia",
+        "B": "Poor feeding, vomiting, and weight loss with hyponatremia",
+        "C": "Increased appetite and accelerated growth",
+        "D": "Hyperglycemia and polyuria"
+      },
+      "correct_answer": "B",
+      "explanation": "Salt-wasting crisis presents with poor feeding, vomiting, lethargy, weight loss, hyponatremia, and hyperkalemia due to aldosterone deficiency, typically within the first 2-4 weeks of life."
+    },
+    {
+      "question": "What is the primary screening tool for 21-OHD CAH in newborns?",
+      "options": {
+        "A": "Serum electrolytes",
+        "B": "Elevated 17 Hydroxyprogesterone (17-OHP)",
+        "C": "ACTH stimulation test",
+        "D": "Pelvic ultrasound"
+      },
+      "correct_answer": "B",
+      "explanation": "The newborn screen involves elevated 17-OHP as the primary screening tool."
+    },
+    {
+      "question": "Why is pelvic/abdominal ultrasound an essential component in the evaluation of a newborn with ambiguous genitalia?",
+      "options": {
+        "A": "To identify the presence of a uterus and ovaries, confirming 46,XX karyotype",
+        "B": "To assess for adrenal gland enlargement suggestive of CAH",
+        "C": "Both to identify internal female structures and assess adrenal glands",
+        "D": "Primarily to measure clitoral or phallic size for surgical planning"
+      },
+      "correct_answer": "C",
+      "explanation": "Ultrasound helps identify Müllerian structures (uterus, ovaries) to confirm 46,XX karyotype and assess adrenal glands for hyperplasia, which supports the diagnosis of CAH."
+    },
+    {
+      "question": "Which of the following is a differential diagnosis for 46,XX CAH?",
+      "options": {
+        "A": "11-beta-hydroxylase deficiency",
+        "B": "Turner syndrome",
+        "C": "Klinefelter syndrome",
+        "D": "Androgen insensitivity syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "The differential diagnosis includes other forms of CAH such as 11-beta-hydroxylase deficiency."
+    },
+    {
+      "question": "What are the clinical forms of classic 21-OHD CAH?",
+      "options": {
+        "A": "Salt-Wasting and Simple Virilizing",
+        "B": "Prader I-V",
+        "C": "Mild and Severe",
+        "D": "Early and Late onset"
+      },
+      "correct_answer": "A",
+      "explanation": "The clinical forms are Salt-Wasting and Simple Virilizing."
+    },
+    {
+      "question": "What is the purpose of glucocorticoid replacement in CAH?",
+      "options": {
+        "A": "To increase androgen levels",
+        "B": "To suppress ACTH and androgens",
+        "C": "To treat hypertension",
+        "D": "To promote growth"
+      },
+      "correct_answer": "B",
+      "explanation": "Glucocorticoid replacement with hydrocortisone is used to suppress ACTH and androgens."
+    },
+    {
+      "question": "For which Prader grades is feminizing genitoplasty typically considered?",
+      "options": {
+        "A": "Prader I-II",
+        "B": "Prader III-V",
+        "C": "All grades",
+        "D": "Only Prader V"
+      },
+      "correct_answer": "B",
+      "explanation": "Feminizing genitoplasty is considered for significant virilization, typically Prader III-V."
+    },
+    {
+      "question": "What is a reason advocated for delayed surgery in DSD?",
+      "options": {
+        "A": "It is technically easier",
+        "B": "Patient consent in adolescence",
+        "C": "Lower cost",
+        "D": "Faster recovery"
+      },
+      "correct_answer": "B",
+      "explanation": "Delayed surgery in adolescence, with patient consent, is increasingly advocated."
+    },
+    {
+      "question": "What is a key technique in clitoroplasty to maintain sensation?",
+      "options": {
+        "A": "Complete removal of clitoris",
+        "B": "Preservation of the neurovascular bundle",
+        "C": "Use of grafts",
+        "D": "Laser ablation"
+      },
+      "correct_answer": "B",
+      "explanation": "Clitoroplasty involves reduction clitoroplasty with preservation of the neurovascular bundle to maintain erogenous sensation."
+    },
+    {
+      "question": "According to a 2020 review, what percentage of patients had preserved sensation after nerve-sparing clitoroplasty?",
+      "options": {
+        "A": "50-60%",
+        "B": "70-80%",
+        "C": "Over 90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Over 90% of patients undergoing modern nerve-sparing clitoroplasty had preserved sensation."
+    },
+    {
+      "question": "What is a standard postoperative care measure after feminizing genitoplasty?",
+      "options": {
+        "A": "Stress-dose steroids",
+        "B": "High-protein diet",
+        "C": "Antibiotic prophylaxis for life",
+        "D": "No follow-up needed"
+      },
+      "correct_answer": "A",
+      "explanation": "Postoperative care includes stress-dose steroids."
+    }
+  ]
+}

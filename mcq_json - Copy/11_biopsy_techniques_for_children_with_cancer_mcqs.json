@@ -1,0 +1,60 @@
+{
+  "disease": "Biopsy Techniques for Children with Cancer",
+  "mcqs": [
+    {
+      "question": "Which tumor marker is most specifically associated with hepatoblastoma in children?",
+      "options": {
+        "A": "Beta-HCG",
+        "B": "Catecholamines (VMA/HVA)",
+        "C": "Alpha-fetoprotein (AFP)",
+        "D": "Lactate Dehydrogenase (LDH)"
+      },
+      "correct_answer": "C",
+      "explanation": "Alpha-fetoprotein (AFP) is elevated in 80-90% of hepatoblastoma cases and serves as both diagnostic and monitoring marker."
+    },
+    {
+      "question": "What is the first-line imaging modality for abdominal masses in children?",
+      "options": {
+        "A": "Computed Tomography (CT)",
+        "B": "Magnetic Resonance Imaging (MRI)",
+        "C": "Ultrasound",
+        "D": "FDG-PET/CT"
+      },
+      "correct_answer": "C",
+      "explanation": "Ultrasound is first-line for abdominal masses as it characterizes cystic vs. solid components and guides further imaging to plan the biopsy."
+    },
+    {
+      "question": "What factors are used for counselling before the treatment regarding the prognosis in pediatric solid tumors?",
+      "options": {
+        "A": "Only the type of biopsy performed",
+        "B": "Specific tumor type, stage, and molecular profile",
+        "C": "Patient's age and gender",
+        "D": "The imaging modality used"
+      },
+      "correct_answer": "B",
+      "explanation": "Pre-treatment counselling for prognosis is entirely dependent on the specific tumor type, stage, and molecular profile obtained from the biopsy."
+    },
+    {
+      "question": "What is the typical pain management approach after a biopsy procedure?",
+      "options": {
+        "A": "Opioids as first-line",
+        "B": "Acetaminophen and ibuprofen, with opioids reserved",
+        "C": "No analgesia needed",
+        "D": "Only local anesthetics"
+      },
+      "correct_answer": "B",
+      "explanation": "Multimodal analgesia typically includes acetaminophen and ibuprofen, with opioids reserved for severe pain."
+    },
+    {
+    "question": "Why should a biopsy tract be placed in alignment with the anticipated definitive surgical incision?",
+      "options": {
+      "A": "To reduce procedural time and cost",
+      "B": "For improved cosmetic outcome",
+      "C": "To allow complete excision during definitive surgery",
+      "D": "To minimize postoperative pain"
+      },
+      "correct_answer": "C",
+      "explanation": "The biopsy tract must be excised en bloc with the tumor during definitive resection to prevent seeding and local recurrence."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "disease": "Hypertrophic Pyloric Stenosis",
+  "mcqs": [
+    {
+      "question": "A 4-week-old male infant presents with progressive non-bilious projectile vomiting after feeding. His mother reports he is always hungry immediately after vomiting. What is the most typical age of presentation for hypertrophic pyloric stenosis?",
+      "options": {
+        "A": "1-2 weeks",
+        "B": "3-6 weeks",
+        "C": "6-12 months",
+        "D": "Birth"
+      },
+      "correct_answer": "B",
+      "explanation": "Hypertrophic pyloric stenosis typically presents between 3-6 weeks of age, with peak incidence at 4-6 weeks, rarely occurring after 12 weeks."
+    },
+    {
+      "question": "What is the estimated heritability of Hypertrophic Pyloric Stenosis?",
+      "options": {
+        "A": "<40%",
+        "B": "<65%",
+        "C": "50-85%",
+        "D": ">95%"
+      },
+      "correct_answer": "C",
+      "explanation": "Heritability is estimated at 50-85% with polygenic/multifactorial inheritance"
+    },
+    {
+      "question": "A 5-week-old infant with hypertrophic pyloric stenosis develops forceful, non-bilious vomiting that projects several feet. What is the primary pathophysiological mechanism responsible for this projectile vomiting?",
+      "options": {
+        "A": "Excessive gastric acid production causing mucosal irritation",
+        "B": "Mechanical obstruction at the gastric outlet due to pyloric muscle hypertrophy",
+        "C": "Neurological dysfunction of the vomiting center in the medulla",
+        "D": "Infection with Helicobacter pylori leading to gastritis"
+      },
+      "correct_answer": "B",
+      "explanation": "Projectile vomiting in HPS results from mechanical gastric outlet obstruction caused by progressive hypertrophy and hyperplasia of the circular muscle layer of the pylorus."
+    },
+    {
+      "question": "What is the diagnostic threshold for pyloric muscle thickness on ultrasound?",
+      "options": {
+        "A": "2 mm",
+        "B": "3 mm",
+        "C": "4 mm",
+        "D": "5 mm"
+      },
+      "correct_answer": "C",
+      "explanation": "The diagnostic threshold for pyloric muscle thickness is ≥4 mm."
+    },
+    {
+      "question": "A 6-week-old infant with hypertrophic pyloric stenosis has persistent vomiting for 5 days. Laboratory studies would most likely reveal which pattern of metabolic disturbance?",
+      "options": {
+        "A": "Respiratory alkalosis with normal electrolytes",
+        "B": "Hypochloremic, hypokalemic metabolic alkalosis",
+        "C": "Hyperchloremic metabolic acidosis",
+        "D": "Mixed respiratory and metabolic acidosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Persistent vomiting of gastric contents leads to loss of hydrogen and chloride ions, resulting in hypochloremic, hypokalemic metabolic alkalosis, which must be corrected preoperatively."
+    },
+    {
+      "question": "Which enzyme's abnormal expression is implicated in HPS?",
+      "options": {
+        "A": "Amylase",
+        "B": "Nitric oxide synthase",
+        "C": "Pepsin",
+        "D": "Lipase"
+      },
+      "correct_answer": "B",
+      "explanation": "Research suggests abnormal nitric oxide synthase expression."
+    },
+    {
+      "question": "What is a characteristic symptom of HPS?",
+      "options": {
+        "A": "Bilious vomiting",
+        "B": "Non-bilious projectile vomiting",
+        "C": "Diarrhea",
+        "D": "Constipation"
+      },
+      "correct_answer": "B",
+      "explanation": "Symptoms include progressive non-bilious projectile vomiting."
+    },
+    {
+      "question": "What arterial blood gas finding is typical in HPS?",
+      "options": {
+        "A": "pH <7.35, HCO₃ <22 mmol/L",
+        "B": "pH >7.45, HCO₃ >26 mmol/L",
+        "C": "pH 7.35-7.45, HCO₃ 22-26 mmol/L",
+        "D": "pH <7.20, HCO₃ <15 mmol/L"
+      },
+      "correct_answer": "B",
+      "explanation": "pH >7.45, HCO₃ >26-28 mmol/L (metabolic alkalosis) is typical due to loss of gastric acid."
+    }
+    
+  ]
+}

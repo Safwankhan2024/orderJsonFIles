@@ -1,0 +1,60 @@
+{
+  "disease": "Traumatic Brain Injury (TBI)",
+  "mcqs": [
+    {
+      "question": "In a pediatric patient with traumatic brain injury, which of the following findings is most indicative of late-stage increased intracranial pressure?",
+      "options": {
+        "A": "Hypertension, bradycardia, and irregular respirations (Cushing's triad)",
+        "B": "Mild headache and nausea",
+        "C": "Transient confusion immediately after injury",
+        "D": "Unilateral pupillary dilation without other signs"
+      },
+      "correct_answer": "A",
+      "explanation": "Cushing's triad (hypertension, bradycardia, irregular respirations) is a classic late sign of significantly elevated intracranial pressure in TBI, indicating impending herniation."
+    },
+    {
+      "question": "What scale is used to assess mental status in TBI physical examination?",
+      "options": {
+        "A": "APGAR score",
+        "B": "Glasgow Coma Scale",
+        "C": "NIH Stroke Scale",
+        "D": "Rancho Los Amigos Scale"
+      },
+      "correct_answer": "B",
+      "explanation": "The Glasgow Coma Scale is used for assessment in the physical examination of TBI patients."
+    },
+    {
+      "question": "What Glasgow Coma Scale score indicates moderate TBI?",
+      "options": {
+        "A": "3-8",
+        "B": "9-12",
+        "C": "13-15",
+        "D": "15-18"
+      },
+      "correct_answer": "B",
+      "explanation": "A Glasgow Coma Scale score of 9-12 is classified as moderate traumatic brain injury."
+    },
+  {
+      "question": "Based on current evidence, what is a key finding regarding decompressive craniectomy for refractory intracranial hypertension in pediatric traumatic brain injury?",
+      "options": {
+        "A": "It consistently reduces mortality by approximately 50% across all age groups",
+        "B": "It may lower mortality in selected cases, but outcomes vary with factors like timing and patient selection",
+        "C": "It is contraindicated in children due to high complication rates",
+        "D": "It shows no benefit compared to medical management alone"
+      },
+      "correct_answer": "B",
+      "explanation": "Decompressive craniectomy can reduce mortality in pediatric TBI with refractory intracranial hypertension, but benefits depend on careful patient selection and early intervention, with variable reported outcomes."
+    },
+    {
+      "question": "What percentage of mild TBI patients achieve complete recovery within 3 months?",
+      "options": {
+        "A": "50%",
+        "B": "65%",
+        "C": "85%",
+        "D": "95%"
+      },
+      "correct_answer": "C",
+      "explanation": "85% of patients with mild traumatic brain injury experience complete recovery within 3 months. However recovery rates depend on factors like age, injury mechanism, and definition of 'complete recovery"
+    }
+  ]
+}

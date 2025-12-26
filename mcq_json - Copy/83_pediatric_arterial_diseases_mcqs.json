@@ -1,0 +1,39 @@
+{
+  "disease": "Pediatric Arterial Diseases",
+  "mcqs": [
+    {
+      "question": "What is the definition of Takayasu Arteritis?",
+      "options": {
+        "A": "A chronic, granulomatous, large-vessel vasculitis primarily affecting the aorta and its branches",
+        "B": "An acute infectious vasculitis caused by bacterial pathogens",
+        "C": "A congenital disorder characterized by arterial malformations",
+        "D": "A metabolic condition leading to small-vessel occlusion"
+      },
+      "correct_answer": "A",
+      "explanation": "Takayasu arteritis is a chronic, granulomatous, large-vessel vasculitis of unknown etiology, primarily involving the aorta and its major branches, including the pulmonary arteries."
+    },
+    {
+      "question": "Which sign is indicative of the vascular/ischemic phase of Takayasu Arteritis?",
+      "options": {
+        "A": "Blood pressure discrepancy >10 mmHg between limbs",
+        "B": "Fever and malaise",
+        "C": "Skin rash",
+        "D": "Joint swelling"
+      },
+      "correct_answer": "A",
+      "explanation": "Signs in the vascular/ischemic phase include blood pressure discrepancy greater than 10 mmHg between limbs, diminished or absent pulses, and bruits."
+    },
+    {
+      "question": "Which of the following is a synonym for Takayasu arteritis?",
+      "options": {
+        "A": "Pulseless disease",
+        "B": "Kawasaki disease",
+        "C": "Polyarteritis nodosa",
+        "D": "Behçet's disease"
+      },
+      "correct_answer": "A",
+      "explanation": "Takayasu arteritis is commonly known as Pulseless disease due to the characteristic loss of pulses in affected limbs."
+    }
+    
+  ]
+}

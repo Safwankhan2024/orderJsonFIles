@@ -1,0 +1,50 @@
+{
+  "disease": "Stomas of the Small and Large Intestine",
+  "mcqs": [
+    {
+      "question": "Which gene is most commonly associated with Hirschsprung's Disease?",
+      "options": {
+        "A": "CFTR",
+        "B": "RET",
+        "C": "EDNRB",
+        "D": "EDN3"
+      },
+      "correct_answer": "B",
+      "explanation": "Hirschsprung's Disease is associated with mutations in RET (most common), EDNRB, and EDN3 genes."
+    },
+    {
+      "question": "Which of the following is the most common early complication of intestinal stomas in pediatric patients?",
+      "options": {
+        "A": "Stoma prolapse",
+        "B": "Peristomal skin excoriation",
+        "C": "Parastomal hernia",
+        "D": "Stoma necrosis"
+      },
+      "correct_answer": "B",
+      "explanation": "Peristomal skin excoriation occurs in approximately 40% of pediatric stoma patients due to enzymatic irritation from effluent, making it the most frequent early complication."
+    },
+    {
+      "question": "What is the typical time frame for stoma closure after initial creation?",
+      "options": {
+        "A": "1-2 weeks",
+        "B": "8 weeks to 6 months",
+        "C": "1 year",
+        "D": "2 years"
+      },
+      "correct_answer": "B",
+      "explanation": "Stoma closure is typically performed 8 weeks to 6 months after initial creation, depending on the patient's condition."
+    },
+    {
+      "question": "What is the primary purpose of a contrast enema prior to stoma closure?",
+      "options": {
+        "A": "To diagnose NEC",
+        "B": "To assess bowel gas pattern",
+        "C": "To define anatomy and rule out distal obstruction",
+        "D": "To measure stoma output"
+      },
+      "correct_answer": "C",
+      "explanation": "Contrast enema helps define distal bowel anatomy, rule out obstruction (e.g., stricture, atresia), and ensure safe surgical planning for stoma closure."
+    }
+    
+  ]
+}

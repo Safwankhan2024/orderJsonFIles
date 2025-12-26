@@ -1,0 +1,126 @@
+{
+  "disease": "Hypospadias",
+  "mcqs": [
+    {
+      "question": "What are the characteristic features of hypospadias?",
+      "options": {
+        "A": "Proximally displaced urethral meatus, ventral curvature, and dorsal hooded foreskin",
+        "B": "Distally displaced urethral meatus, dorsal curvature, and complete foreskin",
+        "C": "Proximally displaced urethral meatus, dorsal curvature, and ventral hooded foreskin",
+        "D": "Normally positioned meatus, ventral curvature, and redundant foreskin"
+      },
+      "correct_answer": "A",
+      "explanation": "Hypospadias is characterized by a proximally displaced urethral meatus on the ventral aspect of the penis, abnormal ventral curvature (chordee), and a dorsal hooded foreskin (the ventral foreskin is deficient while dorsal foreskin is abundant). The dorsal hooded appearance results from incomplete development of the ventral foreskin."
+    },
+    {
+      "question": "What is the approximate risk that a male sibling of a boy with hypospadias will also have the condition?",
+      "options": {
+        "A": "5-10%",
+        "B": "10-20%",
+        "C": "25-30%",
+        "D": "35-40%"
+      },
+      "correct_answer": "B",
+      "explanation": "Brothers of affected boys have approximately a 9-17% risk of hypospadias (fathers have about 8% risk). This represents a 12- to 20-fold increased risk compared to the general population prevalence of 0.3-0.8%. The heritability of hypospadias is estimated at 65-75%."
+    },
+    {
+      "question": "What is the inheritance pattern most commonly associated with hypospadias?",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "Polygenic/multifactorial",
+        "D": "X-linked recessive"
+      },
+      "correct_answer": "C",
+      "explanation": "A polygenic/multifactorial inheritance pattern is most common, involving multiple genetic and environmental factors. Many genes are implicated (AR, SRD5A2, HSD17B3, ESR1, ESR2, ATF3, MAMLD1) along with endocrine disruptors. This pattern explains the variable expressivity and incomplete penetrance seen in families."
+    },
+    {
+      "question": "What embryologic event fails in hypospadias?",
+      "options": {
+        "A": "Fusion of the urethral folds on the ventral aspect",
+        "B": "Development of the dorsal penile structures",
+        "C": "Formation of the glans penis",
+        "D": "Separation of the urinary and genital tracts"
+      },
+      "correct_answer": "A",
+      "explanation": "Hypospadias results from failed fusion of the urethral folds on the ventral aspect of the genital tubercle during 8-14 weeks gestation. This normally occurs in a proximal-to-distal direction. Disruptions in androgen receptor signaling and Shh pathways impair this fusion process."
+    },
+    {
+      "question": "What percentage of hypospadias cases are associated with cryptorchidism?",
+      "options": {
+        "A": "1-5%",
+        "B": "9-15%",
+        "C": "20-25%",
+        "D": "30-35%"
+      },
+      "correct_answer": "B",
+      "explanation": "Cryptorchidism is associated in 8-15% of hypospadias cases. The combination of hypospadias and cryptorchidism raises concern for disorders of sex development and warrants endocrine evaluation and karyotyping."
+    },
+    {
+      "question": "When is karyotyping and endocrine workup indicated in hypospadias?",
+      "options": {
+        "A": "In all cases",
+        "B": "Only in distal hypospadias",
+        "C": "In proximal hypospadias or when associated with cryptorchidism/ambiguous genitalia",
+        "D": "Only if there is a family history"
+      },
+      "correct_answer": "C",
+      "explanation": "Karyotyping and endocrine workup are indicated in proximal hypospadias, or when hypospadias is associated with cryptorchidism, non-palpable gonads, ambiguous genitalia, or micropenis. Routine karyotyping is not recommended for isolated distal hypospadias. The risk of chromosomal abnormality is low in mild cases but increases with severity and associated anomalies."
+    },
+    {
+      "question": "What is the optimal timing for surgical repair of hypospadias?",
+      "options": {
+        "A": "At birth",
+        "B": "Between 6 and 18 months of age",
+        "C": "After 5 years of age",
+        "D": "During puberty"
+      },
+      "correct_answer": "B",
+      "explanation": "Optimal timing is between 6 and 18 months of age. This balances anesthetic safety (similar to older children), minimizes psychological trauma (before genital awareness at 14-18 months), and provides optimal tissue healing. Early repair avoids complications like spraying urine stream and allows normal psychosexual development."
+    },
+    {
+      "question": "What was the overall complication rate reported in a 2022 multicenter prospective trial for hypospadias repair?",
+      "options": {
+        "A": "5.0%",
+        "B": "10.2%",
+        "C": "14.8%",
+        "D": "20.5%"
+      },
+      "correct_answer": "C",
+      "explanation": "A 2022 multicenter prospective trial (the HOPE study) reported an overall complication rate of 14.8% across all hypospadias severities. Complication rates vary by severity: distal repairs 5-10%, proximal repairs 15-30%. This reflects contemporary outcomes in high-volume centers."
+    },
+    {
+      "question": "What is the most common postoperative complication of hypospadias repair?",
+      "options": {
+        "A": "Meatal stenosis",
+        "B": "Urethral stricture",
+        "C": "Urethrocutaneous fistula",
+        "D": "Residual chordee"
+      },
+      "correct_answer": "C",
+      "explanation": "Urethrocutaneous fistula is the most common complication, occurring in 4-28% of repairs depending on severity and technique. While meatal stenosis and strictures also occur, fistula rates are consistently highest across series. Risk factors include distal obstruction, ischemia, and overlapping suture lines."
+    },
+    {
+      "question": "What is the typical long-term success rate for proximal hypospadias after additional procedures if needed?",
+      "options": {
+        "A": ">70%",
+        "B": ">80%",
+        "C": ">90%",
+        "D": ">95%"
+      },
+      "correct_answer": "C",
+      "explanation": "Long-term success after one or two additional procedures is >90% in experienced centers. Initial success rates for proximal hypospadias are 70-85%, but this improves to >90% after revision surgeries. Final cosmesis and function are excellent in most patients, though complication rates are higher than distal repairs."
+    },
+    {
+      "question": "What molecular mechanisms are implicated in hypospadias?",
+      "options": {
+        "A": "Disruptions in androgen receptor signaling and Shh signaling",
+        "B": "Abnormal insulin signaling",
+        "C": "Overactive thyroid hormone pathways",
+        "D": "Defective calcium metabolism"
+      },
+      "correct_answer": "A",
+      "explanation": "Molecular mechanisms involve disruptions in androgen receptor signaling, Shh (Sonic hedgehog) signaling, and epithelial-mesenchymal interactions. Multiple genes are implicated including AR, SRD5A2, HSD17B3, ESR1, ESR2, ATF3, and MAMLD1. Environmental endocrine disruptors can also affect these pathways."
+    }
+  ]
+}

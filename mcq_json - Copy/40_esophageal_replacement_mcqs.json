@@ -1,0 +1,105 @@
+{
+  "disease": "Esophageal Replacement",
+  "mcqs": [
+    {
+      "question": "In pediatric patients, which age group most commonly presents with caustic ingestion as a predisposing factor for esophageal replacement?",
+      "options": {
+        "A": "Toddlers (1-3 years)",
+        "B": "Neonates (0-1 month)",
+        "C": "School-age children (5-12 years)",
+        "D": "Adolescents (13-18 years)"
+      },
+      "correct_answer": "A",
+      "explanation": "Toddlers aged 1-3 years are at highest risk due to exploratory behavior and accidental ingestion of household caustics."
+    },
+    {
+      "question": "During which weeks of gestation does the esophagus derive from the foregut?",
+      "options": {
+        "A": "Weeks 4-8",
+        "B": "Weeks 8-12",
+        "C": "Weeks 12-16",
+        "D": "Weeks 16-20"
+      },
+      "correct_answer": "A",
+      "explanation": "The esophagus derives from the foregut during weeks 4-8 of gestation."
+    },
+    {
+      "question": "What is the pathogenesis of congenital esophageal atresia?",
+      "options": {
+        "A": "Disruption in tracheoesophageal septation",
+        "B": "Chemical injury from caustic ingestion",
+        "C": "Chronic inflammation from GERD",
+        "D": "Genetic mutation alone"
+      },
+      "correct_answer": "A",
+      "explanation": "Congenital pathogenesis involves disruption in tracheoesophageal septation during embryologic development."
+    },
+    {
+      "question": "Which syndrome is associated with 20-25% of esophageal atresia cases?",
+      "options": {
+        "A": "VACTERL association",
+        "B": "CHARGE syndrome",
+        "C": "Trisomy 18",
+        "D": "Down syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "VACTERL association (vertebral, anal, cardiac, tracheoesophageal, renal, limb anomalies) is present in 20-25% of esophageal atresia cases, highlighting the need for systemic evaluation."
+    },
+    {
+      "question": "What is the purpose of CT angiography in preoperative planning for esophageal replacement?",
+      "options": {
+        "A": "Evaluate vascular anatomy",
+        "B": "Assess conduit emptying",
+        "C": "Detect strictures",
+        "D": "Show conduit position"
+      },
+      "correct_answer": "A",
+      "explanation": "CT angiography is used for preoperative planning to evaluate vascular anatomy."
+    },
+    {
+      "question": "How is caustic injury classified for staging?",
+      "options": {
+        "A": "Zargar classification",
+        "B": "TNM staging",
+        "C": "Gross classification",
+        "D": "VACTERL association"
+      },
+      "correct_answer": "A",
+      "explanation": "Caustic injury is classified using the Zargar classification based on endoscopic grading. Grade 0 is normal, Grade 1 has edema and erythema, Grade 2 has ulcerations, 2A for superficial and 2B for deep/circumferential, and Grade 3 is with necrosis, 3A for focal and 3B for extensive. Perforation is Grade 4."
+    },
+    {
+      "question": "Which surgical procedure for esophageal replacement has the highest success rate for achieving oral nutrition?",
+      "options": {
+        "A": "Gastric Pull-Up",
+        "B": "Colonic Interposition",
+        "C": "Jejunal Interposition",
+        "D": "Magnetic compression anastomosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Gastric Pull-Up has success rates of 85-92% for achieving oral nutrition, which is the highest among the primary techniques."
+    },
+    {
+      "question": "How many anastomoses are required in colonic interposition?",
+      "options": {
+        "A": "Three",
+        "B": "One",
+        "C": "Two",
+        "D": "Four"
+      },
+      "correct_answer": "A",
+      "explanation": "Colonic interposition requires three anastomoses."
+    },
+    {
+      "question": "What is the rate of gastroesophageal reflux in late complications (>30 days)?",
+      "options": {
+        "A": "30-60%",
+        "B": "20-40%",
+        "C": "15-25%",
+        "D": "5-15%"
+      },
+      "correct_answer": "A",
+      "explanation": "GERD rates in late complications vary: gastric pull-up up to 60%, colonic interposition 20-40%, jejunal interposition lower."
+    }
+    
+  ]
+}

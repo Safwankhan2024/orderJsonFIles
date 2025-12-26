@@ -1,0 +1,82 @@
+{
+  "disease": "Caustic Esophageal Stricture",
+  "mcqs": [
+    {
+      "question": "Which type of caustic substance is most commonly associated with severe esophageal strictures?",
+      "options": {
+        "A": "Acids",
+        "B": "Alkalis",
+        "C": "Bleaches",
+        "D": "Alcohol"
+      },
+      "correct_answer": "B",
+      "explanation": "Alkalis are the most common and severe cause of caustic esophageal strictures, leading to liquefactive necrosis that penetrates deeply into tissues."
+    },
+    {
+      "question": "During which time frame does stricture formation typically occur after caustic ingestion?",
+      "options": {
+        "A": "1-2 weeks",
+        "B": "3-8 weeks",
+        "C": "6-12 months",
+        "D": "Immediately after ingestion"
+      },
+      "correct_answer": "B",
+      "explanation": "Stricture formation typically occurs 3-8 weeks post-ingestion due to uncontrolled collagen synthesis and cross-linking."
+    },
+    {
+      "question": "What is a key histopathological finding in caustic esophageal strictures?",
+      "options": {
+        "A": "Neoplastic cell proliferation",
+        "B": "Dense collagen bundles in the submucosa and muscularis propria",
+        "C": "Viral inclusion bodies",
+        "D": "Amyloid deposits"
+      },
+      "correct_answer": "B",
+      "explanation": "Histopathology reveals dense collagen bundles in the submucosa and muscularis propria, along with chronic inflammatory cell infiltrate."
+    },
+    {
+      "question": "What is the first-line imaging modality for evaluating esophageal strictures?",
+      "options": {
+        "A": "CT scan with contrast",
+        "B": "MRI",
+        "C": "Esophagogram (Barium Swallow)",
+        "D": "Ultrasound"
+      },
+      "correct_answer": "C",
+      "explanation": "Esophagogram (Barium Swallow) is the first-line imaging modality, revealing the location, length, number, and degree of strictures."
+    },
+  {
+      "question": "According to current ESPGHAN guidelines, what is the recommendation for routine corticosteroid use in acute caustic ingestion?",
+      "options": {
+        "A": "Routine use is recommended for all grades of injury",
+        "B": "No significant benefit, so not recommended routinely",
+        "C": "Only for Grade 3 injuries on endoscopy",
+        "D": "Must be combined with proton pump inhibitors"
+      },
+      "correct_answer": "B",
+      "explanation": "The 2020 ESPGHAN guidelines recommend against routine corticosteroid use, as evidence shows no significant benefit in reducing stricture formation."
+    },
+    {
+      "question": "Which cytokine is a key driver of the fibrotic process in caustic stricture pathogenesis?",
+      "options": {
+        "A": "Interleukin-1 (IL-1)",
+        "B": "Interleukin-6 (IL-6)",
+        "C": "Tumor Necrosis Factor-alpha (TNF-α)",
+        "D": "Transforming Growth Factor-beta (TGF-β1)"
+      },
+      "correct_answer": "D",
+      "explanation": "Transforming Growth Factor-beta (TGF-β1) is a key cytokine driving the fibrotic process in caustic stricture pathogenesis."
+    },
+    {
+      "question": "What is the success rate for oral feeding after gastric transposition (gastric pull-up) surgery?",
+      "options": {
+        "A": ">70%",
+        "B": ">80%",
+        "C": ">90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Success rates for oral feeding after gastric transposition are greater than 90%."
+    }
+  ]
+}

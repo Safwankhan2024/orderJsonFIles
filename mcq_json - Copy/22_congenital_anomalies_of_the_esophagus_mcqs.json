@@ -1,0 +1,50 @@
+{
+  "disease": "Congenital Anomalies of the Esophagus",
+  "mcqs": [
+    {
+      "question": "During which week of gestation does the defect leading to esophageal atresia typically occur?",
+      "options": {
+        "A": "2nd week",
+        "B": "4th week",
+        "C": "8th week",
+        "D": "12th week"
+      },
+      "correct_answer": "B",
+      "explanation": "The embryologic origin of esophageal atresia results from a defect in the separation of the primitive foregut, occurring around the 4th week of gestation."
+    },
+    {
+      "question": "What is the most common anatomical variant of esophageal atresia?",
+      "options": {
+        "A": "Gross Type A (pure atresia)",
+        "B": "Gross Type B (proximal fistula)",
+        "C": "Gross Type C (proximal EA with distal TEF)",
+        "D": "Gross Type D (both segments have fistula)"
+      },
+      "correct_answer": "C",
+      "explanation": "The most common anatomical variant is Gross Type C, which is proximal esophageal atresia with distal tracheoesophageal fistula, comprising 85% of cases."
+    },
+    {
+      "question": "Which of the following is a common prenatal symptom associated with esophageal atresia?",
+      "options": {
+        "A": "Fetal tachycardia",
+        "B": "Maternal polyhydramnios",
+        "C": "Decreased fetal movement",
+        "D": "Umbilical cord abnormalities"
+      },
+      "correct_answer": "B",
+      "explanation": "Polyhydramnios occurs because the fetus cannot swallow amniotic fluid due to esophageal obstruction, making it a common prenatal ultrasound finding in esophageal atresia."
+    },
+    {
+      "question": "What is a key physical examination finding in esophageal atresia?",
+      "options": {
+        "A": "Ability to pass a nasogastric tube easily into the stomach",
+        "B": "Inability to pass a nasogastric tube into the stomach, with coiling in the proximal pouch",
+        "C": "Presence of a heart murmur",
+        "D": "Normal respiratory rate"
+      },
+      "correct_answer": "B",
+      "explanation": "The inability to pass a nasogastric tube beyond 10-12 cm with coiling in the proximal esophageal pouch is a classic diagnostic finding, often confirmed by X-ray showing the coiled tube and air in the bowel in Type C EA/TEF."
+    }
+    
+  ]
+}

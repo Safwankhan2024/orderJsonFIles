@@ -1,0 +1,95 @@
+{
+  "disease": "Undescended Testis, Torsion, and Varicocele",
+  "mcqs": [
+    {
+      "question": "What is the relative risk of testicular malignancy in individuals with undescended testis?",
+      "options": {
+        "A": "2.5-8x higher",
+        "B": "1-2x higher",
+        "C": "10-15x higher",
+        "D": "No increased risk"
+      },
+      "correct_answer": "A",
+      "explanation": "The relative risk of testicular malignancy is 2.5-8x higher in individuals with undescended testis."
+    },
+    {
+      "question": "A 9-month-old male presents with a non-palpable left testis on physical exam. According to current pediatric urology guidelines, when should orchiopexy ideally be performed?",
+      "options": {
+        "A": "6-12 months",
+        "B": "1-3 months",
+        "C": "2-4 years",
+        "D": "During puberty"
+      },
+      "correct_answer": "A",
+      "explanation": "The American Academy of Pediatrics recommends orchiopexy between 6-12 months to optimize fertility potential and facilitate testicular examination."
+    },
+    {
+      "question": "What is the most common etiology of testicular torsion?",
+      "options": {
+        "A": "Bell-clapper deformity",
+        "B": "Trauma",
+        "C": "Infection",
+        "D": "Genetic mutations"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common etiology of testicular torsion is the bell-clapper deformity, where the testis is inadequately fixed to the tunica vaginalis."
+    },
+    {
+      "question": "A 14-year-old male presents with acute scrotal pain for 4 hours. Physical exam reveals a high-riding testis with absent cremasteric reflex. If surgical detorsion is performed immediately, what is the expected testicular salvage rate?",
+      "options": {
+        "A": "80-100%",
+        "B": "50-60%",
+        "C": "100%",
+        "D": "60-70%"
+      },
+      "correct_answer": "A",
+      "explanation": "Testicular salvage rates approach 80-100% when detorsion occurs within 6 hours of symptom onset, decreasing significantly with longer ischemia times."
+    },
+    {
+      
+  "question": "Which physical examination finding is considered the most sensitive clinical indicator for testicular torsion in the pediatric population?",
+  "options": {
+    "A": "Absence of the ipsilateral cremasteric reflex",
+    "B": "Relief of pain with scrotal elevation (Prehn sign)",
+    "C": "Presence of a 'blue dot' sign at the upper pole",
+    "D": "Vertical orientation of the contralateral testis"
+  },
+  "correct_answer": "A",
+  "explanation": "The absence of the cremasteric reflex is the most sensitive physical finding (>95-99%). However, its presence does not 100% exclude torsion. In cases of high clinical suspicion (e.g., TWIST score ≥5), immediate surgical exploration is indicated without delaying for imaging. Prehn Sign: Usually unreliable; historically said to be positive (relief) in epididymitis, but it frequently fails in practice. Blue Dot Sign: This is pathognomonic for torsion of the testicular appendage, not the spermatic cord itself. Contralateral Orientation: Not a standard diagnostic sign for acute torsion."
+},
+{
+  "question": "An adolescent male presents with acute scrotal pain. Physical exam reveals a hard testis (+2), testicular swelling (+2), nausea (+1), a high-riding testis (+1), and an absent cremasteric reflex (+1). Based on this TWIST score of 7, what is the most appropriate management?",
+  "options": {
+    "A": "Immediate surgical exploration without imaging",
+    "B": "Color Doppler ultrasound to confirm arterial flow",
+    "C": "Manual detorsion followed by elective orchiopexy",
+    "D": "Radionuclide scrotal scintigraphy"
+  },
+  "correct_answer": "A",
+  "explanation": "The TWIST (Testicular Workup for Ischemia and Suspected Torsion) score uses clinical findings to risk-stratify patients. A score of 6-7 is highly predictive of torsion; in these cases, imaging should be bypassed to avoid delaying surgery, as 'time is tissue.' In contrast, Doppler ultrasound can yield false negatives in early or intermittent torsion (partial twists). At low risk (0-2): torsion is unlikely. At intermediate risk (3-4): Imaging (Doppler US) is recommended."
+},
+    {
+      "question": "What is the definition of varicocele?",
+      "options": {
+        "A": "Abnormal dilation and tortuosity of the pampiniform plexus of veins within the scrotum",
+        "B": "Twisting of the spermatic cord",
+        "C": "Failure of testicular descent",
+        "D": "Inflammation of the epididymis"
+      },
+      "correct_answer": "A",
+      "explanation": "Varicocele is defined as abnormal dilation and tortuosity of the pampiniform plexus of veins within the scrotum."
+    },
+    {
+      "question": "What percentage of varicoceles are left-sided?",
+      "options": {
+        "A": "Over 85%",
+        "B": "50%",
+        "C": "25%",
+        "D": "10%"
+      },
+      "correct_answer": "A",
+      "explanation": "Over 85% of varicoceles are left-sided."
+    }
+    
+  ]
+}

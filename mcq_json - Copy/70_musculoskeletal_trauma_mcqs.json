@@ -1,0 +1,82 @@
+{
+  "disease": "Pediatric Musculoskeletal Trauma",
+  "mcqs": [
+    {
+      "question": "Which of the following is a modifiable risk factor for pediatric musculoskeletal trauma?",
+      "options": {
+        "A": "Age",
+        "B": "Genetic syndromes",
+        "C": "Lack of protective equipment",
+        "D": "Sex"
+      },
+      "correct_answer": "C",
+      "explanation": "Modifiable risk factors include lack of protective equipment, such as helmets. AAP recommendations include safety education, such as use of helmets, pads, and supervised play"
+    },
+    {
+      "question": "What is the primary goal in managing pediatric musculoskeletal trauma?",
+      "options": {
+        "A": "Rapid surgical intervention",
+        "B": "Preserving growth and function",
+        "C": "Minimizing hospital stay",
+        "D": "Avoiding all imaging"
+      },
+      "correct_answer": "B",
+      "explanation": "Management prioritizes preserving growth and function through evidence-based guidelines."
+    },
+    {
+      "question": "What is an indication for surgical management in pediatric musculoskeletal trauma?",
+      "options": {
+        "A": "All fractures regardless of displacement",
+        "B": "Displaced fractures or growth plate injuries (Salter-Harris III-V)",
+        "C": "Only open fractures",
+        "D": "Fractures in toddlers only"
+      },
+      "correct_answer": "B",
+      "explanation": "Surgical indications include displaced fractures, intra-articular involvement, growth plate injuries (Salter-Harris III-V), or neurovascular compromise."
+    },
+    {
+      "question": "What is the typical duration of immobilization for pediatric fractures?",
+      "options": {
+        "A": "1–2 weeks",
+        "B": "2–4 weeks",
+        "C": "4–8 weeks",
+        "D": "8–12 weeks"
+      },
+      "correct_answer": "C",
+      "explanation": "Immobilization with casting or splinting typically lasts 4–8 weeks, depending on age and fracture type."
+    },
+    {
+      "question": "What percentage of pediatric fractures heal without sequelae?",
+      "options": {
+        "A": "75%",
+        "B": "85%",
+        "C": "95%",
+        "D": "99%"
+      },
+      "correct_answer": "C",
+      "explanation": "Approximately 95% of pediatric fractures heal without sequelae due to children's robust healing capacity, provided there is appropriate management and no significant physeal involvement."
+    },
+    {
+      "question": "What is the sensitivity of MRI for occult growth plate injuries?",
+      "options": {
+        "A": ">70%",
+        "B": ">80%",
+        "C": ">90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "MRI has a sensitivity of >90% for soft tissue or occult growth plate injuries."
+    },
+    {
+      "question": "How often are X-rays typically taken during follow-up to assess healing?",
+      "options": {
+        "A": "Weekly for 4 weeks",
+        "B": "At 2, 6, and 12 weeks",
+        "C": "Only at 6 months",
+        "D": "Daily for the first week"
+      },
+      "correct_answer": "B",
+      "explanation": "Follow-up protocols include X-rays at 2, 6, and 12 weeks to assess healing and growth."
+    }
+  ]
+}

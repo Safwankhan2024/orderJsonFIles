@@ -1,0 +1,94 @@
+{
+  "disease": "Multiple Pediatric Renal Diseases",
+  "mcqs": [
+    {
+      "question": "What is the most common bacterial cause of acute pyelonephritis in children?",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Klebsiella",
+        "C": "Proteus",
+        "D": "Enterococcus"
+      },
+      "correct_answer": "A",
+      "explanation": "Escherichia coli accounts for 80–90% of cases of acute pyelonephritis in children."
+    },
+    {
+  "question": "Which urine culture result defines significant bacteriuria that supports a diagnosis of acute pyelonephritis in a clean-catch specimen?",
+  "options": {
+    "A": ">10,000 CFU/mL of a single pathogen",
+    "B": ">50,000 CFU/mL of a single pathogen",
+    "C": "≥100,000 CFU/mL of a single pathogen",
+    "D": "Positive nitrites and pyuria alone"
+  },
+  "correct_answer": "C",
+  "explanation": "Significant bacteriuria is defined as ≥100,000 CFU/mL of a single uropathogen in clean-catch specimens per IDSA guidelines. However, acute pyelonephritis is primarily a clinical diagnosis based on systemic signs (fever, flank pain, costovertebral angle tenderness); urine cultures support but do not alone confirm the diagnosis. The culture is essential for identifying the organism and guiding targeted antibiotic therapy. Lower counts (≥10,000 CFU/mL) may be significant in catheterized specimens or highly symptomatic patients. Option D is suggestive but insufficient for pyelonephritis diagnosis."
+},
+    {
+      "question": "What imaging study is considered the gold standard for detecting renal parenchymal inflammation and scarring following pyelonephritis?",
+      "options": {
+        "A": "Renal ultrasound",
+        "B": "CT scan",
+        "C": "DMSA scan",
+        "D": "VCUG"
+      },
+      "correct_answer": "C",
+      "explanation": "DMSA (dimercaptosuccinic acid) renal scan is the most sensitive modality for detecting acute inflammation and subsequent renal scarring, typically performed 4-6 months after infection."
+    },
+    {
+      "question": "With appropriate antibiotic treatment initiated promptly, what is the approximate success rate for resolution of uncomplicated acute pyelonephritis in children?",
+      "options": {
+        "A": "70-80%",
+        "B": "85-90%",
+        "C": ">95%",
+        "D": "100%"
+      },
+      "correct_answer": "B",
+      "explanation": "With timely appropriate antibiotic therapy, approximately 85-90% of children with uncomplicated acute pyelonephritis achieve complete resolution without complications."
+    },
+    {
+      "question": "What is a renal abscess?",
+      "options": {
+        "A": "A bacterial infection of the bladder",
+        "B": "A localized collection of pus within the renal parenchyma",
+        "C": "A stone in the kidney",
+        "D": "A blood clot in the renal vein"
+      },
+      "correct_answer": "B",
+      "explanation": "A renal abscess is defined as a localized collection of pus within the renal parenchyma."
+    },
+    {
+      "question": "What is the gold standard imaging for diagnosing a renal abscess?",
+      "options": {
+        "A": "Ultrasound",
+        "B": "X-ray",
+        "C": "CT with contrast",
+        "D": "MRI"
+      },
+      "correct_answer": "C",
+      "explanation": "CT with contrast is the gold standard imaging modality for renal abscess, showing a hypodense lesion with rim enhancement."
+    },
+    {
+      "question": "What is vesicoureteral reflux (VUR)?",
+      "options": {
+        "A": "Forward flow of urine from kidneys to bladder",
+        "B": "Retrograde flow of urine from bladder to ureters and kidneys",
+        "C": "Blockage in the ureter",
+        "D": "Infection in the kidney"
+      },
+      "correct_answer": "B",
+      "explanation": "Vesicoureteral reflux is defined as the retrograde flow of urine from the bladder to the ureters and kidneys due to an incompetent ureterovesical junction."
+    },
+    {
+      "question": "In what age group does 90% of renal vein thrombosis occur?",
+      "options": {
+        "A": "Infants",
+        "B": "Neonates",
+        "C": "Adolescents",
+        "D": "Adults"
+      },
+      "correct_answer": "B",
+      "explanation": "90% of renal vein thrombosis cases occur in neonates."
+    }
+    
+  ]
+}

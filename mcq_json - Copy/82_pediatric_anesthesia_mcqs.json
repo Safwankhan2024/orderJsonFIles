@@ -1,0 +1,50 @@
+{
+  "disease": "Pediatric Anesthesia",
+  "mcqs": [
+    {
+      "question": "In infants, what physiological factor predisposes them to hypoxia during anesthesia?",
+      "options": {
+        "A": "Increased functional residual capacity",
+        "B": "Reduced functional residual capacity and increased oxygen consumption",
+        "C": "Decreased heart rate",
+        "D": "Mature hepatic systems"
+      },
+      "correct_answer": "B",
+      "explanation": "Reduced functional residual capacity and increased oxygen consumption in infants predispose to hypoxia."
+    },
+    {
+      "question": "Which drug is used for premedication to reduce anxiety in children?",
+      "options": {
+        "A": "Propofol",
+        "B": "Fentanyl",
+        "C": "Midazolam",
+        "D": "Dexmedetomidine"
+      },
+      "correct_answer": "C",
+      "explanation": "Midazolam is used for anxiety reduction as premedication."
+    },
+    {
+      "question": "Which syndrome is associated with atlantoaxial instability and airway stenosis?",
+      "options": {
+        "A": "Pierre Robin sequence",
+        "B": "Down syndrome",
+        "C": "Treacher Collins syndrome",
+        "D": "Marfan syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Down syndrome is linked to atlantoaxial instability due to ligamentous laxity and upper airway issues like subglottic stenosis, requiring careful airway management in anesthesia."
+    },
+    {
+      "question": "What is the molecular mechanism of malignant hyperthermia?",
+      "options": {
+        "A": "Uncontrolled calcium release in skeletal muscle",
+        "B": "Decreased drug metabolism",
+        "C": "Airway obstruction",
+        "D": "Hypotension"
+      },
+      "correct_answer": "A",
+      "explanation": "Malignant hyperthermia involves uncontrolled calcium release in skeletal muscle via RYR1 mutations."
+    }
+    
+  ]
+}

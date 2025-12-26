@@ -1,0 +1,93 @@
+{
+  "disease": "Pediatric Lymphadenopathy",
+  "mcqs": [
+    {
+      "question": "In children over 1 year of age, what is the size criterion for abnormal enlargement of most peripheral lymph nodes?",
+      "options": {
+        "A": ">0.5 cm",
+        "B": ">1 cm",
+        "C": ">1.5 cm",
+        "D": ">2 cm"
+      },
+      "correct_answer": "B",
+      "explanation": "Lymphadenopathy is defined as abnormal enlargement of lymph nodes, with sizes greater than 1 cm for most peripheral nodes and greater than 1.5 cm for inguinal nodes."
+    },
+    {
+      "question": "Approximately what percentage of pediatric lymphadenopathy cases are due to reactive or inflammatory causes?",
+      "options": {
+        "A": "50%",
+        "B": "60%",
+        "C": "80%",
+        "D": "90%"
+      },
+      "correct_answer": "C",
+      "explanation": "Reactive or inflammatory causes account for approximately 80% of pediatric lymphadenopathy cases."
+    },
+    {
+      "question": "What percentage of children referred for persistent lymphadenopathy are diagnosed with malignancy?",
+      "options": {
+        "A": "1%",
+        "B": "3.2%",
+        "C": "10%",
+        "D": "20%"
+      },
+      "correct_answer": "B",
+      "explanation": "A 2020 study found that only approximately 3.2% of children referred for persistent lymphadenopathy were diagnosed with malignancy."
+    },
+    {
+      "question": "A 7-year-old presents with persistent cervical lymphadenopathy. Which of the following symptoms would be most concerning for malignancy?",
+      "options": {
+        "A": "Intermittent low-grade fever",
+        "B": "Drenching night sweats",
+        "C": "Mild pruritic rash",
+        "D": "Occasional non-bloody diarrhea"
+      },
+      "correct_answer": "B",
+      "explanation": "Drenching night sweats are one of the 'B symptoms' (along with fever >38°C and weight loss >10% in 6 months) that raise concern for lymphoma."
+    },
+    {
+      "question": "Which lymph node location is associated with the highest risk of malignancy?",
+      "options": {
+        "A": "Cervical",
+        "B": "Axillary",
+        "C": "Inguinal",
+        "D": "Supraclavicular"
+      },
+      "correct_answer": "D",
+      "explanation": "Supraclavicular lymphadenopathy in children has a higher malignancy risk than cervical or axillary nodes and always warrants thorough investigation."
+    },
+    {
+      "question": "What is the gold standard biopsy technique for diagnosing lymphoma?",
+      "options": {
+        "A": "Fine-Needle Aspiration",
+        "B": "Core Needle Biopsy",
+        "C": "Excisional Biopsy",
+        "D": "Incision and Drainage"
+      },
+      "correct_answer": "C",
+      "explanation": "Excisional biopsy remains the gold standard for diagnosing lymphoma, with a diagnostic accuracy of over 98%, as it preserves nodal architecture for histopathology, immunohistochemistry, and flow cytometry."
+    },
+    {
+      "question": "What is the treatment of choice for chronic granulomatous lymphadenitis due to nontuberculous mycobacteria?",
+      "options": {
+        "A": "Antibiotics alone",
+        "B": "Incision and drainage",
+        "C": "Complete surgical excision",
+        "D": "Radiation therapy"
+      },
+      "correct_answer": "C",
+      "explanation": "Complete surgical excision is the treatment of choice for chronic granulomatous lymphadenitis due to nontuberculous mycobacteria, associated with a cure rate of 85-95% and lower recurrence rates."
+    },
+    {
+      "question": "What is the success rate of incision and drainage for acute suppurative lymphadenitis when combined with antibiotics?",
+      "options": {
+        "A": ">95%",
+        "B": "80%",
+        "C": "70%",
+        "D": "60%"
+      },
+      "correct_answer": "A",
+      "explanation": "Incision and drainage for acute suppurative lymphadenitis has success rates for resolution of over 95% when combined with appropriate antibiotics."
+    }
+  ]
+}

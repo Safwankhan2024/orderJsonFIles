@@ -1,0 +1,170 @@
+{
+  "disease": "Bladder and Cloacal Exstrophy",
+  "mcqs": [
+    {
+      "question": "What is the defining characteristic of bladder exstrophy?",
+      "options": {
+        "A": "Exposure of the urinary bladder through an abdominal wall defect",
+        "B": "Intestinal obstruction at birth",
+        "C": "Complete absence of the bladder",
+        "D": "Bladder diverticulum"
+      },
+      "correct_answer": "A",
+      "explanation": "Bladder exstrophy is a congenital anomaly characterized by exposure of the urinary bladder through an abdominal wall defect."
+    },
+    {
+      "question": "What does the acronym BEEC stand for?",
+      "options": {
+        "A": "Bladder Exstrophy-Epispadias Complex",
+        "B": "Bladder Ectopia Exstrophy Condition",
+        "C": "Bilateral Exstrophy Epispadias Complex",
+        "D": "Bladder Exstrophy-Extrophy Complex"
+      },
+      "correct_answer": "A",
+      "explanation": "BEEC is a synonym for Bladder Exstrophy-Epispadias Complex."
+    },
+    {
+      "question": "What is the current understanding of the etiology of bladder and cloacal exstrophy?",
+      "options": {
+        "A": "Solely genetic factors",
+        "B": "Multifactorial origins involving genetic and environmental factors",
+        "C": "Exclusively environmental triggers",
+        "D": "Known viral infection cause"
+      },
+      "correct_answer": "B",
+      "explanation": "The exact etiology remains incompletely understood, with current evidence suggesting multifactorial origins involving genetic and environmental factors."
+    },
+    {
+      "question": "During which gestational weeks does the embryologic failure leading to exstrophy occur?",
+      "options": {
+        "A": "2-4 weeks",
+        "B": "4-6 weeks",
+        "C": "6-8 weeks",
+        "D": "8-10 weeks"
+      },
+      "correct_answer": "B",
+      "explanation": "The failure occurs between 4-6 weeks gestation due to failed caudal fold migration and cloacal membrane rupture."
+    },
+    {
+      "question": "What prevents medial migration of mesenchymal tissue in the pathogenesis of exstrophy?",
+      "options": {
+        "A": "Abnormal overdevelopment of the cloacal membrane",
+        "B": "Genetic mutations alone",
+        "C": "Environmental toxin exposure",
+        "D": "Viral infections"
+      },
+      "correct_answer": "A",
+      "explanation": "Abnormal overdevelopment of the cloacal membrane prevents medial migration of mesenchymal tissue, leading to the abdominal wall defect."
+    },
+    {
+      "question": "What is a key gross pathological feature of bladder exstrophy?",
+      "options": {
+        "A": "Exposed bladder plate and low-set umbilicus",
+        "B": "Central intestinal plate only",
+        "C": "Isolated spinal defects",
+        "D": "Normal pubic symphysis"
+      },
+      "correct_answer": "A",
+      "explanation": "Gross pathology of bladder exstrophy includes an exposed bladder plate, low-set umbilicus, widened pubic diastasis, and epispadias."
+    },
+    {
+      "question": "What percentage of untreated bladder exstrophy cases develop vesicoureteral reflux?",
+      "options": {
+        "A": "50-60%",
+        "B": "85-95%",
+        "C": "70-80%",
+        "D": "30-40%"
+      },
+      "correct_answer": "B",
+      "explanation": "Vesicoureteral reflux occurs in 85-95% of untreated cases."
+    },
+    {
+      "question": "A couple with a father who had bladder exstrophy is planning a pregnancy. What is the approximate recurrence risk for their offspring compared to the general population risk of 1:50,000?",
+      "options": {
+        "A": "Approximately 10-fold increased risk (1:5,000)",
+        "B": "Approximately 100-fold increased risk (1:500)",
+        "C": "Approximately 500-fold increased risk (1:100)",
+        "D": "No increased risk over population baseline"
+      },
+      "correct_answer": "B",
+      "explanation": "Offspring of affected parents have approximately 1-2% recurrence risk, representing about a 100-fold increase compared to the general population risk of 1:30,000-50,000."
+    },
+    {
+      "question": "What is the typical width of pubic diastasis in exstrophy?",
+      "options": {
+        "A": "≥2 cm",
+        "B": "≥4 cm",
+        "C": "≥6 cm",
+        "D": "≥8 cm"
+      },
+      "correct_answer": "B",
+      "explanation": "Widened pubic diastasis is typically ≥4 cm."
+    },
+    {
+      "question": "What percentage of males with bladder exstrophy have associated epispadias?",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "100%",
+        "D": "25%"
+      },
+      "correct_answer": "C",
+      "explanation": "Epispadias is present in 100% of males with bladder exstrophy."
+    },
+    {
+      "question": "What is an initial medical management step for protecting exposed mucosa?",
+      "options": {
+        "A": "Sterile plastic wrap",
+        "B": "Antibiotic ointment only",
+        "C": "Surgical dressing with silver",
+        "D": "No intervention needed"
+      },
+      "correct_answer": "A",
+      "explanation": "Initial management involves protecting exposed mucosa with sterile plastic wrap."
+    },
+    {
+      "question": "In modern staged reconstruction for bladder exstrophy, what percentage of patients typically achieve daytime urinary continence?",
+      "options": {
+        "A": "50-60%",
+        "B": "65-80%",
+        "C": "85-95%",
+        "D": "70-75%"
+      },
+      "correct_answer": "B",
+      "explanation": "Contemporary staged reconstruction with bladder neck repair achieves daytime continence in 70-85% of patients, though many require clean intermittent catheterization or additional procedures."
+    },
+    {
+      "question": "What is the rate of wound dehiscence as an early complication?",
+      "options": {
+        "A": "1-5%",
+        "B": "10-20%",
+        "C": "25-30%",
+        "D": "35-40%"
+      },
+      "correct_answer": "B",
+      "explanation": "Early complications include wound dehiscence in 10-20% of cases."
+    },
+    {
+      "question": "What is the primary cause of mortality in cloacal exstrophy?",
+      "options": {
+        "A": "Surgical complications alone",
+        "B": "Associated anomalies",
+        "C": "Infections",
+        "D": "Genetic disorders"
+      },
+      "correct_answer": "B",
+      "explanation": "Mortality for cloacal exstrophy is 10-25%, primarily due to associated anomalies."
+    },
+    {
+      "question": "What is a key aspect of prevention and counseling for exstrophy?",
+      "options": {
+        "A": "Genetic counseling for affected families",
+        "B": "Vaccination strategies",
+        "C": "Dietary modifications",
+        "D": "Environmental avoidance"
+      },
+      "correct_answer": "A",
+      "explanation": "Prevention and counseling include genetic counseling for affected families, as there are no known prevention strategies."
+    }
+  ]
+}

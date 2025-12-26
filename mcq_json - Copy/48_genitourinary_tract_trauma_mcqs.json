@@ -1,0 +1,50 @@
+{
+  "disease": "Pediatric Genitourinary Trauma",
+  "mcqs": [
+    {
+      "question": "A 10-year-old boy presents after a bicycle accident with pelvic pain. Which physical finding is most specific for a urethral injury?",
+      "options": {
+        "A": "Grey Turner sign",
+        "B": "Blood at urethral meatus",
+        "C": "Pelvic instability",
+        "D": "Suprapubic tenderness"
+      },
+      "correct_answer": "B",
+      "explanation": "Blood at the urethral meatus is the most specific sign for urethral injury, though perineal hematoma and inability to void are also suggestive."
+    },
+    {
+      "question": "In what percentage of significant renal injuries is hematuria present?",
+      "options": {
+        "A": "50-60%",
+        "B": "65-75%",
+        "C": "75-85%",
+        "D": "85-95%"
+      },
+      "correct_answer": "D",
+      "explanation": "Hematuria is present in 85-95% of significant renal injuries."
+    },
+    {
+      "question": "A 7-year-old with blunt abdominal trauma has a grade III renal laceration on CT. What is the most likely management approach?",
+      "options": {
+        "A": "Immediate surgical exploration",
+        "B": "Angioembolization within 6 hours",
+        "C": "Nonoperative management with observation",
+        "D": "Percutaneous drainage of perirenal hematoma"
+      },
+      "correct_answer": "C",
+      "explanation": "Over 90% of pediatric renal trauma, including many grade III injuries, is managed nonoperatively with close monitoring and supportive care."
+    },
+    {
+      "question": "What is the success rate of angioembolization for arterial bleeding in pediatric genitourinary trauma?",
+      "options": {
+        "A": "70-80%",
+        "B": "80-85%",
+        "C": "85-95%",
+        "D": "95-100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Angioembolization for arterial bleeding has success rates of 85-95%."
+    }
+    
+  ]
+}

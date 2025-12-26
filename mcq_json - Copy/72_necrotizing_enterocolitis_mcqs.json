@@ -1,0 +1,159 @@
+{
+  "disease": "Necrotizing Enterocolitis",
+  "mcqs": [
+    {
+      "question": "What is necrotizing enterocolitis characterized by?",
+      "options": {
+        "A": "Mucosal or transmural necrosis of the colon and/or intestine",
+        "B": "Inflammation limited to the esophagus",
+        "C": "Isolated gastric ulceration",
+        "D": "Hepatic necrosis"
+      },
+      "correct_answer": "A",
+      "explanation": "NEC is characterized by intestinal necrosis affecting primarily the ileum and colon. It most commonly occurs in preterm infants but can also affect term infants with risk factors such as congenital heart disease or intrauterine growth restriction."
+    },
+    {
+      "question": "Which of the following is the single greatest risk factor for NEC?",
+      "options": {
+        "A": "Prematurity",
+        "B": "Formula feeding",
+        "C": "Prolonged antibiotic use",
+        "D": "Congenital heart disease"
+      },
+      "correct_answer": "A",
+      "explanation": "Prematurity is the single greatest risk factor for NEC, with incidence inversely proportional to gestational age. The immature intestinal mucosa, impaired immune function, and dysregulated microbiome in preterm infants predispose to mucosal injury and subsequent necrosis."
+    },
+    {
+      "question": "Which modifiable risk factor is most strongly associated with NEC?",
+      "options": {
+        "A": "Formula feeding",
+        "B": "Male sex",
+        "C": "Genetic polymorphisms",
+        "D": "Geographic location"
+      },
+      "correct_answer": "A",
+      "explanation": "Formula feeding is a key modifiable risk factor. Compared to exclusive human milk feeding, formula feeding increases NEC risk due to lack of protective immunoglobulins, growth factors, and beneficial microbiome modulation present in breast milk."
+    },
+    {
+      "question": "What is the first step in the pathogenesis sequence of NEC?",
+      "options": {
+        "A": "Intestinal mucosal injury",
+        "B": "Bacterial translocation",
+        "C": "Inflammatory cascade activation",
+        "D": "Tissue necrosis and perforation"
+      },
+      "correct_answer": "A",
+      "explanation": "The pathogenesis sequence begins with intestinal mucosal injury (from ischemia, inflammation, or toxins), followed by bacterial translocation, inflammatory cascade activation, impaired mucosal blood flow, and ultimately tissue necrosis and perforation."
+    },
+    {
+      "question": "Which histological finding is characteristic of NEC?",
+      "options": {
+        "A": "Transmural coagulation necrosis",
+        "B": "Fibrosis",
+        "C": "Granulomas",
+        "D": "Amyloid deposits"
+      },
+      "correct_answer": "A",
+      "explanation": "Histopathological findings include transmural coagulation necrosis, submucosal gas cysts (pneumatosis intestinalis), bacterial invasion of the bowel wall, and acute inflammatory infiltrate with hemorrhage."
+    },
+    {
+      "question": "Which laboratory finding is a hallmark of severe NEC?",
+      "options": {
+        "A": "Thrombocytopenia",
+        "B": "Hyperglycemia",
+        "C": "Hypocalcemia",
+        "D": "Elevated bilirubin"
+      },
+      "correct_answer": "A",
+      "explanation": "Thrombocytopenia is a hallmark laboratory finding in NEC, indicating consumptive coagulopathy and bone marrow suppression. It often correlates with disease severity and predicts worse outcomes. Leukopenia and metabolic acidosis are also common."
+    },
+    {
+      "question": "What is a specific finding on abdominal X-ray for NEC?",
+      "options": {
+        "A": "Pneumatosis intestinalis",
+        "B": "Calcifications",
+        "C": "Dilated ureters",
+        "D": "Osteopenia"
+      },
+      "correct_answer": "A",
+      "explanation": "Abdominal X-ray findings include pneumatosis intestinalis (pathognomonic, representing intramural gas), portal venous gas (pneumatosis portalis), fixed dilated bowel loops, and pneumoperitoneum indicating perforation."
+    },
+    {
+      "question": "In Modified Bell's Staging Criteria, which stage requires surgical intervention?",
+      "options": {
+        "A": "Stage III",
+        "B": "Stage I",
+        "C": "Stage II",
+        "D": "All stages"
+      },
+      "correct_answer": "A",
+      "explanation": "Stage III represents advanced NEC with systemic illness (thrombocytopenia, metabolic acidosis) or intestinal perforation (pneumoperitoneum), often necessitating surgical intervention, though hemodynamically stable cases may initially be managed medically."
+    },
+    {
+      "question": "Which finding is an absolute indication for surgical intervention in NEC?",
+      "options": {
+        "A": "Pneumoperitoneum",
+        "B": "Feeding intolerance",
+        "C": "Thrombocytopenia",
+        "D": "Elevated CRP"
+      },
+      "correct_answer": "A",
+      "explanation": "Pneumoperitoneum is an absolute indication for surgical intervention in NEC, as it signifies intestinal perforation. Other surgical indications include clinical deterioration despite maximal medical therapy and positive paracentesis (brown fluid indicating necrosis)."
+    },
+    {
+      "question": "According to current neonatal guidelines, what is the typical recommended duration of broad-spectrum antibiotic therapy for medically managed NEC?",
+      "options": {
+        "A": "7-10 days",
+        "B": "10-14 days",
+        "C": "14-21 days",
+        "D": "Until clinical resolution plus 7 days"
+      },
+      "correct_answer": "B",
+      "explanation": "Broad-spectrum antibiotics are typically administered for 10-14 days in NEC. Duration may be extended to 14-21 days in severe cases or adjusted based on clinical response, blood culture results, and normalization of inflammatory markers."
+    },
+    {
+      "question": "How much does human milk feeding reduce the incidence of NEC compared to formula feeding?",
+      "options": {
+        "A": "50-80%",
+        "B": "10-20%",
+        "C": "30-40%",
+        "D": "90-100%"
+      },
+      "correct_answer": "A",
+      "explanation": "Exclusive human milk feeding reduces NEC incidence by 50-80% compared to formula feeding. This protective effect is dose-dependent, with any amount of human milk providing benefit. Colostrum and expressed breast milk contain immunoglobulins, growth factors, and promote beneficial microbiome development."
+    },
+    {
+      "question": "Which preventive strategy is considered the most effective for reducing NEC incidence?",
+      "options": {
+        "A": "Human milk feeding",
+        "B": "Antibiotic prophylaxis",
+        "C": "Early enteral feeding",
+        "D": "Vitamin supplementation"
+      },
+      "correct_answer": "A",
+      "explanation": "Human milk feeding is the most effective preventive strategy for reducing NEC incidence. While probiotics show benefit, human milk provides multifactorial protection through immunomodulation, antimicrobial factors, and optimal nutrition. Early trophic feeding with human milk is recommended when possible."
+    },
+    {
+      "question": "What effect does probiotic supplementation have on NEC incidence according to meta-analyses?",
+      "options": {
+        "A": "Reduces incidence and mortality",
+        "B": "Increases incidence",
+        "C": "No significant effect",
+        "D": "Only reduces mortality without affecting incidence"
+      },
+      "correct_answer": "A",
+      "explanation": "Probiotic supplementation reduces both NEC incidence and mortality in preterm infants, as confirmed by multiple meta-analyses. However, recent guidelines note conflicting evidence and safety concerns in extremely preterm infants, recommending use only in specific populations with careful monitoring."
+    },
+    {
+      "question": "What is the typical timing for performing a contrast enema in postoperative follow-up for NEC?",
+      "options": {
+        "A": "6-8 weeks post-operatively",
+        "B": "Immediately after surgery",
+        "C": "1 year post-operatively",
+        "D": "2-4 weeks post-operatively"
+      },
+      "correct_answer": "A",
+      "explanation": "A contrast enema is performed 6-8 weeks post-operatively to evaluate for intestinal stricture at the NEC site before stoma reversal. Approximately 20-30% of surgical NEC patients develop strictures requiring resection or dilation. Contrast study identifies the location and severity of strictures to guide surgical planning."
+    }
+  ]
+}

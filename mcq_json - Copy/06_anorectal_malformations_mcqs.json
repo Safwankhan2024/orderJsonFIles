@@ -1,0 +1,126 @@
+{
+  "disease": "Anorectal Malformations",
+  "mcqs": [
+    {
+      "question": "During which weeks of gestation does the embryological disruption leading to ARM occur?",
+      "options": {
+        "A": "Between the 1st and 2nd weeks",
+        "B": "Between the 4th and 8th weeks",
+        "C": "Between the 10th and 12th weeks",
+        "D": "After the 20th week"
+      },
+      "correct_answer": "B",
+      "explanation": "The etiology of ARM involves a disruption in the complex embryological development of the hindgut, cloaca, and urogenital sinus between the 4th and 8th weeks of gestation. ARM results from the failed descent and separation of the hindgut from the urogenital tract by the urorectal septum."
+    },
+    {
+      "question": "Which syndrome is the most common association in ARM patients?",
+      "options": {
+        "A": "Currarino Syndrome",
+        "B": "Townes-Brocks Syndrome",
+        "C": "VACTERL/VATER association",
+        "D": "Cat-eye syndrome"
+      },
+      "correct_answer": "C",
+      "explanation": "VACTERL/VATER association is the most common association, present in approximately 20-30% of ARM patients."
+    },
+    {
+      "question": "Which sign suggests a high lesion in ARM?",
+      "options": {
+        "A": "Bucket handle malformation",
+        "B": "Meconium in urine' and 'Flat rocker-bottom perineum",
+        "C": "Anal skin tag",
+        "D": "Meconium in urine"
+      },
+      "correct_answer": "B",
+      "explanation": "The classic sign for high lesions is meconium in urine (rectourinary fistula) with absence of perineal fistula. Additional sign is a flat 'rocker-bottom' perineum."
+    },
+    {
+      "question": "What percentage of ARM patients have associated anomalies?",
+      "options": {
+        "A": "10-20%",
+        "B": "30-40%",
+        "C": "50-60%",
+        "D": "70-80%"
+      },
+      "correct_answer": "C",
+      "explanation": "Up to 50-60% of patients have associated anomalies."
+    },
+    {
+      "question": "What is the gold standard pre-operative study to define fistula anatomy in high/intermediate lesions?",
+      "options": {
+        "A": "Invertogram",
+        "B": "Perineal Ultrasound",
+        "C": "Distal Colostogram",
+        "D": "MRI"
+      },
+      "correct_answer": "C",
+      "explanation": "Distal Colostogram is the gold standard pre-operative study to define the fistula anatomy in high/intermediate lesions."
+    },
+    {
+      "question": "What is the current international standard classification for ARM?",
+      "options": {
+        "A": "Wingspread Classification",
+        "B": "Krickenbeck Classification",
+        "C": "Peña Classification",
+        "D": "VACTERL Classification"
+      },
+      "correct_answer": "B",
+      "explanation": "The Krickenbeck Classification (2005) is the current international standard."
+    },
+    {
+      "question": "For high/intermediate lesions, what is the initial surgical step?",
+      "options": {
+        "A": "Anoplasty",
+        "B": "Diverting colostomy",
+        "C": "PSARP",
+        "D": "LAARP"
+      },
+      "correct_answer": "B",
+      "explanation": "For high/intermediate lesions, the initial step is a diverting colostomy in the neonatal period."
+    },
+    {
+      "question": "What percentage of High ARM patients achieve social continence?",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "70-75%",
+        "D": "80-85%"
+      },
+      "correct_answer": "C",
+      "explanation": "Social continence rates range from ~70-75% achievable with bowel management for high lesions while upto >90% for low lesions."
+    },
+    {
+      "question": "What determines the type of malformation in ARM?",
+      "options": {
+        "A": "The level of arrest in rectal descent",
+        "B": "The presence of infection",
+        "C": "The baby's weight",
+        "D": "The mother's age"
+      },
+      "correct_answer": "A",
+      "explanation": "The level of arrest in rectal descent determines the type of malformation (high, intermediate, low)."
+    },
+    {
+      "question": "When do anal dilatations begin after surgery?",
+      "options": {
+        "A": "Immediately after surgery",
+        "B": "2 weeks post-operatively",
+        "C": "1 month post-operatively",
+        "D": "After colostomy closure"
+      },
+      "correct_answer": "B",
+      "explanation": "Anal dilatations begin 2 weeks post-operatively to prevent stricture."
+    },
+    {
+      "question": "What is the focus of lifelong follow-up for ARM patients?",
+      "options": {
+        "A": "Only bowel function",
+        "B": "Bowel function, urinary function, renal health, and spinal surveillance",
+        "C": "Only renal health",
+        "D": "Only spinal surveillance"
+      },
+      "correct_answer": "B",
+      "explanation": "Follow-up focuses on bowel function, urinary function, renal health (annual ultrasound), and spinal surveillance."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "disease": "Choledochal Cyst",
+  "mcqs": [
+    {
+      "question": "Which factor is most strongly associated with the development of choledochal cysts",
+      "options": {
+        "A": "JAG1 mutations in Alagille syndrome",
+        "B": "Anomalous pancreaticobiliary junction (APBJ)",
+        "C": "Genetic mutation in the JAG1 gene",
+        "D": "Exposure to environmental toxins"
+      },
+      "correct_answer": "B",
+      "explanation": "Anomalous pancreaticobiliary junction (APBJ) is a major associated factor present in 50-80% of cases, but the exact etiology remains multifactorial with genetic and developmental components"
+    },
+    {
+      "question": "What is the pathogenesis sequence of choledochal cysts?",
+      "options": {
+        "A": "Bile stasis → infection → dilation",
+        "B": "anomalous pancreaticobiliary junction (APBJ) → reflux of pancreatic juice → enzymatic digestion → weakness and dilation",
+        "C": "Genetic mutation → inflammation → fibrosis",
+        "D": "Obstruction → pressure buildup → rupture"
+      },
+      "correct_answer": "B",
+      "explanation": "APBJ leads to reflux of pancreatic enzymes in many cases, causing duct wall damage, but pathogenesis may also involve congenital ductal weakness and other factors"
+    },
+    {
+      "question": "Which imaging technique is considered the gold standard for diagnosis and classification of choledochal cysts?",
+      "options": {
+        "A": "ERCP",
+        "B": "MRCP",
+        "C": "PET scan",
+        "D": "HIDA scan"
+      },
+      "correct_answer": "B",
+      "explanation": "MRCP provides excellent non-invasive visualization of the biliary tree with >95% sensitivity for detecting choledochal cysts and allows accurate Todani classification without radiation exposure."
+    },
+    {
+      "question": "What is the standard surgical technique for choledochal cyst excision?",
+      "options": {
+        "A": "Cholecystectomy",
+        "B": "Complete cyst excision with Roux-en-Y hepaticojejunostomy",
+        "C": "Endoscopic sphincterotomy",
+        "D": "Liver resection"
+      },
+      "correct_answer": "B",
+      "explanation": "The standard technique is complete cyst excision with Roux-en-Y hepaticojejunostomy."
+    },
+    {
+      "question": "What is a key component of postoperative management following choledochal cyst excision with hepaticojejunostomy?",
+      "options": {
+        "A": "Prolonged nil per os (NPO) status for 5-7 days",
+        "B": "Early enteral feeding and monitoring for biliary complications",
+        "C": "Routine endoscopic retrograde cholangiopancreatography (ERCP) before discharge",
+        "D": "Delayed enteral nutrition until bowel function fully returns"
+      },
+      "correct_answer": "B",
+      "explanation": "Early enteral feeding promotes recovery while vigilant monitoring for complications like bile leak, anastomotic stricture, or cholangitis is essential in the postoperative period."
+    }
+    
+  ]
+}

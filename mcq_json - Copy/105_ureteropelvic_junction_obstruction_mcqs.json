@@ -1,0 +1,60 @@
+{
+  "disease": "Ureteropelvic Junction Obstruction",
+  "mcqs": [
+    {
+      "question": "In a 6-month-old infant with ureteropelvic junction obstruction (UPJO), what is the most likely mode of presentation?",
+      "options": {
+        "A": "Palpable abdominal mass detected during routine examination",
+        "B": "Recurrent febrile urinary tract infections",
+        "C": "Gross hematuria following minor trauma",
+        "D": "Hypertension with headache and visual changes"
+      },
+      "correct_answer": "A",
+      "explanation": "Infants with UPJO typically present with an asymptomatic abdominal mass detected during routine physical examination or prenatal ultrasound screening, as symptoms like pain and infection are more common in older children."
+    },
+    {
+      "question": "Which of the following is a recognized long-term complication of untreated ureteropelvic junction obstruction?",
+      "options": {
+        "A": "Progressive renal function deterioration",
+        "B": "Increased risk of bladder cancer",
+        "C": "Development of nephrogenic diabetes insipidus",
+        "D": "Spontaneous resolution with normal renal growth"
+      },
+      "correct_answer": "A",
+      "explanation": "Untreated UPJO can lead to progressive renal damage due to chronic obstruction, resulting in impaired renal function, while stone formation and infection are additional potential complications."
+    },
+    {
+      "question": "On diuretic renography, what T½ washout time indicates obstruction in UPJO?",
+      "options": {
+        "A": ">10 minutes",
+        "B": ">20 minutes",
+        "C": ">30 minutes",
+        "D": ">40 minutes"
+      },
+      "correct_answer": "B",
+      "explanation": "A T½ washout time greater than 20 minutes on diuretic renography indicates obstruction in UPJO."
+    },
+    {
+      "question": "When is a ureteral stent typically removed after pyeloplasty?",
+      "options": {
+        "A": "1 week",
+        "B": "2-6 weeks",
+        "C": "3 months",
+        "D": "6 months"
+      },
+      "correct_answer": "B",
+      "explanation": "A ureteral stent is typically removed at 2-6 weeks postoperatively."
+    },
+    {
+      "question": "What is the recurrence rate after pyeloplasty for UPJO?",
+      "options": {
+        "A": "1-3%",
+        "B": "5-10%",
+        "C": "10-15%",
+        "D": "15-20%"
+      },
+      "correct_answer": "A",
+      "explanation": "The recurrence rate after pyeloplasty for UPJO is 1-3%."
+    }
+  ]
+}

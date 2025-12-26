@@ -1,0 +1,116 @@
+{
+  "disease": "Otolaryngologic Disorders",
+  "mcqs": [
+    {
+      "question": "Which of the following is the most common bacterial pathogen causing acute otitis media in children?",
+      "options": {
+        "A": "Respiratory syncytial virus (RSV)",
+        "B": "Streptococcus pneumoniae",
+        "C": "Influenza virus",
+        "D": "Adenovirus"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary bacterial pathogens for Acute Otitis Media include Streptococcus pneumoniae, non-typeable Haemophilus influenzae, and Moraxella catarrhalis."
+    },
+    {
+      "question": "What is a potential complication of Acute Otitis Media?",
+      "options": {
+        "A": "Gastroesophageal reflux",
+        "B": "Acute mastoiditis",
+        "C": "Central sleep apnea",
+        "D": "Allergic rhinitis"
+      },
+      "correct_answer": "B",
+      "explanation": "Complications of AOM include tympanic membrane perforation, acute mastoiditis, petrositis, labyrinthitis, facial nerve paralysis, and intracranial complications such as meningitis or brain abscess."
+    },
+    {
+      "question": "According to current guidelines, which of the following is an indication for tympanostomy tube placement in children with acute otitis media?",
+      "options": {
+        "A": "First episode of AOM regardless of severity",
+        "B": "Recurrent AOM (≥3 episodes in 6 months or ≥4 episodes in 12 months)",
+        "C": "Mild unilateral AOM with minimal symptoms",
+        "D": "Any episode of AOM with fever"
+      },
+      "correct_answer": "B",
+      "explanation": "Tympanostomy tubes are indicated for recurrent AOM (≥3 episodes in 6 months or ≥4 episodes in 12 months) or persistent middle ear effusion with hearing loss lasting ≥3 months."
+    },
+    {
+      "question": "What is the definition of Obstructive Sleep-Disordered Breathing (oSDB) / Pediatric Obstructive Sleep Apnea (OSA)?",
+      "options": {
+        "A": "A disorder of central respiratory control",
+        "B": "A spectrum of disorders characterized by partial or complete upper airway obstruction during sleep",
+        "C": "An infection of the tonsils and adenoids",
+        "D": "A condition solely caused by obesity"
+      },
+      "correct_answer": "B",
+      "explanation": "Obstructive Sleep-Disordered Breathing is defined as a spectrum of disorders characterized by partial or complete upper airway obstruction during sleep, disrupting normal ventilation and sleep patterns."
+    },
+    {
+      "question": "What is the most common cause of Pediatric Obstructive Sleep Apnea in otherwise healthy children?",
+      "options": {
+        "A": "Obesity",
+        "B": "Adenotonsillar hypertrophy",
+        "C": "Allergic rhinitis",
+        "D": "Neuromuscular disorders"
+      },
+      "correct_answer": "B",
+      "explanation": "The most common cause of Pediatric OSA in otherwise healthy children is adenotonsillar hypertrophy."
+    },
+    {
+      "question": "Which of the following is a risk factor for Pediatric Obstructive Sleep Apnea?",
+      "options": {
+        "A": "Lack of breastfeeding",
+        "B": "Obesity",
+        "C": "Pacifier use",
+        "D": "Daycare attendance"
+      },
+      "correct_answer": "B",
+      "explanation": "Risk factors for Pediatric OSA include obesity, craniofacial syndromes, neuromuscular disorders, and allergic rhinitis."
+    },
+    {
+      "question": "Which symptom is commonly associated with Pediatric Obstructive Sleep Apnea?",
+      "options": {
+        "A": "Otalgia",
+        "B": "Habitual snoring",
+        "C": "Purulent otorrhea",
+        "D": "Trismus"
+      },
+      "correct_answer": "B",
+      "explanation": "Symptoms of Pediatric OSA include habitual snoring, observed apnea, gasping or choking sounds, restless sleep, daytime sleepiness, neurobehavioral problems, and enuresis."
+    },
+    {
+      "question": "What is the rate of post-tonsillectomy hemorrhage?",
+      "options": {
+        "A": "0.1-0.5%",
+        "B": "2-4%",
+        "C": "10-15%",
+        "D": "Over 20%"
+      },
+      "correct_answer": "B",
+      "explanation": "Post-tonsillectomy hemorrhage occurs in approximately 2-4% of cases."
+    },
+    {
+      "question": "What is the definition of Peritonsillar Abscess (PTA)?",
+      "options": {
+        "A": "An infection of the parotid gland",
+        "B": "A collection of pus between the tonsillar capsule and the pharyngeal constrictor muscles",
+        "C": "Inflammation of the retropharyngeal space",
+        "D": "A viral infection causing sore throat"
+      },
+      "correct_answer": "B",
+      "explanation": "Peritonsillar Abscess is defined as a collection of pus between the tonsillar capsule and the pharyngeal constrictor muscles."
+    },
+    {
+      "question": "What is the typical microbiological pattern found in peritonsillar abscess?",
+      "options": {
+        "A": "Exclusively viral pathogens",
+        "B": "Polymicrobial involvement of aerobes and anaerobes",
+        "C": "Fungal infections",
+        "D": "Autoimmune disorders"
+      },
+      "correct_answer": "B",
+      "explanation": "Peritonsillar Abscess is often polymicrobial, involving aerobes such as Group A Streptococcus and Staphylococcus aureus, and anaerobes like Fusobacterium and Prevotella."
+    }
+    
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "disease": "Torticollis",
+  "mcqs": [
+    {
+      "question": "When does congenital muscular torticollis (wry neck) typically present in pediatric patients?",
+      "options": {
+        "A": "In adolescence",
+        "B": "In infancy",
+        "C": "In adulthood",
+        "D": "In the elderly"
+      },
+      "correct_answer": "B",
+      "explanation": "Congenital muscular torticollis is the most common form in pediatric patients, typically presenting in infancy."
+    },
+    {
+      "question": "What is the primary cause of torticollis?",
+      "options": {
+        "A": "Bacterial infection",
+        "B": "Idiopathic fibrosis of the sternocleidomastoid muscle",
+        "C": "Autoimmune disorder",
+        "D": "Vitamin deficiency"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary cause of torticollis is idiopathic fibrosis of the sternocleidomastoid muscle, often attributed to intrauterine or perinatal factors."
+    },
+    {
+      "question": "What is the sequence of pathogenesis in torticollis?",
+      "options": {
+        "A": "Infection → inflammation → fibrosis",
+        "B": "Intrauterine crowding or trauma → SCM injury → fibrosis and contracture → head tilt and rotation",
+        "C": "Genetic defect → muscle weakness → postural changes",
+        "D": "Nutritional lack → muscle atrophy → deformity"
+      },
+      "correct_answer": "B",
+      "explanation": "The pathogenesis sequence involves intrauterine crowding or trauma leading to sternocleidomastoid muscle injury, fibrosis and contracture, and resulting in head tilt and rotation."
+    },
+    {
+      "question": "What is macroscopically described in the gross pathology of torticollis?",
+      "options": {
+        "A": "Soft, fluctuant mass",
+        "B": "Palpable, firm mass or taut band in the sternocleidomastoid muscle",
+        "C": "Diffuse swelling of the neck",
+        "D": "No visible abnormality"
+      },
+      "correct_answer": "B",
+      "explanation": "Gross pathology reveals a palpable, firm mass or taut band in the sternocleidomastoid muscle, typically unilateral."
+    },
+    {
+      "question": "What functional derangement occurs in the pathophysiology of torticollis?",
+      "options": {
+        "A": "Increased cervical range of motion",
+        "B": "Restricted cervical range of motion leading to plagiocephaly and facial asymmetry",
+        "C": "Muscle weakness without postural changes",
+        "D": "Joint hypermobility"
+      },
+      "correct_answer": "B",
+      "explanation": "Pathophysiology involves restricted cervical range of motion, which can lead to positional plagiocephaly, facial asymmetry, and risk of secondary scoliosis."
+    },
+    {
+      "question": "A 3-week-old infant is brought to clinic with persistent head tilt to the right and difficulty turning the head to the left. When does congenital muscular torticollis most commonly present?",
+      "options": {
+        "A": "In adolescence",
+        "B": "In infancy (first 3 months)",
+        "C": "In adulthood",
+        "D": "In preschool years"
+      },
+      "correct_answer": "B",
+      "explanation": "Peak presentation for torticollis is in infants aged 2–4 weeks."
+    },
+    {
+      "question": "What is an objective finding in torticollis?",
+      "options": {
+        "A": "Head tilted toward the affected side and rotated contralaterally",
+        "B": "Head tilted away from the affected side",
+        "C": "Bilateral sternocleidomastoid enlargement",
+        "D": "No palpable mass"
+      },
+      "correct_answer": "A",
+      "explanation": "Objective findings include head tilted toward the affected side and rotated contralaterally, palpable sternocleidomastoid mass, and asymmetric neck creases."
+    },
+    {
+      "question": "What condition co-occurs in up to 20% of congenital muscular torticollis cases?",
+      "options": {
+        "A": "Developmental dysplasia of the hip",
+        "B": "Cardiac defects",
+        "C": "Renal anomalies",
+        "D": "Neurological disorders"
+      },
+      "correct_answer": "A",
+      "explanation": "Developmental dysplasia of the hip co-occurs in up to 20% of congenital muscular torticollis cases."
+    },
+    {
+      "question": "What can persist as a complication if torticollis is untreated?",
+      "options": {
+        "A": "Persistent facial asymmetry",
+        "B": "Improved posture",
+        "C": "Increased mobility",
+        "D": "No changes"
+      },
+      "correct_answer": "A",
+      "explanation": "Complications include persistent facial asymmetry, plagiocephaly, scoliosis, and visual or auditory deficits if untreated."
+    },
+    {
+      "question": "What is the gold standard imaging modality for torticollis?",
+      "options": {
+        "A": "X-ray",
+        "B": "Ultrasound",
+        "C": "CT scan",
+        "D": "MRI"
+      },
+      "correct_answer": "B",
+      "explanation": "Ultrasound is the gold standard imaging modality, showing hyperechoic fibrosis or mass in the sternocleidomastoid muscle."
+    },
+    {
+      "question": "What is the first-line management approach for torticollis?",
+      "options": {
+        "A": "Surgical intervention",
+        "B": "Early conservative management",
+        "C": "Medication only",
+        "D": "No treatment"
+      },
+      "correct_answer": "B",
+      "explanation": "Early, conservative management is first-line; surgical intervention is reserved for refractory cases."
+    },
+    {
+      "question": "What is the success rate of physical therapy when initiated before 6 months?",
+      "options": {
+        "A": "50%",
+        "B": "70%",
+        "C": ">90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Physical therapy has a success rate greater than 90% when initiated before 6 months of age."
+    },
+    {
+      "question": "A 15-month-old child with congenital muscular torticollis has failed 9 months of supervised physical therapy with persistent head tilt and facial asymmetry. What is the most appropriate next step?",
+      "options": {
+        "A": "Continue physical therapy for another 6 months",
+        "B": "Refer for surgical evaluation",
+        "C": "Start botulinum toxin injections",
+        "D": "Observe without intervention"
+      },
+      "correct_answer": "B",
+      "explanation": "Surgical intervention is typically considered when conservative therapy fails after 12-18 months, with persistent deformity or functional limitation indicating need for surgical release."
+    },
+    {
+      "question": "What is the most common surgical technique for torticollis?",
+      "options": {
+        "A": "Unipolar or bipolar sternocleidomastoid release",
+        "B": "Spinal fusion",
+        "C": "Muscle grafting",
+        "D": "Nerve resection"
+      },
+      "correct_answer": "A",
+      "explanation": "Unipolar or bipolar sternocleidomastoid release is the most common surgical technique, with success rates of 95% in resolving deformity."
+    },
+    {
+      "question": "How long is immobilization typically maintained postoperatively?",
+      "options": {
+        "A": "1 week",
+        "B": "2–4 weeks",
+        "C": "6 months",
+        "D": "1 year"
+      },
+      "correct_answer": "B",
+      "explanation": "Postoperative care includes immobilization with a collar for 2–4 weeks."
+    },
+    {
+      "question": "What is recommended to reduce plagiocephaly in prevention counseling?",
+      "options": {
+        "A": "Prone positioning and tummy time",
+        "B": "Supine sleeping only",
+        "C": "No physical activity",
+        "D": "High-calorie diet"
+      },
+      "correct_answer": "A",
+      "explanation": "Prevention includes prone positioning and tummy time to reduce plagiocephaly."
+    }
+  ]
+}

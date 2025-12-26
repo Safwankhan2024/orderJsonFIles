@@ -1,0 +1,94 @@
+{
+  "disease": "Gynecomastia",
+  "mcqs": [
+    {
+      "question": "What is the definition of gynecomastia?",
+      "options": {
+        "A": "Malignant proliferation of breast tissue in females",
+        "B": "Benign proliferation of glandular breast tissue in males",
+        "C": "Fat deposition in the breast without glandular tissue",
+        "D": "Infection of the breast tissue"
+      },
+      "correct_answer": "B",
+      "explanation": "Gynecomastia is defined as the benign proliferation of glandular breast tissue in males, resulting from an imbalance between estrogen and androgen activity."
+    },
+    {
+      "question": "Which of the following is a physiologic cause of gynecomastia?",
+      "options": {
+        "A": "Medications like antipsychotics",
+        "B": "Neonatal maternal estrogen exposure",
+        "C": "Testicular germ cell tumors",
+        "D": "Hypogonadism"
+      },
+      "correct_answer": "B",
+      "explanation": "Physiologic causes of gynecomastia include neonatal maternal estrogen exposure and pubertal transient imbalance."
+    },
+    {
+      "question": "What is a modifiable risk factor for gynecomastia?",
+      "options": {
+        "A": "Age (peak incidence at 10–14 years)",
+        "B": "Genetic syndromes like Klinefelter syndrome",
+        "C": "Obesity",
+        "D": "Sex (exclusively male)"
+      },
+      "correct_answer": "C",
+      "explanation": "Modifiable risk factors for gynecomastia include obesity, which increases aromatase activity."
+    },
+    {
+      "question": "Which symptom is commonly associated with gynecomastia?",
+      "options": {
+        "A": "Nipple discharge",
+        "B": "Breast tenderness or pain",
+        "C": "Skin changes",
+        "D": "Fever"
+      },
+      "correct_answer": "B",
+      "explanation": "Common symptoms of gynecomastia include breast tenderness or pain, occurring in 30–50% of cases."
+    },
+    {
+      "question": "Which medication is used for medical management of persistent gynecomastia with 60–80% reduction in size?",
+      "options": {
+        "A": "Letrozole",
+        "B": "Tamoxifen",
+        "C": "Antibiotics",
+        "D": "Corticosteroids"
+      },
+      "correct_answer": "B",
+      "explanation": "Selective estrogen receptor modulators like tamoxifen can achieve a 60–80% reduction in size in persistent cases of gynecomastia."
+    },
+    {
+      "question": "What is an indication for surgical management of gynecomastia?",
+      "options": {
+        "A": "Duration less than 6 months",
+        "B": "Persistence >2 years",
+        "C": "Asymptomatic cases",
+        "D": "Grade I enlargement"
+      },
+      "correct_answer": "B",
+      "explanation": "Surgical management is indicated for gynecomastia that persists for more than 2 years, causes significant symptoms, or involves grade II–III enlargement."
+    },
+    {
+      "question": "What percentage of pubertal gynecomastia cases resolve spontaneously within 1-2 years?",
+      "options": {
+        "A": "50%",
+        "B": "80%",
+        "C": "90%",
+        "D": "95%"
+      },
+      "correct_answer": "C",
+      "explanation": "Spontaneous resolution occurs in 90% of pubertal gynecomastia cases within 1-2 years."
+    },
+    {
+  "question": "Which genetic syndrome is most strongly associated with gynecomastia, occurring in up to 80% of affected individuals?",
+  "options": {
+    "A": "Down syndrome",
+    "B": "Klinefelter syndrome",
+    "C": "Turner syndrome",
+    "D": "Marfan syndrome"
+  },
+  "correct_answer": "B",
+  "explanation": "Klinefelter syndrome (47,XXY) is associated with gynecomastia in up to 80% of cases due to testosterone deficiency and relative estrogen excess. Multiple studies show prevalence rates of 35-80% depending on measurement methods. The hormonal imbalance results from primary testicular failure with decreased testosterone and elevated gonadotropins, leading to increased estrogen-to-androgen ratio and breast tissue proliferation."
+}
+    
+  ]
+}

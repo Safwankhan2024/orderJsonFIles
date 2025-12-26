@@ -1,0 +1,104 @@
+{
+  "disease": "Liver Transplantation",
+  "mcqs": [
+    {
+      "question": "What is the most common indication for pediatric liver transplantation worldwide?",
+      "options": {
+        "A": "Metabolic liver diseases",
+        "B": "Biliary atresia",
+        "C": "Acute liver failure",
+        "D": "Autoimmune hepatitis"
+      },
+      "correct_answer": "B",
+      "explanation": "Biliary atresia remains the most common indication, accounting for approximately 40-50% of pediatric liver transplants, particularly in infants and young children."
+    },
+    {
+      "question": "What is the incidence of hepatic artery thrombosis in the early post-transplant period?",
+      "options": {
+        "A": "2-4%",
+        "B": "5-8%",
+        "C": "10-15%",
+        "D": "20-30%"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatic artery thrombosis occurs in 5-8% of cases in the early post-transplant period (<30 days)."
+    },
+    {
+      "question": "Which imaging modality is essential for vascular assessment pre-and post-transplant?",
+      "options": {
+        "A": "CT/MRI",
+        "B": "HIDA scan",
+        "C": "Doppler ultrasound",
+        "D": "Ultrasound"
+      },
+      "correct_answer": "C",
+      "explanation": "Doppler ultrasound is essential for vascular assessment pre-and post-transplant."
+    },
+    {
+      "question": "What score is used for children under 12 years for liver transplant allocation?",
+      "options": {
+        "A": "MELD score",
+        "B": "PELD score",
+        "C": "Child-Pugh score",
+        "D": "APACHE score"
+      },
+      "correct_answer": "B",
+      "explanation": "The Pediatric End-Stage Liver Disease (PELD) score is used for children <12 years for transplant allocation."
+    },
+    {
+      "question": "Which of the following is a primary indication for pediatric liver transplantation?",
+      "options": {
+        "A": "Persistent elevation of liver enzymes without synthetic dysfunction",
+        "B": "Expected 1-year survival without transplant <50%",
+        "C": "Failure of a single course of medical therapy for autoimmune hepatitis",
+        "D": "Isolated hyperbilirubinemia without other signs of liver failure"
+      },
+      "correct_answer": "B",
+      "explanation": "Liver transplantation is indicated when expected survival without transplant is less than 1 year, typically corresponding to a 1-year mortality risk >50%."
+    },
+    {
+      "question": "What is the primary maintenance immunosuppression used in pediatric liver transplantation?",
+      "options": {
+        "A": "Corticosteroids",
+        "B": "Mycophenolate mofetil",
+        "C": "Calcineurin inhibitors (tacrolimus)",
+        "D": "mTOR inhibitors"
+      },
+      "correct_answer": "C",
+      "explanation": "Calcineurin inhibitors, such as tacrolimus, are the primary maintenance immunosuppression."
+    },
+    {
+      "question": "What percentage of patients experience acute rejection in the first year post-transplant?",
+      "options": {
+        "A": "5-10%",
+        "B": "15-20%",
+        "C": "30-40%",
+        "D": "50-60%"
+      },
+      "correct_answer": "C",
+      "explanation": "Acute rejection occurs in 30-40% of patients in the first year."
+    },
+    {
+      "question": "What is the 5-year patient survival rate after pediatric liver transplantation?",
+      "options": {
+        "A": "70-75%",
+        "B": "80-85%",
+        "C": "90-95%",
+        "D": "95-100%"
+      },
+      "correct_answer": "B",
+      "explanation": "The 5-year patient survival rate is 80-85%."
+    },
+    {
+      "question": "Which type of vaccines are contraindicated after liver transplantation?",
+      "options": {
+        "A": "All vaccines",
+        "B": "Inactivated vaccines",
+        "C": "Live vaccines",
+        "D": "No vaccines are contraindicated"
+      },
+      "correct_answer": "C",
+      "explanation": "Live vaccines are contraindicated post-transplant."
+    }
+  ]
+}

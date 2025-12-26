@@ -1,0 +1,159 @@
+{
+  "disease": "Severe Obesity in Adolescents",
+  "mcqs": [
+    {
+      "question": "According to the American Academy of Pediatrics (AAP) guidelines, which criterion defines severe obesity in adolescents aged 10-19 years?",
+      "options": {
+        "A": "BMI ≥30 kg/m²",
+        "B": "BMI ≥120% of the 95th percentile for age and sex or BMI ≥35 kg/m²",
+        "C": "BMI ≥40 kg/m²",
+        "D": "BMI ≥25 kg/m²"
+      },
+      "correct_answer": "B",
+      "explanation": "Severe obesity in adolescents is defined as a BMI at or above 120% of the 95th percentile for age and sex or a BMI of 35 kg/m² or higher, based on AAP recommendations."
+    },
+    {
+      "question": "When is bariatric surgery considered for adolescents with severe obesity?",
+      "options": {
+        "A": "As first-line treatment for all cases",
+        "B": "After failed comprehensive lifestyle modification",
+        "C": "Only if BMI exceeds 50 kg/m²",
+        "D": "For adolescents under 16 years regardless of comorbidities"
+      },
+      "correct_answer": "B",
+      "explanation": "Bariatric surgery is an evidence-based treatment option for carefully selected adolescents who have failed comprehensive lifestyle modification and have significant comorbidities."
+    },
+    {
+      "question": "What percentage of adolescent bariatric surgery patients are female according to Teen-LABS data?",
+      "options": {
+        "A": "50%",
+        "B": "60%",
+        "C": "70%",
+        "D": "80%"
+      },
+      "correct_answer": "C",
+      "explanation": "Females represent approximately 70% of adolescent bariatric surgery patients according to Teen-LABS data."
+    },
+    {
+      "question": "What is the mean age at surgery for adolescents undergoing bariatric procedures?",
+      "options": {
+        "A": "12-13 years",
+        "B": "14-15 years",
+        "C": "16-17 years",
+        "D": "18-19 years"
+      },
+      "correct_answer": "C",
+      "explanation": "The mean age at surgery for adolescents is 16-17 years."
+    },
+    {
+      "question": "Which cutaneous finding is commonly associated with severe obesity in adolescents and indicates insulin resistance?",
+      "options": {
+        "A": "Acanthosis nigricans",
+        "B": "Jaundice",
+        "C": "Edema",
+        "D": "Cyanosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Acanthosis nigricans is a hyperpigmented, velvety skin lesion often seen in severe obesity, serving as a marker for insulin resistance and metabolic syndrome."
+    },
+    {
+      "question": "Which syndrome is associated with severe obesity in adolescents?",
+      "options": {
+        "A": "Down syndrome",
+        "B": "Prader-Willi syndrome",
+        "C": "Marfan syndrome",
+        "D": "Turner syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "Associated anomalies include Prader-Willi syndrome, Bardet-Biedl syndrome, Alström syndrome, and leptin receptor deficiency."
+    },
+    {
+      "question": "Which condition is part of the differential diagnosis for severe obesity?",
+      "options": {
+        "A": "Asthma",
+        "B": "Cushing syndrome",
+        "C": "Anemia",
+        "D": "Epilepsy"
+      },
+      "correct_answer": "B",
+      "explanation": "Differential diagnosis includes endocrine disorders like Cushing syndrome, hypothyroidism, medication-induced weight gain, genetic obesity syndromes, and hypothalamic obesity."
+    },
+    {
+      "question": "What is the first-line treatment for severe obesity in adolescents?",
+      "options": {
+        "A": "Surgery",
+        "B": "Comprehensive lifestyle intervention",
+        "C": "Medication only",
+        "D": "No treatment needed"
+      },
+      "correct_answer": "B",
+      "explanation": "Comprehensive lifestyle intervention, involving structured diet, physical activity, and behavioral therapy, is the initial treatment for severe obesity in adolescents."
+    },
+    {
+      "question": "What percentage of adolescent bariatric surgery cases are sleeve gastrectomy?",
+      "options": {
+        "A": "50-60%",
+        "B": "70-80%",
+        "C": "85-90%",
+        "D": "95-100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Sleeve gastrectomy accounts for 85-90% of adolescent bariatric surgery cases."
+    },
+    {
+      "question": "What is the goal for daily protein intake after bariatric surgery?",
+      "options": {
+        "A": "30-40 g/day",
+        "B": "40-50 g/day",
+        "C": "60-80 g/day",
+        "D": "80-100 g/day"
+      },
+      "correct_answer": "C",
+      "explanation": "The goal for protein intake after surgery is 60-80 g/day."
+    },
+    {
+      "question": "How often is laboratory monitoring typically performed in the first year after surgery?",
+      "options": {
+        "A": "Daily",
+        "B": "Weekly",
+        "C": "At 3, 6, 12 months",
+        "D": "Only annually"
+      },
+      "correct_answer": "C",
+      "explanation": "Follow-up protocols include laboratory monitoring at 3, 6, 12 months, then annually."
+    },
+    {
+      "question": "What is the mean BMI reduction at 3 years post-surgery?",
+      "options": {
+        "A": "10-15%",
+        "B": "20-25%",
+        "C": "30-35%",
+        "D": "40-45%"
+      },
+      "correct_answer": "C",
+      "explanation": "The mean BMI reduction at 3 years is 30-35%."
+    },
+    {
+      "question": "Which complication is higher after sleeve gastrectomy compared to other procedures?",
+      "options": {
+        "A": "Internal hernia",
+        "B": "GERD",
+        "C": "VTE",
+        "D": "Bleeding"
+      },
+      "correct_answer": "B",
+      "explanation": "GERD occurs in 5-15% of cases and is higher after sleeve gastrectomy."
+    },
+    {
+      "question": "What percentage of surgical candidates have vitamin D deficiency?",
+      "options": {
+        "A": "20-30%",
+        "B": "40-60%",
+        "C": "70-80%",
+        "D": "80-90%"
+      },
+      "correct_answer": "B",
+      "explanation": "Vitamin D deficiency is present in 40-60% of surgical candidates."
+    }
+  ]
+}

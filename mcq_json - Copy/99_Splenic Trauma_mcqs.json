@@ -1,0 +1,82 @@
+{
+  "disease": "Splenic Trauma",
+  "mcqs": [
+    {
+      "question": "Which of the following is a modifiable risk factor for splenic trauma?",
+      "options": {
+        "A": "Lack of seatbelt use",
+        "B": "Age",
+        "C": "Male sex",
+        "D": "Hereditary spherocytosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Modifiable risk factors include lack of seatbelt use and participation in high-impact sports without protective gear."
+    },
+    {
+      "question": "What is a functional derangement after splenic trauma or splenectomy?",
+      "options": {
+        "A": "Risk of overwhelming post-splenectomy infection (OPSI)",
+        "B": "Enhanced platelet sequestration",
+        "C": "Improved immune filtration",
+        "D": "Decreased thrombocytosis"
+      },
+      "correct_answer": "A",
+      "explanation": "Functional derangements include impaired filtration of blood-borne pathogens and risk of overwhelming post-splenectomy infection (OPSI)."
+    },
+    {
+      "question": "What is Kehr's sign in splenic trauma?",
+      "options": {
+        "A": "Referred shoulder pain",
+        "B": "Left upper quadrant abdominal pain",
+        "C": "Nausea",
+        "D": "Dizziness"
+      },
+      "correct_answer": "A",
+      "explanation": "Symptoms include referred shoulder pain, known as Kehr's sign."
+    },
+    {
+      "question": "Which objective finding is most characteristic of hypovolemic shock in a child with severe splenic trauma?",
+      "options": {
+        "A": "Tachycardia",
+        "B": "Hypotension",
+        "C": "Bradycardia",
+        "D": "Hypertension"
+      },
+      "correct_answer": "A",
+      "explanation": "Tachycardia is an early compensatory response to hypovolemia in splenic trauma, while hypotension typically occurs later as blood loss progresses."
+    },
+    {
+      "question": "Which vaccines are recommended pre- or post-splenectomy to prevent OPSI?",
+      "options": {
+        "A": "Pneumococcal, meningococcal, and Hib vaccines",
+        "B": "HPV vaccine",
+        "C": "Influenza vaccine only",
+        "D": "No vaccines are needed"
+      },
+      "correct_answer": "A",
+      "explanation": "Vaccinations include pneumococcal, meningococcal, and Hib vaccines to prevent overwhelming post-splenectomy infection (OPSI)."
+    },
+    {
+      "question": "What is the success rate of non-operative management (NOM) in children with splenic trauma?",
+      "options": {
+        "A": ">95%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "correct_answer": "A",
+      "explanation": "Non-operative management success is over 95% in children."
+    },
+    {
+      "question": "What is a key point in prevention counseling for splenic trauma?",
+      "options": {
+        "A": "Seatbelt use",
+        "B": "Avoidance of all sports",
+        "C": "High-sugar diet",
+        "D": "Regular blood tests"
+      },
+      "correct_answer": "A",
+      "explanation": "Prevention includes educating on seatbelt use, helmet compliance, and Avoidance of high-risk contact sports."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "disease": "Pediatric Lung and Chest Wall Tumors",
+  "mcqs": [
+    {
+      "question": "Which physical examination finding is associated with neuroblastoma?",
+      "options": {
+        "A": "Horner syndrome",
+        "B": "Clubbing",
+        "C": "Jaundice",
+        "D": "Edema"
+      },
+      "correct_answer": "A",
+      "explanation": "Horner syndrome is a physical examination finding associated with neuroblastoma, particularly in thoracic or cervical presentations."
+    },
+    {
+      "question": "Which syndrome is associated with rhabdomyosarcoma?",
+      "options": {
+        "A": "Li-Fraumeni syndrome",
+        "B": "Opsoclonus-myoclonus-ataxia syndrome",
+        "C": "Horner syndrome",
+        "D": "Marfan syndrome"
+      },
+      "correct_answer": "A",
+      "explanation": "Rhabdomyosarcoma is associated with Li-Fraumeni syndrome, which involves TP53 mutations."
+    },
+    {
+      "question": "A 2-year-old presents with a posterior mediastinal mass. What is the most likely diagnosis?",
+      "options": {
+        "A": "Neuroblastoma",
+        "B": "Rhabdomyosarcoma",
+        "C": "Pulmonary blastoma",
+        "D": "Ewing sarcoma"
+      },
+      "correct_answer": "A",
+      "explanation": "Neuroblastoma is the most common posterior mediastinal tumor in young children, often presenting before age 2."
+    }
+    
+  ]
+}

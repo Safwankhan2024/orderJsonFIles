@@ -1,0 +1,104 @@
+{
+  "disease": "Childhood Diseases of the Thyroid and Parathyroid Glands",
+  "mcqs": [
+    {
+      "question": "Which of the following is a common symptom of congenital hypothyroidism in unscreened infants?",
+      "options": {
+        "A": "Hyperactivity and irritability",
+        "B": "Lethargy and poor feeding",
+        "C": "Increased appetite and weight gain",
+        "D": "Prolonged jaundice and hypotonia"
+      },
+      "correct_answer": "B",
+      "explanation": "Lethargy, poor feeding, and constipation are classic symptoms of congenital hypothyroidism in unscreened infants, often presenting in the first few weeks of life."
+    },
+    {
+      "question": "What is the initial medical management for congenital hypothyroidism?",
+      "options": {
+        "A": "Surgical removal of the thyroid gland",
+        "B": "Immediate levothyroxine replacement at 10-15 mcg/kg/day",
+        "C": "Radioactive iodine therapy",
+        "D": "Observation without treatment"
+      },
+      "correct_answer": "B",
+      "explanation": "The medical management for congenital hypothyroidism involves immediate levothyroxine replacement at a dose of 10-15 mcg/kg/day."
+    },
+    {
+      "question": "What is differentiated thyroid carcinoma in children primarily composed of?",
+      "options": {
+        "A": "Medullary thyroid carcinoma",
+        "B": "Papillary thyroid carcinoma",
+        "C": "Anaplastic thyroid carcinoma",
+        "D": "Follicular thyroid carcinoma"
+      },
+      "correct_answer": "B",
+      "explanation": "Differentiated thyroid carcinoma in children is predominantly composed of papillary thyroid carcinoma."
+    },
+  {
+      "question": "Which of the following is a risk factor for differentiated thyroid carcinoma in children?",
+      "options": {
+        "A": "High sugar diet",
+        "B": "History of radiation exposure",
+        "C": "Vitamin D deficiency",
+        "D": "Obesity"
+      },
+      "correct_answer": "B",
+      "explanation": "A history of radiation exposure is a known risk factor for differentiated thyroid carcinoma in children."
+    },
+    {
+      "question": "What percentage of children with differentiated thyroid carcinoma have nodal metastases at diagnosis?",
+      "options": {
+        "A": "10-20%",
+        "B": "30-50%",
+        "C": "60-80%",
+        "D": "90-100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Approximately 60-80% of children with differentiated thyroid carcinoma have nodal metastases at diagnosis."
+    },
+    {
+      "question": "What is primary hyperparathyroidism in children characterized by?",
+      "options": {
+        "A": "Decreased PTH production",
+        "B": "Inappropriate overproduction of PTH leading to hypercalcemia",
+        "C": "Hypocalcemia due to parathyroid insufficiency",
+        "D": "Autoimmune destruction of parathyroid glands"
+      },
+      "correct_answer": "B",
+      "explanation": "Primary hyperparathyroidism in children is defined by inappropriate overproduction of parathyroid hormone, resulting in hypercalcemia."
+    },
+    {
+      "question": "What is the most common etiology of primary hyperparathyroidism in children?",
+      "options": {
+        "A": "Single adenoma",
+        "B": "Four-gland hyperplasia",
+        "C": "Parathyroid carcinoma",
+        "D": "Autoimmune disorder"
+      },
+      "correct_answer": "A",
+      "explanation": "The most common etiology of primary hyperparathyroidism in children is a single adenoma, accounting for 85-90% of cases."
+    },
+    {
+      "question": "Which syndrome is the most common hereditary cause of primary hyperparathyroidism in children?",
+      "options": {
+        "A": "MEN2A",
+        "B": "MEN1",
+        "C": "DICER1 syndrome",
+        "D": "FAP"
+      },
+      "correct_answer": "B",
+      "explanation": "Multiple Endocrine Neoplasia type 1 (MEN1) is the most common hereditary cause of primary hyperparathyroidism in children."
+    },
+    {
+      "question": "What is the cure rate for primary hyperparathyroidism surgery in experienced hands?",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "90%",
+        "D": "Over 95%"
+      },
+      "correct_answer": "D",
+      "explanation": "The cure rate for surgery in primary hyperparathyroidism is over 95% in experienced hands."
+    }
+  ]
+}

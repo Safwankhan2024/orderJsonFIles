@@ -1,0 +1,61 @@
+{
+  "disease": "Malignant Liver Tumors in Pediatric Patients",
+  "mcqs": [
+    {
+      "question": "At what age does hepatoblastoma typically peak?",
+      "options": {
+        "A": "10–14 years",
+        "B": "5–10 years",
+        "C": "1–2 years",
+        "D": "Adolescence"
+      },
+      "correct_answer": "C",
+      "explanation": "Hepatoblastoma peaks at 1–2 years of age."
+    },
+    {
+      "question": "What histological component is characteristic of hepatoblastoma?",
+      "options": {
+        "A": "Trabecular patterns with cellular atypia",
+        "B": "Epithelial components with or without mesenchymal elements",
+        "C": "Glandular structures only",
+        "D": "Necrotic centers"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatoblastoma is characterized by epithelial components (fetal, embryonal, macrotrabecular) with or without mesenchymal elements such as osteoid."
+    },
+    {
+      "question": "In what percentage of hepatoblastomas is alpha-fetoprotein (AFP) elevated?",
+      "options": {
+        "A": "50–60%",
+        "B": "70–80%",
+        "C": ">90%",
+        "D": "<50%"
+      },
+      "correct_answer": "C",
+      "explanation": "Alpha-fetoprotein is elevated in more than 90% of hepatoblastomas."
+    },
+    {
+  "question": "What is the characteristic MRI appearance of hepatoblastoma?",
+  "options": {
+    "A": "Homogeneously hyperintense on T2 with uniform enhancement",
+    "B": "Heterogeneously hyperintense on T2 with heterogeneous enhancement",
+    "C": "'Target sign' with central scar enhancement",
+    "D": "'Ring enhancement' with peripheral hypervascularity"
+  },
+  "correct_answer": "B",
+  "explanation": "Hepatoblastoma typically appears heterogeneously hyperintense on T2-weighted imaging and demonstrates heterogeneous enhancement after contrast administration. This heterogeneity reflects internal composition variations including hemorrhage, necrosis, and calcifications (present in ~40-50% of cases). The tumor is generally hypointense on T1-weighted images and enhances less than surrounding liver parenchyma. While occasional peripheral rim enhancement may occur, the hallmark imaging feature is heterogeneous signal and enhancement patterns due to the tumor's complex histologic composition."
+},
+    {
+      "question": "A 3-year-old boy with hepatoblastoma presents with accelerated growth and pubic hair development. What rare paraneoplastic phenomenon explains these symptoms?",
+      "options": {
+        "A": "Hypertension from renin secretion",
+        "B": "Precocious puberty from β-hCG secretion",
+        "C": "Hypoglycemia from insulin-like growth factors",
+        "D": "Jaundice from bile duct obstruction"
+      },
+      "correct_answer": "B",
+      "explanation": "Hepatoblastoma can rarely secrete β-hCG, leading to paraneoplastic precocious puberty characterized by accelerated growth and early secondary sexual characteristics."
+    }
+    
+  ]
+}

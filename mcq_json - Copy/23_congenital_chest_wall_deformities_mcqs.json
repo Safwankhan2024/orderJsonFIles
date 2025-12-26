@@ -1,0 +1,116 @@
+{
+  "disease": "Pectus Excavatum",
+  "mcqs": [
+    {
+      "question": "What is the defining characteristic of pectus excavatum?",
+      "options": {
+        "A": "Protrusion of the sternum",
+        "B": "Posterior depression of the sternum and lower costal cartilages",
+        "C": "Lateral curvature of the ribs",
+        "D": "Anterior bulging of the chest wall"
+      },
+      "correct_answer": "B",
+      "explanation": "Pectus excavatum is characterized by posterior depression of the sternum and lower costal cartilages, resulting in a concave appearance of the anterior chest wall."
+    },
+    {
+      "question": "Which period is most associated with the development and progression of pectus excavatum?",
+      "options": {
+        "A": "Early fetal development (weeks 6-10)",
+        "B": "Rapid growth during adolescence",
+        "C": "Early childhood (ages 2-5)",
+        "D": "Adulthood (after skeletal maturity)"
+      },
+      "correct_answer": "B",
+      "explanation": "Pectus excavatum typically becomes more noticeable and progresses during adolescent growth spurts, though its exact etiology remains multifactorial."
+    },
+    {
+      "question": "What proposed mechanism leads to posterior sternal displacement in pectus excavatum?",
+      "options": {
+        "A": "Undergrowth of costal cartilages",
+        "B": "Overgrowth of costal cartilages",
+        "C": "Muscle weakness",
+        "D": "Bone fractures"
+      },
+      "correct_answer": "B",
+      "explanation": "Proposed mechanisms include overgrowth of the costal cartilages, leading to posterior sternal displacement."
+    },
+    {
+      "question": "At what age is peak diagnosis of pectus excavatum typically observed?",
+      "options": {
+        "A": "0–5 years",
+        "B": "10–15 years",
+        "C": "20–25 years",
+        "D": "30–35 years"
+      },
+      "correct_answer": "B",
+      "explanation": "Peak diagnosis occurs at 10–15 years, during growth spurts."
+    },
+    {
+      "question": "What Haller index value indicates severity in pectus excavatum?",
+      "options": {
+        "A": "<2.5",
+        "B": ">2.5",
+        "C": ">3.25",
+        "D": ">4.0"
+      },
+      "correct_answer": "C",
+      "explanation": "A Haller index greater than 3.25 indicates severity.The Haller index is calculated by dividing the transverse diameter of the chest by the anterior-posterior distance on CT of the chest on the axial slice that demonstrates the smallest distance between the anterior surface of the vertebral body and the posterior surface of the sternum."
+    },
+    {
+      "question": "Which of the following is a recognized potential complication of moderate to severe pectus excavatum?",
+      "options": {
+        "A": "Improved cardiopulmonary efficiency",
+        "B": "Restrictive lung disease and reduced cardiac output",
+        "C": "Increased risk of rib fractures",
+        "D": "Enhanced athletic performance"
+      },
+      "correct_answer": "B",
+      "explanation": "Severe pectus excavatum can cause restrictive lung disease and reduced cardiac output due to compression of thoracic structures."
+    },
+    {
+      "question": "What pattern may pulmonary function tests show in pectus excavatum?",
+      "options": {
+        "A": "Obstructive pattern",
+        "B": "Restrictive pattern",
+        "C": "Normal pattern",
+        "D": "Mixed pattern"
+      },
+      "correct_answer": "B",
+      "explanation": "Pulmonary function tests may show a restrictive pattern."
+    },
+    {
+      "question": "What imaging modality is the gold standard for calculating the Haller index?",
+      "options": {
+        "A": "Chest X-ray",
+        "B": "CT scan",
+        "C": "MRI",
+        "D": "Ultrasound"
+      },
+      "correct_answer": "B",
+      "explanation": "CT scan is the gold standard for Haller index calculation."
+    },
+    {
+      "question": "What Haller index range is considered mild in pectus excavatum?",
+      "options": {
+        "A": "<2.5",
+        "B": "2.5–3.2",
+        "C": "3.2–3.5",
+        "D": ">3.5"
+      },
+      "correct_answer": "B",
+      "explanation": "The Haller index is classified as mild for values between 2.5 and 3.2."
+    },
+    {
+      "question": "When is bar removal typically performed after the Nuss procedure?",
+      "options": {
+        "A": "Immediately",
+        "B": "After 1 year",
+        "C": "After 2–3 years",
+        "D": "After 5 years"
+      },
+      "correct_answer": "C",
+      "explanation": "Bar removal is typically done after 2–3 years."
+    }
+    
+  ]
+}

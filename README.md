@@ -65,3 +65,5 @@ it will copy all files from subfolder into main folder and it will ignore the fi
 sortbyAI:
 this will iterate all json files in the mcq folder and make order.txt inside that folder trying its best to sort
 
+remove01_pre prefix will remove the 01_ from order.txt which is generated when the ai will check and generate the file.
+

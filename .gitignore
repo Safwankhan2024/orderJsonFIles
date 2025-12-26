@@ -17,6 +17,10 @@ node_modules/
 # Ignore the entire 'build/' directory in the root
 /build/
 /mcq_json/
+/sendForSample/
+/EPUB/
+/mcq_json - Copy/
+/Pediatric_Surgery_MCQ_Book_KC/
 
 
 # Ignore all files with the extension .backup in any directory
@@ -34,6 +38,8 @@ Pediatric_Surgery_MCQ_Book.DOCX
 file_list_output.json
 file_list_output.JSON
 order.txt
+TOC.txt
+*.txt
 
 # Exception: ignore everything in the 'data/' folder, but keep a specific file
 # Order matters: ignore everything first, then negate the exception

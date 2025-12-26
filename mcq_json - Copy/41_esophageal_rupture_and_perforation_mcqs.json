@@ -1,0 +1,104 @@
+{
+  "disease": "Esophageal Rupture and Perforation",
+  "mcqs": [
+    {
+      "question": "Which term specifically refers to spontaneous, full-thickness rupture of the esophagus due to vomiting?",
+      "options": {
+        "A": "Mallory-Weiss tear",
+        "B": "Boerhaave's syndrome",
+        "C": "Eosinophilic esophagitis",
+        "D": "Esophageal atresia"
+      },
+      "correct_answer": "B",
+      "explanation": "Spontaneous rupture (Boerhaave's syndrome) is extremely rare in children and adolescents; iatrogenic causes are most common across all pediatric ages. Boerhaave's syndrome describes spontaneous transmural esophageal rupture typically following forceful vomiting, while Mallory-Weiss tears are mucosal only."
+    },
+    {
+      "question": "Why is esophageal perforation considered a life-threatening surgical emergency in children?",
+      "options": {
+        "A": "It always requires complex surgical reconstruction",
+        "B": "It results in contamination of the mediastinum and rapid onset of sepsis",
+        "C": "It is highly common in pediatric populations",
+        "D": "It has no effective medical treatment options"
+      },
+      "correct_answer": "B",
+      "explanation": "Esophageal perforation allows oral and gastric contents to contaminate the mediastinum, leading to mediastinitis, sepsis, and mortality rates up to 20-40% if untreated."
+    },
+    {
+      "question": "What is the most common cause of esophageal perforation in children?",
+      "options": {
+        "A": "Traumatic injury",
+        "B": "Spontaneous rupture",
+        "C": "Iatrogenic causes",
+        "D": "Pathological conditions"
+      },
+      "correct_answer": "C",
+      "explanation": "Iatrogenic causes account for approximately 50-70% of pediatric cases of esophageal perforation."
+    },
+    {
+      "question": "What key physical finding might indicate cervical esophageal perforation?",
+      "options": {
+        "A": "Jaundice",
+        "B": "Cervical crepitus",
+        "C": "Edema in the legs",
+        "D": "Heart murmur"
+      },
+      "correct_answer": "B",
+      "explanation": "Key physical examination findings include cervical crepitus."
+    },
+    {
+      "question": "What is the gold standard imaging test for confirming esophageal perforation?",
+      "options": {
+        "A": "Chest X-ray",
+        "B": "CT scan of chest with oral contrast",
+        "C": "Contrast esophagram",
+        "D": "Ultrasound of neck and chest"
+      },
+      "correct_answer": "C",
+      "explanation": "Contrast esophagram (using water-soluble contrast initially) directly demonstrates extravasation and localizes the perforation in >90% of cases."
+    },
+    {
+      "question": "Which condition is a mucosal tear that does not perforate the esophagus?",
+      "options": {
+        "A": "Boerhaave's syndrome",
+        "B": "Mallory-Weiss tear",
+        "C": "Perforated peptic ulcer",
+        "D": "Aortic dissection"
+      },
+      "correct_answer": "B",
+      "explanation": "Mallory-Weiss tear is a mucosal tear that does not perforate, unlike esophageal perforation."
+    },
+    {
+      "question": "What is the cornerstone of management for esophageal perforation?",
+      "options": {
+        "A": "Nutritional support",
+        "B": "Source control",
+        "C": "Antibiotic therapy",
+        "D": "Pain management"
+      },
+      "correct_answer": "B",
+      "explanation": "Source control is the cornerstone of management, achieved surgically or, in select cases, endoscopically."
+    },
+    {
+      "question": "What is the success rate of primary repair for esophageal perforation when performed within 24 hours?",
+      "options": {
+        "A": "50%",
+        "B": "70%",
+        "C": ">90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Success rates for primary repair when performed within 24 hours are greater than 90%."
+    },
+    {
+      "question": "What is a key prevention strategy for esophageal perforation?",
+      "options": {
+        "A": "Routine screening programs",
+        "B": "Meticulous technique during endoscopic procedures",
+        "C": "Genetic counseling",
+        "D": "Dietary changes"
+      },
+      "correct_answer": "B",
+      "explanation": "Prevention includes meticulous technique during endoscopic procedures, proper training in pediatric endoscopic foreign body removal, and public health measures."
+    }
+  ]
+}

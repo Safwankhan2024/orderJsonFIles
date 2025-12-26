@@ -1,0 +1,61 @@
+{
+  "disease": "Inguinal Hernias and Hydroceles",
+  "mcqs": [
+    {
+      "question": "What is the primary etiology of indirect inguinal hernias and hydroceles?",
+      "options": {
+        "A": "Infection of the inguinal canal",
+        "B": "Failure of processus vaginalis obliteration during fetal development",
+        "C": "Trauma to the abdominal wall",
+        "D": "Genetic mutations exclusively"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary etiology is failure of processus vaginalis obliteration during fetal development, which typically occurs by 36-40 weeks gestation or in other words typically occurs around birth or shortly after."
+    },
+    {
+      "question": "What is the incidence of inguinal hernias in infants born before 32 weeks gestation?",
+      "options": {
+        "A": "1-5%",
+        "B": "15-30%",
+        "C": "9-11%",
+        "D": "30-40%"
+      },
+      "correct_answer": "B",
+      "explanation": "Premature infants have an incidence of 15-30% in those born before 32 weeks gestation."
+    },
+    {
+      "question": "What is the overall incidence of inguinal hernias in term infants?",
+      "options": {
+        "A": "1-5%",
+        "B": "9-11%",
+        "C": "15-30%",
+        "D": "30-40%"
+      },
+      "correct_answer": "A",
+      "explanation": "The overall incidence in term infants is 1-5%."
+    },
+    {
+      "question": "What is the 'silk glove sign' in the context of inguinal hernias?",
+      "options": {
+        "A": "Transillumination of the scrotum",
+        "B": "Palpable thickened cord structures",
+        "C": "Reducible mass in the inguinal region",
+        "D": "Non-reducible tender mass"
+      },
+      "correct_answer": "B",
+      "explanation": "The silk glove sign refers to palpable thickened cord structures."
+    },
+    {
+      "question": "What is the approximate recurrence rate for laparoscopic repair of pediatric inguinal hernias?",
+      "options": {
+        "A": "0.5-1.2%",
+        "B": "0.8-2.1%",
+        "C": "1.5-3.8%",
+        "D": "1-2%"
+      },
+      "correct_answer": "B",
+      "explanation": "Laparoscopic repair has a recurrence rate of 0.8-2.1%, though rates can vary based on surgical technique and patient factors."
+    }
+    
+  ]
+}

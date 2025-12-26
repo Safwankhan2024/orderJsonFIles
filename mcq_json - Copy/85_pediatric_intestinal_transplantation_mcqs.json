@@ -1,0 +1,72 @@
+{
+  "disease": "Pediatric Intestinal Transplantation",
+  "mcqs": [
+    {
+      "question": "What is the most common etiology for pediatric intestinal transplantation?",
+      "options": {
+        "A": "Short bowel syndrome",
+        "B": "Motility disorders",
+        "C": "Mucosal diseases",
+        "D": "Vascular disorders"
+      },
+      "correct_answer": "A",
+      "explanation": "Short bowel syndrome is the most common etiology, accounting for 50-60% of cases, often due to surgical resection for conditions like necrotizing enterocolitis, volvulus, or intestinal atresia."
+    },
+    {
+      "question": "A 3-year-old child with short bowel syndrome following surgical resection for necrotizing enterocolitis presents for evaluation. Which of the following physical examination findings is most characteristic of pediatric intestinal failure?",
+      "options": {
+        "A": "Abdominal distension with visible bowel loops",
+        "B": "Hypertension with bounding pulses",
+        "C": "Tachycardia with peripheral cyanosis",
+        "D": "Generalized lymphadenopathy with fever"
+      },
+      "correct_answer": "A",
+      "explanation": "Abdominal distension with visible bowel loops is a common physical finding in intestinal failure due to malabsorption and bacterial overgrowth, while the other options are not typical manifestations. Patient may also manifest pallor, edema, jaundice (if liver involvement), and signs of dehydration or malnutrition."
+    },
+    {
+      "question": "What is the gold standard for diagnosing rejection in intestinal transplantation?",
+      "options": {
+        "A": "Endoscopic biopsy",
+        "B": "Blood tests",
+        "C": "Imaging",
+        "D": "Stool analysis"
+      },
+      "correct_answer": "A",
+      "explanation": "Endoscopic biopsy of the graft is the gold standard for diagnosing rejection, graded by the Banff criteria."
+    },
+    {
+      "question": "Which medication is used to promote intestinal adaptation in select cases of pediatric intestinal failure?",
+      "options": {
+        "A": "Teduglutide",
+        "B": "Tacrolimus",
+        "C": "Ursodeoxycholic acid",
+        "D": "Sirolimus"
+      },
+      "correct_answer": "A",
+      "explanation": "Teduglutide, a GLP-2 analog, is used to promote intestinal adaptation in selected cases."
+    },
+    {
+      "question": "Which laboratory marker is most useful for assessing functional enterocyte mass in children with intestinal failure being evaluated for transplantation?",
+      "options": {
+        "A": "Serum citrulline levels",
+        "B": "Fecal calprotectin",
+        "C": "Liver transaminases",
+        "D": "Tacrolimus trough levels"
+      },
+      "correct_answer": "A",
+      "explanation": "Serum citrulline, a non-protein amino acid produced by enterocytes, correlates with functional enterocyte mass and helps assess intestinal function in potential transplant candidates."
+    },
+    {
+      "question": "What is the purpose of abdominal ultrasound in evaluating pediatric intestinal failure?",
+      "options": {
+        "A": "Assess liver texture and vascular patency",
+        "B": "Evaluate intestinal length",
+        "C": "Detect abscesses",
+        "D": "Grade rejection"
+      },
+      "correct_answer": "A",
+      "explanation": "Abdominal ultrasound is used to assess liver texture, biliary dilation, and vascular patency."
+    }
+    
+  ]
+}

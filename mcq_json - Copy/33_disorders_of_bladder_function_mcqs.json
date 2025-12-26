@@ -1,0 +1,116 @@
+{
+  "disease": "Neurogenic Bladder",
+  "mcqs": [
+    {
+      "question": "A 3-year-old boy with myelomeningocele presents for urological evaluation. His mother reports he has urinary incontinence and recurrent urinary tract infections. Which of the following best defines his likely bladder condition?",
+      "options": {
+        "A": "An infection of the bladder caused by bacteria",
+        "B": "A dysfunction of the urinary bladder due to a nervous system disorder, resulting in abnormal storage or emptying",
+        "C": "A congenital defect limited to the bladder muscle",
+        "D": "An autoimmune condition affecting kidney function"
+      },
+      "correct_answer": "B",
+      "explanation": "Neurogenic bladder is defined as a dysfunction of the urinary bladder due to a disorder of the central or peripheral nervous system, resulting in abnormal bladder storage or emptying."
+    },
+    {
+      "question": "What is the most common congenital cause of neurogenic bladder in children?",
+      "options": {
+        "A": "Cerebral palsy",
+        "B": "Myelomeningocele/spina bifida",
+        "C": "Sacral agenesis",
+        "D": "Spinal cord tumors"
+      },
+      "correct_answer": "B",
+      "explanation": "Myelomeningocele/spina bifida is the most common congenital cause, accounting for over 90% of pediatric cases of neurogenic bladder."
+    },
+    {
+      "question": "Which of the following is a modifiable risk factor for myelomeningocele, a common cause of neurogenic bladder?",
+      "options": {
+        "A": "Family history of neural tube defects",
+        "B": "Maternal pre-gestational diabetes",
+        "C": "Inadequate maternal folic acid supplementation",
+        "D": "Child's age at diagnosis"
+      },
+      "correct_answer": "C",
+      "explanation": "Inadequate maternal folic acid supplementation prior to and during early pregnancy is a modifiable risk factor for myelomeningocele."
+    },
+    {
+      "question": "By what day of gestation does failure of caudal neural tube closure occur in myelomeningocele?",
+      "options": {
+        "A": "14th day",
+        "B": "28th day",
+        "C": "42nd day",
+        "D": "At birth"
+      },
+      "correct_answer": "B",
+      "explanation": "In myelomeningocele, failure of caudal neural tube closure by the 28th day of gestation leads to spinal cord and vertebral defects."
+    },
+    {
+      "question": "What is the primary pathophysiological derangement in neurogenic bladder?",
+      "options": {
+        "A": "Overproduction of urine",
+        "B": "Disruption of neural pathways between bladder detrusor, urethral sphincter, and pontine micturition center",
+        "C": "Autoimmune attack on bladder tissue",
+        "D": "Genetic mutation in bladder cells"
+      },
+      "correct_answer": "B",
+      "explanation": "The primary derangement is disruption of the neural pathways between the bladder detrusor muscle, the urethral sphincter, and the pontine micturition center."
+    },
+    {
+      "question": "Before the era of clean intermittent catheterization (CIC), what was the leading cause of death in adolescents with spina bifida?",
+      "options": {
+        "A": "Cardiac failure",
+        "B": "Renal failure",
+        "C": "Respiratory infection",
+        "D": "Malignancy"
+      },
+      "correct_answer": "B",
+      "explanation": "Before the era of clean intermittent catheterization, renal failure was the leading cause of death in adolescents with spina bifida."
+    },
+    {
+      "question": "What is the gold standard investigation for diagnosis and risk stratification in neurogenic bladder?",
+      "options": {
+        "A": "Renal and Bladder Ultrasound (RBUS)",
+        "B": "Urodynamic Studies (UDS)",
+        "C": "Voiding Cystourethrogram (VCUG)",
+        "D": "DMSA scan"
+      },
+      "correct_answer": "B",
+      "explanation": "Urodynamic studies are the gold standard for diagnosis and risk stratification, as they measure detrusor pressure, compliance, capacity, and identify detrusor-sphincter dyssynergia."
+    },
+    {
+      "question": "What is the cornerstone of medical management for neurogenic bladder?",
+      "options": {
+        "A": "Antibiotic prophylaxis",
+        "B": "Clean Intermittent Catheterization (CIC)",
+        "C": "Dietary modifications",
+        "D": "Physical therapy"
+      },
+      "correct_answer": "B",
+      "explanation": "Clean Intermittent Catheterization (CIC) is the cornerstone of management, initiated in infancy to ensure regular, complete emptying."
+    },
+    {
+      "question": "HA public health campaign promotes folic acid supplementation for women of childbearing age to prevent neural tube defects. What is the approximate reduction in neural tube defect incidence with adequate folic acid intake?",
+      "options": {
+        "A": "Up to 30%",
+        "B": "Up to 50%",
+        "C": "Up to 70%",
+        "D": "Up to 90%"
+      },
+      "correct_answer": "C",
+      "explanation": "Universal folic acid supplementation (400 mcg/day) for all women of childbearing age reduces the incidence of neural tube defects by up to 70%."
+    },
+    {
+      "question": "Which surgical procedure creates a continent catheterizable channel from the umbilicus to the bladder?",
+      "options": {
+        "A": "Bladder augmentation",
+        "B": "Botulinum toxin injection",
+        "C": "Mitrofanoff procedure",
+        "D": "Urethral dilation"
+      },
+      "correct_answer": "C",
+      "explanation": "The Mitrofanoff procedure creates a continent catheterizable channel from the umbilicus to the bladder, facilitating clean intermittent catheterization."
+    }
+    
+  ]
+}

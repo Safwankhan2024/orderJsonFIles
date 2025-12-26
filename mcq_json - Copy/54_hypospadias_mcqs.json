@@ -1,0 +1,94 @@
+{
+  "disease": "Hypospadias",
+  "mcqs": [
+    {
+      "question": "What are the three characteristic features of hypospadias?",
+      "options": {
+        "A": "Proximal urethral meatus, ventral chordee, dorsally hooded foreskin",
+        "B": "Distal urethral meatus, dorsal chordee, complete prepuce",
+        "C": "Ventral urethral meatus, no chordee, normal prepuce",
+        "D": "Urethral meatus at glans, ventral curvature, complete prepuce"
+      },
+      "correct_answer": "A",
+      "explanation": "Hypospadias is characterized by a proximally displaced urethral meatus on the ventral aspect, ventral curvature of the penis (chordee), and a dorsally hooded, incomplete prepuce."
+    },
+    {
+      "question": "What is the primary etiology of hypospadias?",
+      "options": {
+        "A": "It is a disorder of androgen-dependent development",
+        "B": "It is caused by bacterial infection during gestation",
+        "C": "It results from trauma during delivery",
+        "D": "It is due to vitamin deficiency in the mother"
+      },
+      "correct_answer": "A",
+      "explanation": "Hypospadias is considered a disorder of androgen-dependent development, where insufficient androgen production, action, or timing leads to incomplete fusion of the urethral folds."
+    },
+    {
+      "question": "What risk does a father with hypospadias confer to his son?",
+      "options": {
+        "A": "1-2% risk",
+        "B": "8-12% risk",
+        "C": "20-25% risk",
+        "D": "50-60% risk"
+      },
+      "correct_answer": "B",
+      "explanation": "A father with hypospadias confers an 8-12% risk to his son."
+    },
+    {
+      "question": "Which of the following genetic syndromes is most strongly associated with hypospadias?",
+      "options": {
+        "A": "Down syndrome",
+        "B": "WAGR syndrome",
+        "C": "Marfan syndrome",
+        "D": "Cystic fibrosis"
+      },
+      "correct_answer": "B",
+      "explanation": "WAGR syndrome (Wilms tumor, aniridia, genitourinary anomalies, retardation) is strongly associated with hypospadias due to WT1 gene mutations affecting genital development."
+    },
+    {
+      "question": "During which gestational weeks does hypospadias originate?",
+      "options": {
+        "A": "Weeks 4-6",
+        "B": "Weeks 8-14",
+        "C": "Weeks 16-20",
+        "D": "Weeks 24-28"
+      },
+      "correct_answer": "B",
+      "explanation": "Hypospadias originates between gestational weeks 8-14 during urethral formation."
+    },
+    {
+      "question": "Which anomaly is commonly associated with hypospadias?",
+      "options": {
+        "A": "Cryptorchidism",
+        "B": "Hypertension",
+        "C": "Asthma",
+        "D": "Diabetes"
+      },
+      "correct_answer": "A",
+      "explanation": "Cryptorchidism is present in approximately 9% of hypospadias cases."
+    },
+    {
+      "question": "What is currently considered the gold standard surgical technique for distal hypospadias repair?",
+      "options": {
+        "A": "Bracka two-stage repair",
+        "B": "Tubularized Incised Plate (TIP) urethroplasty",
+        "C": "Onlay island flap urethroplasty",
+        "D": "MAGPI procedure"
+      },
+      "correct_answer": "B",
+      "explanation": "The Tubularized Incised Plate (TIP) urethroplasty (Snodgrass technique) is the gold standard for distal hypospadias due to its excellent cosmetic results and low complication rates."
+    },
+    {
+      "question": "What is the approximate fistula rate for primary distal hypospadias repairs?",
+      "options": {
+        "A": "1%",
+        "B": "4%",
+        "C": "10%",
+        "D": "20%"
+      },
+      "correct_answer": "B",
+      "explanation": "Meta-analyses show a fistula rate of approximately 4% for primary distal repairs."
+    }
+    
+  ]
+}

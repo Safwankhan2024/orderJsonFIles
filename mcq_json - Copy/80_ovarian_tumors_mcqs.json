@@ -1,0 +1,60 @@
+{
+  "disease": "Ovarian Tumors, Pediatric",
+  "mcqs": [
+    {
+      "question": "What is the most common histological type of ovarian tumor in pediatric patients?",
+      "options": {
+        "A": "Epithelial tumors",
+        "B": "Germ cell tumors",
+        "C": "Sex cord-stromal tumors",
+        "D": "Stromal tumors"
+      },
+      "correct_answer": "B",
+      "explanation": "Germ cell tumors account for approximately 60-70% of pediatric ovarian neoplasms, with mature teratomas being the most common subtype."
+    },
+    {
+      "question": "What might be found in the gross pathology of mature teratomas?",
+      "options": {
+        "A": "Solid components and necrosis",
+        "B": "Hair, sebaceous material, and teeth",
+        "C": "Hemorrhage and ascites",
+        "D": "Lymph node involvement"
+      },
+      "correct_answer": "B",
+      "explanation": "Mature teratomas appear as cystic masses with hair, sebaceous material, and teeth."
+    },
+    {
+      "question": "At what age does the peak incidence of pediatric ovarian tumors occur?",
+      "options": {
+        "A": "Infancy (0-4 years)",
+        "B": "Adolescence (15-19 years)",
+        "C": "Early childhood (5-9 years)",
+        "D": "Pre-adolescence (10-14 years)"
+      },
+      "correct_answer": "B",
+      "explanation": "Peak incidence occurs in adolescence (15-19 years)."
+    },
+    {
+      "question": "A 14-year-old girl presents with an ovarian mass and elevated serum alpha-fetoprotein (AFP). Which tumor type is most likely?",
+      "options": {
+        "A": "Mature cystic teratoma",
+        "B": "Yolk sac tumor (endodermal sinus tumor)",
+        "C": "Dysgerminoma",
+        "D": "Granulosa cell tumor"
+      },
+      "correct_answer": "B",
+      "explanation": "Yolk sac tumors produce AFP, which serves as both a diagnostic marker and tool for monitoring treatment response and recurrence."
+    },
+    {
+  "question": "What is the recommended CA-125 tumor marker monitoring schedule during follow-up for epithelial ovarian cancer?",
+  "options": {
+    "A": "Every 3 months for 2 years, then every 3-6 months in year 3, then every 6 months through year 5, then annually",
+    "B": "Every 3 months for 2 years only",
+    "C": "Every 6 months for 3 years, then annually for 2 years",
+    "D": "Annually for 5 years"
+  },
+  "correct_answer": "A", 
+  "explanation": "For epithelial ovarian cancer, CA-125 monitoring is recommended every 3 months for the first 2 years post-treatment, every 3-6 months in year 3, every 6 months for years 4-5, and annually thereafter. This schedule applies when CA-125 was initially elevated before treatment. Monitoring should be combined with physical examination and symptom assessment. Note: Some studies question whether routine CA-125 monitoring improves overall survival, but it remains standard practice for early detection of recurrence and may improve quality of life by prompting earlier symptom management. Monitoring frequency may vary based on tumor type (germ cell, stromal) and individual risk factors."
+}
+  ]
+}

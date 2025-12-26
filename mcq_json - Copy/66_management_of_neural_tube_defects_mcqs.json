@@ -1,0 +1,83 @@
+{
+  "disease": "Management of Neural Tube Defects, Hydrocephalus, Refractory Epilepsy, and Central Nervous System Infections",
+  "mcqs": [
+    {
+      "question": "What is the primary embryological mechanism underlying neural tube defects?",
+      "options": {
+        "A": "Acquired malformations resulting from perinatal trauma",
+        "B": "Congenital malformations due to incomplete closure of the neural tube during weeks 3-4 of gestation",
+        "C": "Infectious processes affecting neural development",
+        "D": "Metabolic disorders disrupting neural maturation"
+      },
+      "correct_answer": "B",
+      "explanation": "Neural tube defects result from failure of neural tube closure during embryogenesis, typically between days 21-28 post-conception, leading to conditions like spina bifida and anencephaly."
+    },
+    {
+      "question": "Which factor is a well-established contributor to neural tube defects?",
+      "options": {
+        "A": "Vitamin D deficiency",
+        "B": "Folate deficiency",
+        "C": "Excess iron intake",
+        "D": "High protein diet"
+      },
+      "correct_answer": "B",
+      "explanation": "Folate deficiency is a well-established contributor to neural tube defects, as part of genetic, environmental, and nutritional factors."
+    },
+    {
+      "question": "How much does periconceptional folic acid supplementation reduce the incidence of neural tube defects?",
+      "options": {
+        "A": "20–30%",
+        "B": "50–70%",
+        "C": "80–90%",
+        "D": "100%"
+      },
+      "correct_answer": "B",
+      "explanation": "Periconceptional folic acid supplementation reduces the incidence of neural tube defects by 50–70%."
+    },
+    {
+      "question": "What percentage of myelomeningocele cases are associated with hydrocephalus?",
+      "options": {
+        "A": "50%",
+        "B": "80%",
+        "C": "90%",
+        "D": "100%"
+      },
+      "correct_answer": "B",
+      "explanation": "Hydrocephalus is present in 80% of myelomeningocele cases, as part of the pathophysiology involving Chiari II malformation and obstruction of CSF flow."
+    },
+    {
+      "question": "In children with suspected bacterial meningitis caused by Streptococcus pneumoniae, which adjunctive therapy has been shown to reduce the risk of hearing loss when administered with appropriate antibiotics?",
+      "options": {
+        "A": "Acetaminophen for fever control",
+        "B": "Dexamethasone given before or with the first antibiotic dose",
+        "C": "Acyclovir for viral coverage",
+        "D": "Vancomycin as empiric therapy"
+      },
+      "correct_answer": "B",
+      "explanation": "Dexamethasone administered before or with the first antibiotic dose in pneumococcal meningitis reduces inflammatory mediators and decreases hearing loss by approximately 20% in clinical studies."
+    },
+    {
+      "question": "What is the success rate for brain abscess drainage in CNS infections?",
+      "options": {
+        "A": "50–60%",
+        "B": "80–90%",
+        "C": "70–80%",
+        "D": "95–100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Overall outcomes for brain abscess management (surgical drainage plus appropriate antibiotics) are favorable in modern series, with survival and good clinical outcome in roughly 70–80% of patients, though mortality can still range from about 5–30% depending on size, location, organism, and timing of treatment."
+    },
+    {
+      "question": "How much does vaccination reduce the incidence of CNS infections?",
+      "options": {
+        "A": "50–60%",
+        "B": "70–80%",
+        "C": ">90%",
+        "D": "100%"
+      },
+      "correct_answer": "C",
+      "explanation": "Vaccination (e.g., Hib, pneumococcal, meningococcal) reduces the incidence of central nervous system infections by more than 90%."
+    }
+    
+  ]
+}

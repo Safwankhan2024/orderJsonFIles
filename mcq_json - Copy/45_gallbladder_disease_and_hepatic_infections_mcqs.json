@@ -1,0 +1,61 @@
+{
+  "disease": "Gallbladder Disease and Hepatic Infections",
+  "mcqs": [
+    {
+      "question": "In pediatric patients, which of the following represents a modifiable risk factor for cholesterol gallstone formation?",
+      "options": {
+        "A": "Obesity and rapid weight loss",
+        "B": "Sickle cell disease",
+        "C": "Cystic fibrosis with pancreatic insufficiency",
+        "D": "Female gender and multiparity"
+      },
+      "correct_answer": "A",
+      "explanation": "Obesity and rapid weight loss are modifiable factors that increase cholesterol saturation in bile, while other options represent non-modifiable or pigment stone risk factors."
+    },
+    {
+      "question": "A 10-year-old with fever, right upper quadrant pain, and leukocytosis undergoes ultrasound showing a hypoechoic lesion with internal echoes. Which finding best defines this condition?",
+      "options": {
+        "A": "Diffuse hepatic inflammation with elevated transaminases",
+        "B": "Localized collection of pus within the liver parenchyma",
+        "C": "Multiple calcifications throughout the liver parenchyma",
+        "D": "Dilated intrahepatic bile ducts with wall thickening"
+      },
+      "correct_answer": "B",
+      "explanation": "A pyogenic liver abscess is defined as a localized collection of pus within the liver, typically appearing as a complex cystic mass on ultrasound with clinical signs of infection."
+    },
+    {
+      "question": "In an immunocompromised pediatric patient with diabetes mellitus who develops a pyogenic liver abscess, which pathogen is most commonly implicated?",
+      "options": {
+        "A": "Klebsiella pneumoniae",
+        "B": "E. coli",
+        "C": "Staphylococcus aureus",
+        "D": "Salmonella"
+      },
+      "correct_answer": "A",
+      "explanation": "Klebsiella pneumoniae is the most common cause of pyogenic liver abscess in immunocompromised patients, particularly those with diabetes, while E. coli is more common in biliary tract-related cases."
+    },
+    {
+      "question": "What is the typical duration of antibiotic therapy for pyogenic liver abscess?",
+      "options": {
+        "A": "1-2 weeks",
+        "B": "2-4 weeks",
+        "C": "4-6 weeks",
+        "D": "6-8 weeks"
+      },
+      "correct_answer": "C",
+      "explanation": "Antibiotic therapy for pyogenic liver abscess typically lasts 4–6 weeks."
+    },
+    {
+      "question": "What is the success rate of percutaneous drainage for pyogenic liver abscess?",
+      "options": {
+        "A": "70-80%",
+        "B": "85-90%",
+        "C": "95-98%",
+        "D": ">99%"
+      },
+      "correct_answer": "B",
+      "explanation": "Percutaneous drainage has a success rate of 85–90% for pyogenic liver abscess."
+    }
+    
+  ]
+}

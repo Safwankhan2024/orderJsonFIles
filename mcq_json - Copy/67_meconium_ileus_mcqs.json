@@ -1,0 +1,82 @@
+{
+  "disease": "Meconium Ileus",
+  "mcqs": [
+    {
+      "question": "In what percentage of newborns with cystic fibrosis does meconium ileus occur?",
+      "options": {
+        "A": "5–10%",
+        "B": "15–20%",
+        "C": "25–30%",
+        "D": "35–40%"
+      },
+      "correct_answer": "B",
+      "explanation": "Meconium ileus occurs in 15–20% of newborns with cystic fibrosis."
+    },
+    {
+      "question": "What is the typical age of onset for meconium ileus?",
+      "options": {
+        "A": "First 2–3 days of life",
+        "B": "First week of life",
+        "C": "First month of life",
+        "D": "After one year of age"
+      },
+      "correct_answer": "A",
+      "explanation": "Meconium ileus presents in the first 2–3 days of life."
+    },
+    {
+      "question": "Which radiological finding is most characteristic of meconium ileus on abdominal X-ray?",
+      "options": {
+        "A": "Ground-glass appearance with air-fluid levels in the right lower quadrant (Neuhauser's sign)",
+        "B": "Double bubble sign",
+        "C": "Target sign",
+        "D": "Rigler's sign"
+      },
+      "correct_answer": "A",
+      "explanation": "Meconium ileus typically presents with a ground-glass appearance and air-fluid levels in the right lower quadrant, known as Neuhauser's sign, due to air mixing with thick meconium."
+    },
+    {
+      "question": "What is the inheritance pattern of cystic fibrosis, associated with meconium ileus?",
+      "options": {
+        "A": "Autosomal dominant",
+        "B": "Autosomal recessive",
+        "C": "X-linked recessive",
+        "D": "Mitochondrial"
+      },
+      "correct_answer": "B",
+      "explanation": "Cystic fibrosis is inherited in an autosomal recessive pattern."
+    },
+    {
+      "question": "Which CFTR mutation accounts for approximately 70% of CF alleles globally?",
+      "options": {
+        "A": "F508del",
+        "B": "G551D",
+        "C": "W1282X",
+        "D": "N1303K"
+      },
+      "correct_answer": "A",
+      "explanation": "The F508del mutation accounts for approximately 70% of CF alleles globally."
+    },
+    {
+      "question": "What sign may be palpated in the right lower quadrant in meconium ileus?",
+      "options": {
+        "A": "Palpable, doughy mass",
+        "B": "Rigid abdomen",
+        "C": "Hepatomegaly",
+        "D": "Splenomegaly"
+      },
+      "correct_answer": "A",
+      "explanation": "A palpable, doughy mass in the right lower quadrant may be found on physical examination in meconium ileus."
+    },
+    {
+      "question": "What is a common long-term complication specifically associated with meconium ileus in cystic fibrosis patients?",
+      "options": {
+        "A": "Distal intestinal obstruction syndrome (DIOS)",
+        "B": "Congenital heart defects",
+        "C": "Cerebral palsy",
+        "D": "Chronic kidney disease"
+      },
+      "correct_answer": "A",
+      "explanation": "Patients with meconium ileus have an increased risk of developing distal intestinal obstruction syndrome (DIOS) later in life due to abnormal intestinal mucus and motility."
+    }
+  ]
+}

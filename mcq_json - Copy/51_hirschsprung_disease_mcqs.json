@@ -1,0 +1,105 @@
+{
+  "disease": "Hirschsprung Disease",
+  "mcqs": [
+    {
+      "question": "What is the primary characteristic of Hirschsprung Disease?",
+      "options": {
+        "A": "Presence of ganglion cells in the proximal intestine only",
+        "B": "Absence of ganglion cells in the myenteric and submucosal plexuses of the distal bowel",
+        "C": "Hypertrophy of the intestinal muscularis propria",
+        "D": "Increased peristaltic activity in the rectosigmoid region"
+      },
+      "correct_answer": "B",
+      "explanation": "Hirschsprung disease results from failure of neural crest cell migration, leading to aganglionosis in the distal intestine, which disrupts normal peristalsis."
+    },
+    {
+      "question": "During which gestational weeks does the failure of neural crest cell migration occur in Hirschsprung Disease?",
+      "options": {
+        "A": "Weeks 1-4",
+        "B": "Weeks 5-12",
+        "C": "Weeks 13-20",
+        "D": "Weeks 21-28"
+      },
+      "correct_answer": "B",
+      "explanation": "The failure of neural crest cell migration occurs during weeks 5-12 of gestation."
+    },
+    {
+      "question": "Which gene is primarily associated with Hirschsprung Disease in familial cases?",
+      "options": {
+        "A": "EDNRB",
+        "B": "RET proto-oncogene",
+        "C": "GDNF",
+        "D": "NRTN"
+      },
+      "correct_answer": "B",
+      "explanation": "The RET proto-oncogene is involved in approximately 50% of familial cases and 15-20% of sporadic cases."
+    },
+    {
+      "question": "Which of the following is a common symptom in neonates with Hirschsprung Disease?",
+      "options": {
+        "A": "Early passage of meconium within 24 hours",
+        "B": "Delayed passage of meconium beyond 48 hours of life",
+        "C": "Increased frequency of bowel movements",
+        "D": "Normal stooling pattern with occasional constipation"
+      },
+      "correct_answer": "B",
+      "explanation": "Over 90% of affected neonates fail to pass meconium within the first 48 hours, often accompanied by abdominal distension and bilious vomiting."
+    },
+    {
+      "question": "What is the gold standard diagnostic test for Hirschsprung Disease?",
+      "options": {
+        "A": "Anorectal manometry",
+        "B": "Contrast enema",
+        "C": "Rectal biopsy",
+        "D": "Abdominal ultrasound"
+      },
+      "correct_answer": "C",
+      "explanation": "Rectal biopsy is the gold standard diagnostic test."
+    },
+    {
+      "question": "On contrast enema, what finding is characteristic of Hirschsprung Disease?",
+      "options": {
+        "A": "Dilated distal bowel",
+        "B": "Transition zone between dilated proximal and narrow distal bowel",
+        "C": "Uniform dilation of entire colon",
+        "D": "No retention of contrast"
+      },
+      "correct_answer": "B",
+      "explanation": "Contrast enema shows a transition zone between dilated proximal and narrow distal bowel."
+    },
+    {
+      "question": "Which surgical procedure is the most common approach for Hirschsprung Disease?",
+      "options": {
+        "A": "Open Swenson procedure",
+        "B": "Laparoscopic-assisted pull-through",
+        "C": "Transanal endorectal pull-through (TEPT)",
+        "D": "Duhamel procedure"
+      },
+      "correct_answer": "C",
+      "explanation": "TEPT is a minimally invasive, single-stage procedure that avoids abdominal incisions and is associated with shorter hospital stays and comparable functional outcomes. TEPT is widely used with generally good outcomes, but success rates depend on factors like surgeon experience and patient characteristics."
+    },
+    {
+      "question": "What is a key histopathological finding in Hirschsprung Disease?",
+      "options": {
+        "A": "Presence of ganglion cells",
+        "B": "Hypertrophied nerve trunks (exceeding 30-40 μm)",
+        "C": "Decreased acetylcholinesterase staining",
+        "D": "Normal nerve fiber size"
+      },
+      "correct_answer": "B",
+      "explanation": "Histopathology shows hypertrophied nerve trunks, often with diameters exceeding 30-40 μm, due to increased acetylcholinesterase activity."
+    },
+    {
+      "question": "Which of the following is a finding on anorectal manometry in Hirschsprung Disease?",
+      "options": {
+        "A": "Increased rectoanal inhibitory reflex",
+        "B": "Absent rectoanal inhibitory reflex",
+        "C": "Normal peristalsis",
+        "D": "Enhanced relaxation"
+      },
+      "correct_answer": "B",
+      "explanation": "Anorectal manometry shows an absent rectoanal inhibitory reflex."
+    }
+    
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "disease": "Burns",
+  "mcqs": [
+    {
+      "question": "What is the most common cause of pediatric burns?",
+      "options": {
+        "A": "Flame burns",
+        "B": "Chemical burns",
+        "C": "Scalds",
+        "D": "Electrical burns"
+      },
+      "correct_answer": "C",
+      "explanation": "Scalds are the most common cause, accounting for approximately 65% of pediatric burns, typically from hot liquids such as water, soup, or tea."
+    },
+    {
+      "question": "In pediatric burn epidemiology, which age group shows the first peak incidence of burn injuries?",
+      "options": {
+        "A": "Under 5 years",
+        "B": "5-10 years",
+        "C": "10-15 years",
+        "D": "Over 15 years"
+      },
+      "correct_answer": "A",
+      "explanation": "Children under 5 years represent the first peak incidence for burn injuries, primarily due to scald burns from hot liquids, with a second peak occurring in adolescents."
+    },
+    {
+      "question": "According to Jackson's Burn Model, which zone is characterized by irreversible tissue necrosis?",
+      "options": {
+        "A": "Zone of Hyperemia",
+        "B": "Zone of Stasis",
+        "C": "Zone of Coagulation",
+        "D": "Zone of Inflammation"
+      },
+      "correct_answer": "C",
+      "explanation": "The Zone of Coagulation is the central area of irreversible tissue necrosis in Jackson's Burn Model."
+    },
+    {
+      "question": "Which characteristic is associated with a full-thickness (3rd degree) burn?",
+      "options": {
+        "A": "Blisters with clear fluid",
+        "B": "Moist, pink, blanchable skin",
+        "C": "Leathery, dry, insensate skin",
+        "D": "Erythema and pain"
+      },
+      "correct_answer": "C",
+      "explanation": "Full-thickness burns are characterized by leathery, dry, insensate skin, and may appear charred or pearly white with thrombosed vessels visible."
+    },
+    {
+      "question": "What systemic effect is triggered by a major burn injury?",
+      "options": {
+        "A": "Decreased metabolic rate",
+        "B": "Systemic inflammatory response syndrome (SIRS)",
+        "C": "Improved immune function",
+        "D": "Reduced capillary permeability"
+      },
+      "correct_answer": "B",
+      "explanation": "The initial local injury triggers a massive systemic inflammatory response syndrome (SIRS), leading to capillary leak, hypermetabolism, and immunosuppression."
+    },
+    {
+      "question": "What is a sign of inhalation injury in burn patients?",
+      "options": {
+        "A": "Blistering",
+        "B": "Soot in nares/oropharynx",
+        "C": "Erythema",
+        "D": "Skin sloughing"
+      },
+      "correct_answer": "B",
+      "explanation": "Signs of inhalation injury include soot in the nares or oropharynx, singed nasal hairs, hoarseness, and stridor."
+    },
+    {
+      "question": "According to the American Burn Association classification, which of the following defines a major burn in pediatric patients?",
+      "options": {
+        "A": "<10% TBSA partial thickness",
+        "B": "50% TBSA partial thickness",
+        "C": ">10% TBSA",
+        "D": "<2% full thickness"
+      },
+      "correct_answer": "C",
+      "explanation": "Major burns in children are defined as >10% TBSA, burns involving critical areas, electrical/chemical/inhalation injuries, and all burns in high-risk patients."
+    },
+    {
+      "question": "How is the Parkland Formula administered for fluid resuscitation?",
+      "options": {
+        "A": "All fluid given in the first 8 hours",
+        "B": "Half given in first 8 hours, remainder over next 16 hours",
+        "C": "Given equally over 24 hours",
+        "D": "Based on urine output only"
+      },
+      "correct_answer": "B",
+      "explanation": "The Parkland Formula is 4 mL Lactated Ringer's x %TBSA (2nd & 3rd degree) x kg body weight, with half given in the first 8 hours and the remainder over the next 16 hours."
+    },
+    {
+      "question": "In controlled surgical settings with optimal conditions, what is the approximate rate of skin graft loss following burn reconstruction?",
+      "options": {
+        "A": "1-2%",
+        "B": "5-10%",
+        "C": "20-30%",
+        "D": "50%"
+      },
+      "correct_answer": "B",
+      "explanation": "With meticulous surgical technique and proper postoperative care, graft loss typically occurs in 5-10% of cases, though rates may be higher with infection or poor wound bed preparation."
+    },
+    {
+      "question": "What is the recommended maximum temperature for home water heaters to prevent scalds?",
+      "options": {
+        "A": "100°F (38°C)",
+        "B": "120°F (49°C)",
+        "C": "140°F (60°C)",
+        "D": "160°F (71°C)"
+      },
+      "correct_answer": "B",
+      "explanation": "Prevention includes lowering home water heater temperature to 120°F (49°C)."
+    }
+  ]
+}

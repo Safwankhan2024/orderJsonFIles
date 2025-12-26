@@ -1,0 +1,127 @@
+{
+  "disease": "Defects of Abdominal wall",
+  "mcqs": [
+  {
+    "question": "What is a defining characteristic of an omphalocele?",
+    "options": {
+      "A": "Unprotected evisceration of bowel",
+      "B": "Covered by a sac composed of peritoneum and amnion",
+      "C": "Typically to the left of the umbilicus",
+      "D": "Always associated with no other anomalies"
+    },
+    "correct_answer": "B",
+    "explanation": "Omphalocele is defined as a midline abdominal wall defect with herniation of abdominal contents covered by a protective sac composed of peritoneum and amnion."
+  },
+  {
+    "question": "How is gastroschisis typically described?",
+    "options": {
+      "A": "Midline defect with sac cover",
+      "B": "Paraumbilical defect with unprotected evisceration",
+      "C": "Defect covered by Wharton's jelly",
+      "D": "Always associated with genetic syndromes"
+    },
+    "correct_answer": "B",
+    "explanation": "Gastroschisis is a full-thickness paraumbilical abdominal wall defect, typically to the right of the umbilicus, with evisceration of unprotected abdominal contents directly exposed to amniotic fluid. Gastroschisis presents as a right-sided defect with non-covered edematous, matted intestines."
+  },
+  {
+    "question": "What is the primary embryological cause of omphalocele?",
+    "options": {
+      "A": "Vascular disruption",
+      "B": "Failure of lateral body folds to fuse",
+      "C": "Abnormal body wall development",
+      "D": "Involution of the right umbilical vein"
+    },
+    "correct_answer": "B",
+    "explanation": "Omphalocele results from failure of lateral body folds to fuse during embryogenesis, leading to persistent herniation into the umbilical cord."
+  },
+  {
+    "question": "Which modifiable risk factor is strongly associated with gastroschisis?",
+    "options": {
+      "A": "Maternal age >35 years",
+      "B": "Maternal smoking",
+      "C": "High socioeconomic status",
+      "D": "Maternal diabetes"
+    },
+    "correct_answer": "B",
+    "explanation": "Maternal smoking is a modifiable risk factor for gastroschisis, with an adjusted odds ratio of 1.5–2.0."
+  },
+  {
+    "question": "During which weeks of gestation does gastroschisis typically arise?",
+    "options": {
+      "A": "Weeks 4–10",
+      "B": "Weeks 5–8",
+      "C": "Weeks 10–12",
+      "D": "Weeks 2–4"
+    },
+    "correct_answer": "B",
+    "explanation": "Gastroschisis arises around week 5–8 of gestation, likely from disruption of the right omphalomesenteric artery. Gastroschisis pathogenesis involves vascular insult or mesodermal deficiency, leading to a full-thickness defect and unprotected evisceration."
+  },
+  {
+    "question": "What functional derangement is associated with gastroschisis?",
+    "options": {
+      "A": "Pulmonary hypoplasia",
+      "B": "Bowel dysmotility and nutrient malabsorption",
+      "C": "Cardiac compromise",
+      "D": "Sac rupture"
+    },
+    "correct_answer": "B",
+    "explanation": "Gastroschisis involves functional derangements such as bowel dysmotility, nutrient malabsorption, and fluid losses due to inflammatory damage."
+  },
+  {
+    "question": "Which group is at risk for omphalocele?",
+    "options": {
+      "A": "Adolescents",
+      "B": "Infants of mothers with diabetes",
+      "C": "Smokers",
+      "D": "Low BMI mothers"
+    },
+    "correct_answer": "B",
+    "explanation": "Omphalocele risk groups include infants of mothers with diabetes or obesity."
+  },
+  {
+    "question": "What lab investigation is elevated in both omphalocele and gastroschisis?",
+    "options": {
+      "A": "CBC leukocytosis",
+      "B": "Amniotic fluid AFP",
+      "C": "Chromosomal microarray",
+      "D": "Electrolytes"
+    },
+    "correct_answer": "B",
+    "explanation": "Amniotic fluid AFP is elevated in both omphalocele and gastroschisis."
+  },
+  {
+    "question": "What is a key prenatal ultrasound finding for gastroschisis?",
+    "options": {
+      "A": "Midline sac with contents",
+      "B": "Free-floating bowel loops without cover",
+      "C": "Cardiac defects",
+      "D": "Neural tube defects"
+    },
+    "correct_answer": "B",
+    "explanation": "Gastroschisis on prenatal ultrasound shows free-floating bowel loops without cover."
+  },
+  {
+    "question": "How is a giant omphalocele defined?",
+    "options": {
+      "A": "<5 cm defect",
+      "B": "≥5 cm defect",
+      "C": "Contains only bowel",
+      "D": "No liver involvement"
+    },
+    "correct_answer": "B",
+    "explanation": "A giant omphalocele is defined as ≥5 cm in size, often containing the liver."
+  },
+  {
+    "question": "What is included in preoperative medical management?",
+    "options": {
+      "A": "Chemotherapy",
+      "B": "IV fluids and antibiotics",
+      "C": "Amniotic fluid exchange routinely",
+      "D": "No specific measures"
+    },
+    "correct_answer": "B",
+    "explanation": "Preoperative management includes IV fluids, antibiotics (e.g., ampicillin/gentamicin), and nasogastric decompression."
+  }
+  
+]
+}

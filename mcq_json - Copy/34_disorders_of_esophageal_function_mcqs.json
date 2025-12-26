@@ -1,0 +1,104 @@
+{
+  "disease": "Esophageal Achalasia",
+  "mcqs": [
+    {
+      "question": "What is the classic triad of findings that characterizes esophageal achalasia?",
+      "options": {
+        "A": "Absent peristalsis, LES relaxation, decreased LES pressure",
+        "B": "Absent peristalsis, failure of LES relaxation, elevated resting LES pressure",
+        "C": "Increased peristalsis, LES spasm, normal LES pressure",
+        "D": "Esophageal dilatation, LES relaxation, low LES pressure"
+      },
+      "correct_answer": "B",
+      "explanation": "Esophageal achalasia is defined by the triad of absent peristalsis of the esophageal body, failure of the lower esophageal sphincter to relax completely in response to swallowing, and elevated resting LES pressure."
+    },
+    {
+      "question": "Which genetic syndrome is strongly associated with esophageal achalasia and follows an autosomal recessive inheritance pattern?",
+      "options": {
+        "A": "Down syndrome",
+        "B": "Allgrove syndrome",
+        "C": "Familial Dysautonomia",
+        "D": "Ehlers-Danlos syndrome"
+      },
+      "correct_answer": "B",
+      "explanation": "A strong genetic association exists with Allgrove syndrome (AAA syndrome: Achalasia, Addisonism, Alacrima), which is caused by mutations in the AAAS gene and follows an autosomal recessive inheritance pattern."
+    },
+    {
+      "question": "What embryologic origin is implicated in the development of the myenteric plexus affected in achalasia?",
+      "options": {
+        "A": "Mesodermal cells",
+        "B": "Endodermal cells",
+        "C": "Neural crest cells",
+        "D": "Ectodermal placodes"
+      },
+      "correct_answer": "C",
+      "explanation": "The myenteric plexus is derived from neural crest cells, and defects in their migration, differentiation, or survival are implicated in achalasia."
+    },
+    {
+      "question": "What is a key histopathological finding in esophageal achalasia?",
+      "options": {
+        "A": "Increased ganglion cells in the myenteric plexus",
+        "B": "Reduction or absence of ganglion cells in the myenteric plexus",
+        "C": "Hyperplasia of smooth muscle layers",
+        "D": "Absence of inflammatory cells"
+      },
+      "correct_answer": "B",
+      "explanation": "The hallmark histopathological finding is reduction or absence of ganglion cells in the myenteric plexus; inflammatory changes may be variable.Microscopic examination shows reduction or absence of ganglion cells in the myenteric plexus, with eosinophilic infiltrates and fibrosis of the LES."
+    },
+    {
+      "question": "Which symptom is present in over 95% of patients with esophageal achalasia?",
+      "options": {
+        "A": "Regurgitation of undigested food",
+        "B": "Progressive dysphagia for both solids and liquids",
+        "C": "Retrosternal pain or discomfort",
+        "D": "Nocturnal cough"
+      },
+      "correct_answer": "B",
+      "explanation": "Progressive solid and liquid dysphagia is reported in over 95% of patients with esophageal achalasia."
+    },
+    {
+      "question": "What is the gold standard diagnostic test for esophageal achalasia?",
+      "options": {
+        "A": "Barium esophagram",
+        "B": "High-Resolution Manometry (HRM)",
+        "C": "Endoscopic biopsy",
+        "D": "pH monitoring"
+      },
+      "correct_answer": "B",
+      "explanation": "High-Resolution Manometry is the gold standard for diagnosis, as it confirms absent peristalsis and impaired lower esophageal sphincter relaxation."
+    },
+    {
+      "question": "Which surgical procedure for achalasia has a higher clinical success rate but also a higher rate of post-procedure reflux according to a 2020 meta-analysis?",
+      "options": {
+        "A": "Laparoscopic Heller Myotomy (LHM)",
+        "B": "Per Oral Endoscopic Myotomy (POEM)",
+        "C": "Botulinum Toxin Injection",
+        "D": "Pneumatic dilation"
+      },
+      "correct_answer": "B",
+      "explanation": "POEM shows superior efficacy in relieving dysphagia compared to laparoscopic Heller myotomy, but is associated with increased incidence of pathologic reflux due to lack of antireflux mechanism."
+    },
+    {
+      "question": "What is the most common long-term postoperative complication following surgical management of achalasia?",
+      "options": {
+        "A": "Mucosal perforation",
+        "B": "Gastroesophageal reflux disease (GERD)",
+        "C": "Bleeding",
+        "D": "Infection"
+      },
+      "correct_answer": "B",
+      "explanation": "GERD is a common long-term complication, with reported rates of 10-30% for LHM and 20-50% for POEM depending on technique and follow-up."
+    },
+    {
+      "question": "What is the estimated lifetime risk of esophageal squamous cell carcinoma in adults with long-standing achalasia?",
+      "options": {
+        "A": "<1%",
+        "B": "~3%",
+        "C": "10%",
+        "D": "20%"
+      },
+      "correct_answer": "B",
+      "explanation": "There is an increased risk of esophageal squamous cell carcinoma, estimated at approximately 3% lifetime risk in adults with long-standing disease."
+    }
+  ]
+}

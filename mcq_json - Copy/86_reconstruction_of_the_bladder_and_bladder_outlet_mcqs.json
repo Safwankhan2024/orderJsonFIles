@@ -1,0 +1,127 @@
+{
+  "disease": "Reconstruction of the Bladder and Bladder Outlet",
+  "mcqs": [
+    {
+      "question": "A newborn male presents with an exposed bladder plate on the lower abdomen. Which of the following best describes this condition?",
+      "options": {
+        "A": "A spectrum of congenital malformations due to midline closure failure of abdominal wall structures",
+        "B": "An acquired inflammatory condition of the bladder mucosa",
+        "C": "A renal disorder causing secondary bladder changes",
+        "D": "A neurological condition affecting bladder innervation"
+      },
+      "correct_answer": "A",
+      "explanation": "Bladder Exstrophy-Epispadias Complex is defined as a spectrum of congenital malformations characterized by a failure of the abdominal wall and underlying structures to close in the midline, resulting in an open bladder plate exposed on the lower abdomen."
+    },
+    {
+      "question": "What is believed to be the etiology of Bladder Exstrophy-Epispadias Complex?",
+      "options": {
+        "A": "A failure of the cloacal membrane to be reinforced by mesoderm during gestation",
+        "B": "A genetic mutation inherited in an autosomal dominant pattern",
+        "C": "A viral infection during pregnancy",
+        "D": "Trauma during delivery"
+      },
+      "correct_answer": "A",
+      "explanation": "The exact cause is unknown but is believed to be a failure of the cloacal membrane to be reinforced by mesoderm during the 4th to 10th week of gestation, leading to its premature rupture."
+    },
+    {
+      "question": "What happens to the exposed bladder mucosa in untreated Bladder Exstrophy-Epispadias Complex?",
+      "options": {
+        "A": "It becomes chronically inflamed, fibrotic, and polypoid",
+        "B": "It heals spontaneously over time",
+        "C": "It secretes excessive mucus",
+        "D": "It calcifies and hardens"
+      },
+      "correct_answer": "A",
+      "explanation": "The exposed bladder mucosa becomes chronically inflamed, fibrotic, and polypoid in Bladder Exstrophy-Epispadias Complex."
+    },
+    {
+      "question": "A 3-month-old male with bladder exstrophy-epispadias complex is being evaluated. Which of the following associated conditions is most likely to be present?",
+      "options": {
+        "A": "Inguinal hernia",
+        "B": "Hypospadias",
+        "C": "Renal agenesis",
+        "D": "Neurogenic bladder"
+      },
+      "correct_answer": "A",
+      "explanation": "Inguinal hernias occur in >80% of males with Bladder Exstrophy-Epispadias Complex due to wide inguinal rings and lack of obliquity of the inguinal canal."
+    },
+    {
+      "question": "What is the primary goal of the initial bladder closure in Bladder Exstrophy-Epispadias Complex?",
+      "options": {
+        "A": "Secure closure of the abdominal wall and bladder without tension",
+        "B": "Achieve urinary continence immediately",
+        "C": "Correct vesicoureteral reflux",
+        "D": "Reconstruct the genitalia"
+      },
+      "correct_answer": "A",
+      "explanation": "The goal of primary bladder closure is to secure closure of the abdominal wall and bladder without tension."
+    },
+    {
+      "question": "What is the success rate for initial bladder closure in Bladder Exstrophy-Epispadias Complex when performed with osteotomy at a high-volume center?",
+      "options": {
+        "A": ">90%",
+        "B": "50%",
+        "C": "70%",
+        "D": "<50%"
+      },
+      "correct_answer": "A",
+      "explanation": "When performed at a high-volume center with osteotomy, the success rate for initial closure is >90%."
+    },
+    {
+      "question": "What preoperative bladder capacity is a significant predictor of success for bladder neck reconstruction in Bladder Exstrophy-Epispadias Complex?",
+      "options": {
+        "A": ">85 mL",
+        "B": ">50 mL",
+        "C": ">100 mL",
+        "D": "<85 mL"
+      },
+      "correct_answer": "A",
+      "explanation": "A significant predictor of success for bladder neck reconstruction is a preoperative bladder capacity of >85 mL."
+    },
+    {
+      "question": "What is the definition of Posterior Urethral Valves (PUV)?",
+      "options": {
+        "A": "A congenital obstructive membrane in the posterior male urethra causing bladder outlet obstruction",
+        "B": "An acquired stricture from infection",
+        "C": "A inflammatory polyp in the bladder",
+        "D": "A traumatic injury to the urethra"
+      },
+      "correct_answer": "A",
+      "explanation": "Posterior Urethral Valves is defined as a congenital obstructive membrane in the posterior male urethra (verumontanum) causing varying degrees of bladder outlet obstruction."
+    },
+    {
+      "question": "What effect do Posterior Urethral Valves have on the bladder?",
+      "options": {
+        "A": "Cause a thick-walled, hypertrophied bladder with poor compliance",
+        "B": "Lead to bladder atrophy and shrinkage",
+        "C": "Result in a normal bladder appearance",
+        "D": "Cause bladder exstrophy"
+      },
+      "correct_answer": "A",
+      "explanation": "Posterior Urethral Valves cause elevated voiding pressures, leading to a thick-walled, hypertrophied bladder with poor compliance (valve bladder syndrome)."
+    },
+    {
+      "question": "What is the success rate of endoscopic valve ablation as the primary treatment for Posterior Urethral Valves?",
+      "options": {
+        "A": ">90%",
+        "B": "50%",
+        "C": "70%",
+        "D": "<50%"
+      },
+      "correct_answer": "A",
+      "explanation": "Endoscopic valve ablation is definitive treatment in >90% of cases of Posterior Urethral Valves."
+    },
+    {
+      "question": "What is essential for bladder emptying after augmentation cystoplasty or outlet procedures in Posterior Urethral Valves?",
+      "options": {
+        "A": "Clean intermittent catheterization",
+        "B": "Continuous antibiotic prophylaxis",
+        "C": "Regular dialysis",
+        "D": "No specific intervention"
+      },
+      "correct_answer": "A",
+      "explanation": "Clean intermittent catheterization is essential for bladder emptying after augmentation or outlet procedures in Posterior Urethral Valves."
+    }
+    
+  ]
+}
