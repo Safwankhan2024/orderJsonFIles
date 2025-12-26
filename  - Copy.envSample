@@ -1,4 +1,0 @@
-# .env file
-OPENAI_API_KEY=sk-proj-rVJYA-random
-DEEPSEEK_API_KEY=sk-fcc83d18163249ed93eec22c5443cd31
-DEBUG=True
